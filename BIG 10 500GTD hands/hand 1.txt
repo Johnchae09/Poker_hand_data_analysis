@@ -1,0 +1,44 @@
+Game Hand #1851846692 - Tournament #30459245 - Holdem(No Limit) - Level 10 (600.00/1200.00)- 2023/09/08 17:33:51 UTC
+Table '28' 8-max Seat #7 is the button
+Seat 1: Barraccudda (26150.00)
+Seat 2: MikeWazowski77 (15922.00)
+Seat 3: TytusB (94282.00)
+Seat 4: emikshacr (63592.00)
+Seat 5: kot1k (44408.00)
+Seat 6: JohnChae0929 (35000.00)
+Seat 7: mooraisjoao (17171.00)
+Seat 8: deathloyd1 (226727.00)
+Barraccudda posts ante 150.00
+MikeWazowski77 posts ante 150.00
+TytusB posts ante 150.00
+emikshacr posts ante 150.00
+kot1k posts ante 150.00
+JohnChae0929 posts ante 150.00
+mooraisjoao posts ante 150.00
+deathloyd1 posts ante 150.00
+deathloyd1 posts the small blind 600.00
+Barraccudda posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to JohnChae0929 [3d Tc]
+MikeWazowski77 folds
+TytusB folds
+emikshacr folds
+kot1k folds
+JohnChae0929 folds
+mooraisjoao raises 2400.00 to 2400.00
+deathloyd1 folds
+Barraccudda folds
+Uncalled bet (1200.00) returned to mooraisjoao
+mooraisjoao does not show
+*** SUMMARY ***
+Total pot 4200.00
+Seat 1: Barraccudda (big blind) folded on the Pre-Flop
+Seat 2: MikeWazowski77 folded on the Pre-Flop and did not bet
+Seat 3: TytusB folded on the Pre-Flop and did not bet
+Seat 4: emikshacr folded on the Pre-Flop and did not bet
+Seat 5: kot1k folded on the Pre-Flop and did not bet
+Seat 6: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 7: mooraisjoao did not show and won 4200.00
+Seat 8: deathloyd1 (small blind) folded on the Pre-Flop
+
