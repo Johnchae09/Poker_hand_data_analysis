@@ -1,0 +1,44 @@
+Game Hand #1852178145 - Tournament #30459245 - Holdem(No Limit) - Level 34 (40000.00/80000.00)- 2023/09/08 22:29:22 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 1: ERamires21 (4836606.00)
+Seat 2: JohnChae0929 (1158946.00)
+Seat 3: almenmx (1170140.00)
+Seat 4: FaelCosta (4341986.00)
+Seat 5: vardja (1048064.00)
+Seat 6: Sorin6 (2131706.00)
+Seat 7: pennywise1818 (2260600.00)
+Seat 8: Napoleon6996 (4156952.00)
+ERamires21 posts ante 10000.00
+JohnChae0929 posts ante 10000.00
+almenmx posts ante 10000.00
+FaelCosta posts ante 10000.00
+vardja posts ante 10000.00
+Sorin6 posts ante 10000.00
+pennywise1818 posts ante 10000.00
+Napoleon6996 posts ante 10000.00
+almenmx posts the small blind 40000.00
+FaelCosta posts the big blind 80000.00
+*** HOLE CARDS ***
+Main pot 80000.00
+Dealt to JohnChae0929 [Kh 3c]
+vardja folds
+Sorin6 folds
+pennywise1818 folds
+Napoleon6996 raises 200000.00 to 200000.00
+ERamires21 folds
+JohnChae0929 folds
+almenmx folds
+FaelCosta folds
+Uncalled bet (120000.00) returned to Napoleon6996
+Napoleon6996 does not show
+*** SUMMARY ***
+Total pot 280000.00
+Seat 1: ERamires21 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 3: almenmx (small blind) folded on the Pre-Flop
+Seat 4: FaelCosta (big blind) folded on the Pre-Flop
+Seat 5: vardja folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: Napoleon6996 did not show and won 280000.00
+

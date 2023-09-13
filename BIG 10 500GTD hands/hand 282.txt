@@ -1,0 +1,54 @@
+Game Hand #1852172885 - Tournament #30459245 - Holdem(No Limit) - Level 33 (35000.00/70000.00)- 2023/09/08 22:25:43 UTC
+Table '59' 8-max Seat #6 is the button
+Seat 1: ERamires21 (4775356.00)
+Seat 2: JohnChae0929 (1317696.00)
+Seat 3: almenmx (1488890.00)
+Seat 4: FaelCosta (3800736.00)
+Seat 5: vardja (495282.00)
+Seat 6: Sorin6 (2170456.00)
+Seat 7: pennywise1818 (2334350.00)
+Seat 8: Napoleon6996 (4722234.00)
+ERamires21 posts ante 8750.00
+JohnChae0929 posts ante 8750.00
+almenmx posts ante 8750.00
+FaelCosta posts ante 8750.00
+vardja posts ante 8750.00
+Sorin6 posts ante 8750.00
+pennywise1818 posts ante 8750.00
+Napoleon6996 posts ante 8750.00
+pennywise1818 posts the small blind 35000.00
+Napoleon6996 posts the big blind 70000.00
+*** HOLE CARDS ***
+Main pot 70000.00
+Dealt to JohnChae0929 [2d Kh]
+ERamires21 folds
+JohnChae0929 folds
+almenmx folds
+FaelCosta folds
+vardja raises 486532.00 to 486532.00 and is all-in
+Sorin6 folds
+pennywise1818 folds
+Napoleon6996 calls 416532.00
+*** FLOP *** [Ts 5d 5h]
+Main pot 1078064.00
+*** TURN *** [Ts 5d 5h] [5c]
+Main pot 1078064.00
+*** RIVER *** [Ts 5d 5h 5c] [Qc]
+Main pot 1078064.00
+*** SHOW DOWN ***
+Main pot 1078064.00
+vardja shows [As Qs] (a full house, Fives full of Queens [5h 5d 5c Qs Qc])
+Napoleon6996 shows [Jh 2s] (three of a kind, Set of Fives [5h 5d 5c Qc Jh])
+vardja collected 1078064.00 from main pot
+*** SUMMARY ***
+Total pot 1078064.00
+Board [Ts 5d 5h 5c Qc]
+Seat 1: ERamires21 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 5: vardja showed [As Qs] and won 1078064.00 with a full house, Fives full of Queens [5h 5d 5c Qs Qc]
+Seat 6: Sorin6 (button) folded on the Pre-Flop
+Seat 7: pennywise1818 (small blind) folded on the Pre-Flop
+Seat 8: Napoleon6996 (big blind) showed [Jh 2s] and lost with three of a kind, Set of Fives [5h 5d 5c Qc Jh]
+

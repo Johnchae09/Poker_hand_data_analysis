@@ -1,0 +1,55 @@
+Game Hand #1852189418 - Tournament #30459245 - Holdem(No Limit) - Level 35 (50000.00/100000.00)- 2023/09/08 22:37:23 UTC
+Table '59' 8-max Seat #6 is the button
+Seat 1: ERamires21 (1237060.00)
+Seat 2: JohnChae0929 (5300784.00)
+Seat 3: almenmx (1132640.00)
+Seat 4: FaelCosta (5345050.00)
+Seat 6: Sorin6 (1746706.00)
+Seat 7: pennywise1818 (2110808.00)
+Seat 8: Napoleon6996 (4231952.00)
+ERamires21 posts ante 12500.00
+JohnChae0929 posts ante 12500.00
+almenmx posts ante 12500.00
+FaelCosta posts ante 12500.00
+Sorin6 posts ante 12500.00
+pennywise1818 posts ante 12500.00
+Napoleon6996 posts ante 12500.00
+pennywise1818 posts the small blind 50000.00
+Napoleon6996 posts the big blind 100000.00
+*** HOLE CARDS ***
+Main pot 87500.00
+Dealt to JohnChae0929 [4h Ts]
+ERamires21 folds
+JohnChae0929 folds
+almenmx folds
+FaelCosta raises 250000.00 to 250000.00
+Sorin6 folds
+pennywise1818 folds
+Napoleon6996 calls 150000.00
+*** FLOP *** [6s As 7h]
+Main pot 637500.00
+Napoleon6996 bets 370750.00
+FaelCosta calls 370750.00
+*** TURN *** [6s As 7h] [9s]
+Main pot 1379000.00
+Napoleon6996 checks
+FaelCosta bets 344750.00
+Napoleon6996 calls 344750.00
+*** RIVER *** [6s As 7h 9s] [6d]
+Main pot 2068500.00
+Napoleon6996 bets 620550.00
+FaelCosta raises 2425350.00 to 2425350.00
+Napoleon6996 folds
+Uncalled bet (1804800.00) returned to FaelCosta
+FaelCosta shows [9c 9h]
+*** SUMMARY ***
+Total pot 3309600.00
+Board [6s As 7h 9s 6d]
+Seat 1: ERamires21 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta showed [9c 9h] and won 3309600.00
+Seat 6: Sorin6 (button) folded on the Pre-Flop
+Seat 7: pennywise1818 (small blind) folded on the Pre-Flop
+Seat 8: Napoleon6996 (big blind) folded on the River
+

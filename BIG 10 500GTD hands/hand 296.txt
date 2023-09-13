@@ -1,0 +1,51 @@
+Game Hand #1852188560 - Tournament #30459245 - Holdem(No Limit) - Level 35 (50000.00/100000.00)- 2023/09/08 22:36:47 UTC
+Table '59' 8-max Seat #4 is the button
+Seat 1: ERamires21 (2236214.00)
+Seat 2: JohnChae0929 (5313284.00)
+Seat 3: almenmx (1145140.00)
+Seat 4: FaelCosta (5357550.00)
+Seat 6: Sorin6 (1809206.00)
+Seat 7: pennywise1818 (999154.00)
+Seat 8: Napoleon6996 (4244452.00)
+ERamires21 posts ante 12500.00
+JohnChae0929 posts ante 12500.00
+almenmx posts ante 12500.00
+FaelCosta posts ante 12500.00
+Sorin6 posts ante 12500.00
+pennywise1818 posts ante 12500.00
+Napoleon6996 posts ante 12500.00
+Sorin6 posts the small blind 50000.00
+pennywise1818 posts the big blind 100000.00
+*** HOLE CARDS ***
+Main pot 87500.00
+Dealt to JohnChae0929 [2s 4s]
+Napoleon6996 folds
+ERamires21 raises 200000.00 to 200000.00
+JohnChae0929 folds
+almenmx folds
+FaelCosta folds
+Sorin6 folds
+pennywise1818 raises 886654.00 to 986654.00 and is all-in
+ERamires21 calls 786654.00
+*** FLOP *** [8c 5h 4h]
+Main pot 2110808.00
+*** TURN *** [8c 5h 4h] [Tc]
+Main pot 2110808.00
+*** RIVER *** [8c 5h 4h Tc] [Ah]
+Main pot 2110808.00
+*** SHOW DOWN ***
+Main pot 2110808.00
+ERamires21 shows [Qd Jd] (a high card, Ace high [Ah Qd Jd Tc 8c])
+pennywise1818 shows [As 2h] (a pair of Aces [As Ah Tc 8c 5h])
+pennywise1818 collected 2110808.00 from main pot
+*** SUMMARY ***
+Total pot 2110808.00
+Board [8c 5h 4h Tc Ah]
+Seat 1: ERamires21 showed [Qd Jd] and lost with a high card, Ace high [Ah Qd Jd Tc 8c]
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta (button) folded on the Pre-Flop
+Seat 6: Sorin6 (small blind) folded on the Pre-Flop
+Seat 7: pennywise1818 (big blind) showed [As 2h] and won 2110808.00 with a pair of Aces [As Ah Tc 8c 5h]
+Seat 8: Napoleon6996 folded on the Pre-Flop and did not bet
+

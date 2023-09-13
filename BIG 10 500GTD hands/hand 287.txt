@@ -1,0 +1,55 @@
+Game Hand #1852178748 - Tournament #30459245 - Holdem(No Limit) - Level 34 (40000.00/80000.00)- 2023/09/08 22:29:47 UTC
+Table '59' 8-max Seat #3 is the button
+Seat 1: ERamires21 (4826606.00)
+Seat 2: JohnChae0929 (1148946.00)
+Seat 3: almenmx (1120140.00)
+Seat 4: FaelCosta (4251986.00)
+Seat 5: vardja (1038064.00)
+Seat 6: Sorin6 (2121706.00)
+Seat 7: pennywise1818 (2250600.00)
+Seat 8: Napoleon6996 (4346952.00)
+ERamires21 posts ante 10000.00
+JohnChae0929 posts ante 10000.00
+almenmx posts ante 10000.00
+FaelCosta posts ante 10000.00
+vardja posts ante 10000.00
+Sorin6 posts ante 10000.00
+pennywise1818 posts ante 10000.00
+Napoleon6996 posts ante 10000.00
+FaelCosta posts the small blind 40000.00
+vardja posts the big blind 80000.00
+*** HOLE CARDS ***
+Main pot 80000.00
+Dealt to JohnChae0929 [Js 7h]
+Sorin6 folds
+pennywise1818 folds
+Napoleon6996 folds
+ERamires21 folds
+JohnChae0929 folds
+almenmx folds
+FaelCosta raises 4201986.00 to 4241986.00 and is all-in
+vardja calls 948064.00 and is all-in
+Uncalled bet (3213922.00) returned to FaelCosta
+*** FLOP *** [8c 8d Ts]
+Main pot 2136128.00
+*** TURN *** [8c 8d Ts] [6h]
+Main pot 2136128.00
+*** RIVER *** [8c 8d Ts 6h] [4d]
+Main pot 2136128.00
+*** SHOW DOWN ***
+Main pot 2136128.00
+FaelCosta shows [9h Ac] (a pair of Eights [8d 8c Ac Ts 9h])
+vardja shows [Ad 3c] (a pair of Eights [8d 8c Ad Ts 6h])
+FaelCosta collected 2136128.00 from main pot
+*** SUMMARY ***
+Total pot 2136128.00
+Board [8c 8d Ts 6h 4d]
+Seat 1: ERamires21 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx (button) folded on the Pre-Flop
+Seat 4: FaelCosta (small blind) showed [9h Ac] and won 2136128.00 with a pair of Eights [8d 8c Ac Ts 9h] with the kicker Nine
+Seat 5: vardja (big blind) showed [Ad 3c] and lost with a pair of Eights [8d 8c Ad Ts 6h]
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: Napoleon6996 folded on the Pre-Flop and did not bet
+

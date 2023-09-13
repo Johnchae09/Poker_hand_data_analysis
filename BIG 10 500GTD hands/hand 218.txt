@@ -1,0 +1,62 @@
+Game Hand #1852108006 - Tournament #30459245 - Holdem(No Limit) - Level 29 (17500.00/35000.00)- 2023/09/08 21:31:42 UTC
+Table '59' 8-max Seat #3 is the button
+Seat 1: Safr0nOF (2440727.00)
+Seat 2: JohnChae0929 (915359.00)
+Seat 3: Napoleon6996 (1351933.00)
+Seat 4: FaelCosta (793898.00)
+Seat 5: Kirrrysha (714324.00)
+Seat 6: BISHUACES (202412.00)
+Seat 7: pennywise1818 (2585370.00)
+Seat 8: K1L0 (421385.00)
+Safr0nOF posts ante 4500.00
+JohnChae0929 posts ante 4500.00
+Napoleon6996 posts ante 4500.00
+FaelCosta posts ante 4500.00
+Kirrrysha posts ante 4500.00
+BISHUACES posts ante 4500.00
+pennywise1818 posts ante 4500.00
+K1L0 posts ante 4500.00
+FaelCosta posts the small blind 17500.00
+Kirrrysha posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to JohnChae0929 [8d 9d]
+BISHUACES folds
+pennywise1818 folds
+K1L0 folds
+Safr0nOF folds
+JohnChae0929 raises 70000.00 to 70000.00
+Napoleon6996 folds
+FaelCosta folds
+Kirrrysha calls 35000.00
+*** FLOP *** [4d Qs 7d]
+Main pot 193500.00
+Kirrrysha checks
+JohnChae0929 bets 63855.00
+Kirrrysha calls 63855.00
+*** TURN *** [4d Qs 7d] [Ac]
+Main pot 321210.00
+Kirrrysha checks
+JohnChae0929 checks
+*** RIVER *** [4d Qs 7d Ac] [Th]
+Main pot 321210.00
+Kirrrysha checks
+JohnChae0929 bets 105999.00
+Kirrrysha calls 105999.00
+*** SHOW DOWN ***
+Main pot 533208.00
+JohnChae0929 shows [8d 9d] (a high card, Ace high [Ac Qs Th 9d 8d])
+Kirrrysha shows [9c Qd] (a pair of Queens [Qs Qd Ac Th 9c])
+Kirrrysha collected 533208.00 from main pot
+*** SUMMARY ***
+Total pot 533208.00
+Board [4d Qs 7d Ac Th]
+Seat 1: Safr0nOF folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 showed [8d 9d] and lost with a high card, Ace high [Ac Qs Th 9d 8d]
+Seat 3: Napoleon6996 (button) folded on the Pre-Flop
+Seat 4: FaelCosta (small blind) folded on the Pre-Flop
+Seat 5: Kirrrysha (big blind) showed [9c Qd] and won 533208.00 with a pair of Queens [Qs Qd Ac Th 9c]
+Seat 6: BISHUACES folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: K1L0 folded on the Pre-Flop and did not bet
+

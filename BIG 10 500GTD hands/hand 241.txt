@@ -1,0 +1,57 @@
+Game Hand #1852132145 - Tournament #30459245 - Holdem(No Limit) - Level 31 (25000.00/50000.00)- 2023/09/08 21:51:16 UTC
+Table '59' 8-max Seat #7 is the button
+Seat 1: Safr0nOF (1016167.00)
+Seat 2: JohnChae0929 (1025505.00)
+Seat 3: almenmx (666246.00)
+Seat 4: FaelCosta (2358620.00)
+Seat 5: Kirrrysha (769148.00)
+Seat 6: Sorin6 (2674543.00)
+Seat 7: pennywise1818 (2316265.00)
+Seat 8: K1L0 (380270.00)
+Safr0nOF posts ante 6000.00
+JohnChae0929 posts ante 6000.00
+almenmx posts ante 6000.00
+FaelCosta posts ante 6000.00
+Kirrrysha posts ante 6000.00
+Sorin6 posts ante 6000.00
+pennywise1818 posts ante 6000.00
+K1L0 posts ante 6000.00
+K1L0 posts the small blind 25000.00
+Safr0nOF posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 48000.00
+Dealt to JohnChae0929 [4c Qc]
+JohnChae0929 folds
+almenmx raises 100000.00 to 100000.00
+FaelCosta folds
+Kirrrysha folds
+Sorin6 folds
+pennywise1818 folds
+K1L0 folds
+Safr0nOF calls 50000.00
+*** FLOP *** [Jc 9h 2h]
+Main pot 273000.00
+Safr0nOF checks
+almenmx bets 560246.00 and is all-in
+Safr0nOF calls 560246.00
+*** TURN *** [Jc 9h 2h] [Ah]
+Main pot 1393492.00
+*** RIVER *** [Jc 9h 2h Ah] [Qs]
+Main pot 1393492.00
+*** SHOW DOWN ***
+Main pot 1393492.00
+Safr0nOF shows [9d Jd] (two pair, Jacks and Nines [Jd Jc 9h 9d Ah])
+almenmx shows [5h 3h] (a flush, Ace high [Ah 9h 5h 3h 2h])
+almenmx collected 1393492.00 from main pot
+*** SUMMARY ***
+Total pot 1393492.00
+Board [Jc 9h 2h Ah Qs]
+Seat 1: Safr0nOF (big blind) showed [9d Jd] and lost with two pair, Jacks and Nines [Jd Jc 9h 9d Ah]
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx showed [5h 3h] and won 1393492.00 with a flush, Ace high [Ah 9h 5h 3h 2h]
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 5: Kirrrysha folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 (button) folded on the Pre-Flop
+Seat 8: K1L0 (small blind) folded on the Pre-Flop
+

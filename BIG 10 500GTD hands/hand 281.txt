@@ -1,0 +1,61 @@
+Game Hand #1852171725 - Tournament #30459245 - Holdem(No Limit) - Level 33 (35000.00/70000.00)- 2023/09/08 22:24:55 UTC
+Table '59' 8-max Seat #5 is the button
+Seat 1: ERamires21 (2308928.00)
+Seat 2: JohnChae0929 (1326446.00)
+Seat 3: almenmx (1497640.00)
+Seat 4: FaelCosta (6109664.00)
+Seat 5: vardja (504032.00)
+Seat 6: Sorin6 (2214206.00)
+Seat 7: pennywise1818 (2413100.00)
+Seat 8: Napoleon6996 (4730984.00)
+ERamires21 posts ante 8750.00
+JohnChae0929 posts ante 8750.00
+almenmx posts ante 8750.00
+FaelCosta posts ante 8750.00
+vardja posts ante 8750.00
+Sorin6 posts ante 8750.00
+pennywise1818 posts ante 8750.00
+Napoleon6996 posts ante 8750.00
+Sorin6 posts the small blind 35000.00
+pennywise1818 posts the big blind 70000.00
+*** HOLE CARDS ***
+Main pot 70000.00
+Dealt to JohnChae0929 [3s Ts]
+Napoleon6996 folds
+ERamires21 raises 140000.00 to 140000.00
+JohnChae0929 folds
+almenmx folds
+FaelCosta raises 516250.00 to 516250.00
+vardja folds
+Sorin6 folds
+pennywise1818 folds
+ERamires21 calls 376250.00
+*** FLOP *** [6s 2d 7d]
+Main pot 1207500.00
+ERamires21 checks
+FaelCosta checks
+*** TURN *** [6s 2d 7d] [8s]
+Main pot 1207500.00
+ERamires21 bets 905625.00
+FaelCosta raises 5584664.00 to 5584664.00 and is all-in
+ERamires21 calls 878303.00 and is all-in
+Uncalled bet (3800736.00) returned to FaelCosta
+*** RIVER *** [6s 2d 7d 8s] [4d]
+Main pot 4775356.00
+*** SHOW DOWN ***
+Main pot 4775356.00
+ERamires21 shows [7s 7c] (three of a kind, Set of Sevens [7s 7d 7c 8s 6s])
+FaelCosta shows [Ks Kd] (a pair of Kings [Ks Kd 8s 7d 6s])
+ERamires21 collected 4775356.00 from main pot
+*** SUMMARY ***
+Total pot 4775356.00
+Board [6s 2d 7d 8s 4d]
+Seat 1: ERamires21 showed [7s 7c] and won 4775356.00 with three of a kind, Set of Sevens [7s 7d 7c 8s 6s]
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta showed [Ks Kd] and lost with a pair of Kings [Ks Kd 8s 7d 6s]
+Seat 5: vardja (button) folded on the Pre-Flop
+Seat 6: Sorin6 (small blind) folded on the Pre-Flop
+Seat 7: pennywise1818 (big blind) folded on the Pre-Flop
+Seat 8: Napoleon6996 folded on the Pre-Flop and did not bet
+

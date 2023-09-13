@@ -1,0 +1,56 @@
+Game Hand #1852167348 - Tournament #30459245 - Holdem(No Limit) - Level 33 (35000.00/70000.00)- 2023/09/08 22:21:40 UTC
+Table '59' 8-max Seat #7 is the button
+Seat 1: ERamires21 will be allowed to play after the button
+Seat 2: JohnChae0929 (1536446.00)
+Seat 3: almenmx (1322640.00)
+Seat 4: FaelCosta (6374352.00)
+Seat 5: vardja (644032.00)
+Seat 6: Sorin6 (1089603.00)
+Seat 7: pennywise1818 (3045515.00)
+Seat 8: Napoleon6996 will be allowed to play after the button
+JohnChae0929 posts ante 8750.00
+almenmx posts ante 8750.00
+FaelCosta posts ante 8750.00
+vardja posts ante 8750.00
+Sorin6 posts ante 8750.00
+pennywise1818 posts ante 8750.00
+JohnChae0929 posts the small blind 35000.00
+almenmx posts the big blind 70000.00
+*** HOLE CARDS ***
+Main pot 52500.00
+Dealt to JohnChae0929 [3d 8d]
+FaelCosta raises 175000.00 to 175000.00
+vardja folds
+Sorin6 folds
+pennywise1818 raises 434000.00 to 434000.00
+JohnChae0929 folds
+almenmx folds
+FaelCosta calls 259000.00
+*** FLOP *** [Td Js 5d]
+Main pot 1025500.00
+FaelCosta checks
+pennywise1818 bets 338415.00
+FaelCosta calls 338415.00
+*** TURN *** [Td Js 5d] [Tc]
+Main pot 1702330.00
+FaelCosta checks
+pennywise1818 checks
+*** RIVER *** [Td Js 5d Tc] [Kh]
+Main pot 1702330.00
+FaelCosta checks
+pennywise1818 checks
+*** SHOW DOWN ***
+Main pot 1702330.00
+FaelCosta shows [Ad Jh] (two pair, Jacks and Tens [Js Jh Td Tc Ad])
+pennywise1818 shows [4c Ac] (a pair of Tens [Td Tc Ac Kh Js])
+FaelCosta collected 1702330.00 from main pot
+*** SUMMARY ***
+Total pot 1702330.00
+Board [Td Js 5d Tc Kh]
+Seat 2: JohnChae0929 (small blind) folded on the Pre-Flop
+Seat 3: almenmx (big blind) folded on the Pre-Flop
+Seat 4: FaelCosta showed [Ad Jh] and won 1702330.00 with two pair, Jacks and Tens [Js Jh Td Tc Ad]
+Seat 5: vardja folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 (button) showed [4c Ac] and lost with a pair of Tens [Td Tc Ac Kh Js]
+

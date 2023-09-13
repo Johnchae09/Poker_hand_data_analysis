@@ -1,0 +1,56 @@
+Game Hand #1852133109 - Tournament #30459245 - Holdem(No Limit) - Level 31 (25000.00/50000.00)- 2023/09/08 21:52:06 UTC
+Table '59' 8-max Seat #8 is the button
+Seat 1: Safr0nOF (349921.00)
+Seat 2: JohnChae0929 (1019505.00)
+Seat 3: almenmx (1393492.00)
+Seat 4: FaelCosta (2352620.00)
+Seat 5: Kirrrysha (763148.00)
+Seat 6: Sorin6 (2668543.00)
+Seat 7: pennywise1818 (2310265.00)
+Seat 8: K1L0 (349270.00)
+Safr0nOF posts ante 6000.00
+JohnChae0929 posts ante 6000.00
+almenmx posts ante 6000.00
+FaelCosta posts ante 6000.00
+Kirrrysha posts ante 6000.00
+Sorin6 posts ante 6000.00
+pennywise1818 posts ante 6000.00
+K1L0 posts ante 6000.00
+Safr0nOF posts the small blind 25000.00
+JohnChae0929 posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 48000.00
+Dealt to JohnChae0929 [Qc Ks]
+almenmx folds
+FaelCosta folds
+Kirrrysha folds
+Sorin6 folds
+pennywise1818 folds
+K1L0 calls 50000.00
+Safr0nOF raises 318921.00 to 343921.00 and is all-in
+JohnChae0929 raises 963505.00 to 1013505.00 and is all-in
+K1L0 folds
+Uncalled bet (669584.00) returned to JohnChae0929
+*** FLOP *** [Tc 7s Kc]
+Main pot 785842.00
+*** TURN *** [Tc 7s Kc] [8c]
+Main pot 785842.00
+*** RIVER *** [Tc 7s Kc 8c] [Ts]
+Main pot 785842.00
+*** SHOW DOWN ***
+Main pot 785842.00
+Safr0nOF shows [4c Kd] (two pair, Kings and Tens [Kd Kc Ts Tc 8c])
+JohnChae0929 shows [Qc Ks] (two pair, Kings and Tens [Ks Kc Ts Tc Qc])
+JohnChae0929 collected 785842.00 from main pot
+*** SUMMARY ***
+Total pot 785842.00
+Board [Tc 7s Kc 8c Ts]
+Seat 1: Safr0nOF (small blind) showed [4c Kd] and lost with two pair, Kings and Tens [Kd Kc Ts Tc 8c]
+Seat 2: JohnChae0929 (big blind) showed [Qc Ks] and won 785842.00 with two pair, Kings and Tens [Ks Kc Ts Tc Qc] with the kicker Queen
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 5: Kirrrysha folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: K1L0 (button) folded on the Pre-Flop
+

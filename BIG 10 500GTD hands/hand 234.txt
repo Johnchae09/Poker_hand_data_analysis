@@ -1,0 +1,36 @@
+Game Hand #1852125929 - Tournament #30459245 - Holdem(No Limit) - Level 30 (20000.00/40000.00)- 2023/09/08 21:46:11 UTC
+Table '59' 8-max Seat #5 is the button
+Seat 1: Safr0nOF (1572167.00)
+Seat 2: JohnChae0929 (1071505.00)
+Seat 4: FaelCosta (1724620.00)
+Seat 5: Kirrrysha (534148.00)
+Seat 7: pennywise1818 (2437265.00)
+Seat 8: K1L0 (526270.00)
+Safr0nOF posts ante 5000.00
+JohnChae0929 posts ante 5000.00
+FaelCosta posts ante 5000.00
+Kirrrysha posts ante 5000.00
+pennywise1818 posts ante 5000.00
+K1L0 posts ante 5000.00
+pennywise1818 posts the small blind 20000.00
+K1L0 posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 30000.00
+Dealt to JohnChae0929 [9s As]
+Safr0nOF folds
+JohnChae0929 raises 80000.00 to 80000.00
+FaelCosta folds
+Kirrrysha folds
+pennywise1818 folds
+K1L0 folds
+Uncalled bet (40000.00) returned to JohnChae0929
+JohnChae0929 does not show
+*** SUMMARY ***
+Total pot 130000.00
+Seat 1: Safr0nOF folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 did not show and won 130000.00
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 5: Kirrrysha (button) folded on the Pre-Flop
+Seat 7: pennywise1818 (small blind) folded on the Pre-Flop
+Seat 8: K1L0 (big blind) folded on the Pre-Flop
+

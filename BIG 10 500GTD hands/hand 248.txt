@@ -1,0 +1,49 @@
+Game Hand #1852141689 - Tournament #30459245 - Holdem(No Limit) - Level 31 (25000.00/50000.00)- 2023/09/08 22:02:13 UTC
+Table '59' 8-max Seat #6 is the button
+Seat 1: Fischapryce (1255680.00)
+Seat 2: JohnChae0929 (2021696.00)
+Seat 3: almenmx (2051640.00)
+Seat 4: FaelCosta (2252620.00)
+Seat 6: Sorin6 (2457543.00)
+Seat 7: pennywise1818 (2224265.00)
+Fischapryce posts ante 6000.00
+JohnChae0929 posts ante 6000.00
+almenmx posts ante 6000.00
+FaelCosta posts ante 6000.00
+Sorin6 posts ante 6000.00
+pennywise1818 posts ante 6000.00
+pennywise1818 posts the small blind 25000.00
+Fischapryce posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to JohnChae0929 [Kc 4c]
+JohnChae0929 folds
+almenmx folds
+FaelCosta folds
+Sorin6 raises 100000.00 to 100000.00
+pennywise1818 folds
+Fischapryce raises 180500.00 to 230500.00
+Sorin6 raises 2351543.00 to 2451543.00 and is all-in
+Fischapryce calls 1019180.00 and is all-in
+Uncalled bet (1201863.00) returned to Sorin6
+*** FLOP *** [8d 8h 4s]
+Main pot 2560360.00
+*** TURN *** [8d 8h 4s] [9d]
+Main pot 2560360.00
+*** RIVER *** [8d 8h 4s 9d] [Td]
+Main pot 2560360.00
+*** SHOW DOWN ***
+Main pot 2560360.00
+Fischapryce shows [Ah Jh] (a pair of Eights [8h 8d Ah Jh Td])
+Sorin6 shows [8c Qc] (three of a kind, Set of Eights [8h 8d 8c Qc Td])
+Sorin6 collected 2560360.00 from main pot
+*** SUMMARY ***
+Total pot 2560360.00
+Board [8d 8h 4s 9d Td]
+Seat 1: Fischapryce (big blind) showed [Ah Jh] and lost with a pair of Eights [8h 8d Ah Jh Td]
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 (button) showed [8c Qc] and won 2560360.00 with three of a kind, Set of Eights [8h 8d 8c Qc Td]
+Seat 7: pennywise1818 (small blind) folded on the Pre-Flop
+

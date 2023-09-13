@@ -1,0 +1,55 @@
+Game Hand #1852112683 - Tournament #30459245 - Holdem(No Limit) - Level 29 (17500.00/35000.00)- 2023/09/08 21:35:33 UTC
+Table '59' 8-max Seat #7 is the button
+Seat 1: Safr0nOF (2422727.00)
+Seat 2: JohnChae0929 (746005.00)
+Seat 3: Napoleon6996 (1510933.00)
+Seat 4: FaelCosta (758398.00)
+Seat 5: Kirrrysha (972178.00)
+Seat 6: BISHUACES (131912.00)
+Seat 7: pennywise1818 (2514870.00)
+Seat 8: K1L0 (368385.00)
+Safr0nOF posts ante 4500.00
+JohnChae0929 posts ante 4500.00
+Napoleon6996 posts ante 4500.00
+FaelCosta posts ante 4500.00
+Kirrrysha posts ante 4500.00
+BISHUACES posts ante 4500.00
+pennywise1818 posts ante 4500.00
+K1L0 posts ante 4500.00
+K1L0 posts the small blind 17500.00
+Safr0nOF posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to JohnChae0929 [Jh 7d]
+JohnChae0929 folds
+Napoleon6996 folds
+FaelCosta raises 87500.00 to 87500.00
+Kirrrysha folds
+BISHUACES raises 127412.00 to 127412.00 and is all-in
+pennywise1818 folds
+K1L0 folds
+Safr0nOF folds
+FaelCosta calls 39912.00
+*** FLOP *** [2s 8c 2d]
+Main pot 343324.00
+*** TURN *** [2s 8c 2d] [3s]
+Main pot 343324.00
+*** RIVER *** [2s 8c 2d 3s] [Jc]
+Main pot 343324.00
+*** SHOW DOWN ***
+Main pot 343324.00
+FaelCosta shows [Qc As] (a pair of Deuces [2s 2d As Qc Jc])
+BISHUACES shows [Ah 9c] (a pair of Deuces [2s 2d Ah Jc 9c])
+FaelCosta collected 343324.00 from main pot
+*** SUMMARY ***
+Total pot 343324.00
+Board [2s 8c 2d 3s Jc]
+Seat 1: Safr0nOF (big blind) folded on the Pre-Flop
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: Napoleon6996 folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta showed [Qc As] and won 343324.00 with a pair of Deuces [2s 2d As Qc Jc] with the kicker Queen
+Seat 5: Kirrrysha folded on the Pre-Flop and did not bet
+Seat 6: BISHUACES showed [Ah 9c] and lost with a pair of Deuces [2s 2d Ah Jc 9c]
+Seat 7: pennywise1818 (button) folded on the Pre-Flop
+Seat 8: K1L0 (small blind) folded on the Pre-Flop
+

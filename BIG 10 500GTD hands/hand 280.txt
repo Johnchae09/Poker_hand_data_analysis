@@ -1,0 +1,55 @@
+Game Hand #1852170844 - Tournament #30459245 - Holdem(No Limit) - Level 33 (35000.00/70000.00)- 2023/09/08 22:24:15 UTC
+Table '59' 8-max Seat #4 is the button
+Seat 1: ERamires21 (2317678.00)
+Seat 2: JohnChae0929 (1335196.00)
+Seat 3: almenmx (1506390.00)
+Seat 4: FaelCosta (7173017.00)
+Seat 5: vardja (547782.00)
+Seat 6: Sorin6 (1063353.00)
+Seat 7: pennywise1818 (2421850.00)
+Seat 8: Napoleon6996 (4739734.00)
+ERamires21 posts ante 8750.00
+JohnChae0929 posts ante 8750.00
+almenmx posts ante 8750.00
+FaelCosta posts ante 8750.00
+vardja posts ante 8750.00
+Sorin6 posts ante 8750.00
+pennywise1818 posts ante 8750.00
+Napoleon6996 posts ante 8750.00
+vardja posts the small blind 35000.00
+Sorin6 posts the big blind 70000.00
+*** HOLE CARDS ***
+Main pot 70000.00
+Dealt to JohnChae0929 [Ah 6c]
+pennywise1818 folds
+Napoleon6996 folds
+ERamires21 folds
+JohnChae0929 folds
+almenmx folds
+FaelCosta raises 175000.00 to 175000.00
+vardja folds
+Sorin6 raises 984603.00 to 1054603.00 and is all-in
+FaelCosta calls 879603.00
+*** FLOP *** [2s 3h 4h]
+Main pot 2214206.00
+*** TURN *** [2s 3h 4h] [6s]
+Main pot 2214206.00
+*** RIVER *** [2s 3h 4h 6s] [6d]
+Main pot 2214206.00
+*** SHOW DOWN ***
+Main pot 2214206.00
+FaelCosta shows [8h As] (a pair of Sixs [6s 6d As 8h 4h])
+Sorin6 shows [Ac 4c] (two pair, Sixs and Fours [6s 6d 4h 4c Ac])
+Sorin6 collected 2214206.00 from main pot
+*** SUMMARY ***
+Total pot 2214206.00
+Board [2s 3h 4h 6s 6d]
+Seat 1: ERamires21 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta (button) showed [8h As] and lost with a pair of Sixs [6s 6d As 8h 4h]
+Seat 5: vardja (small blind) folded on the Pre-Flop
+Seat 6: Sorin6 (big blind) showed [Ac 4c] and won 2214206.00 with two pair, Sixs and Fours [6s 6d 4h 4c Ac]
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: Napoleon6996 folded on the Pre-Flop and did not bet
+

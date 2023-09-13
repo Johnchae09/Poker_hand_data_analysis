@@ -1,0 +1,53 @@
+Game Hand #1852139874 - Tournament #30459245 - Holdem(No Limit) - Level 31 (25000.00/50000.00)- 2023/09/08 22:00:34 UTC
+Table '59' 8-max Seat #5 is the button
+Seat 1: Fischapryce (1261680.00)
+Seat 2: JohnChae0929 (2027696.00)
+Seat 3: almenmx (1288492.00)
+Seat 4: FaelCosta (2258620.00)
+Seat 5: Kirrrysha (658148.00)
+Seat 6: Sorin6 (2488543.00)
+Seat 7: pennywise1818 (2280265.00)
+Fischapryce posts ante 6000.00
+JohnChae0929 posts ante 6000.00
+almenmx posts ante 6000.00
+FaelCosta posts ante 6000.00
+Kirrrysha posts ante 6000.00
+Sorin6 posts ante 6000.00
+pennywise1818 posts ante 6000.00
+Sorin6 posts the small blind 25000.00
+pennywise1818 posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 42000.00
+Dealt to JohnChae0929 [2h 3c]
+Fischapryce folds
+JohnChae0929 folds
+almenmx raises 125000.00 to 125000.00
+FaelCosta folds
+Kirrrysha raises 627148.00 to 627148.00
+Sorin6 folds
+pennywise1818 folds
+almenmx raises 1157492.00 to 1282492.00 and is all-in
+Kirrrysha calls 25000.00 and is all-in
+Uncalled bet (630344.00) returned to almenmx
+*** FLOP *** [6c 5h 3d]
+Main pot 1421296.00
+*** TURN *** [6c 5h 3d] [7s]
+Main pot 1421296.00
+*** RIVER *** [6c 5h 3d 7s] [Th]
+Main pot 1421296.00
+*** SHOW DOWN ***
+Main pot 1421296.00
+almenmx shows [As 5c] (a pair of Fives [5h 5c As Th 7s])
+Kirrrysha shows [Ah Qd] (a high card, Ace high [Ah Qd Th 7s 6c])
+almenmx collected 1421296.00 from main pot
+*** SUMMARY ***
+Total pot 1421296.00
+Board [6c 5h 3d 7s Th]
+Seat 1: Fischapryce folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx showed [As 5c] and won 1421296.00 with a pair of Fives [5h 5c As Th 7s]
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 5: Kirrrysha (button) showed [Ah Qd] and lost with a high card, Ace high [Ah Qd Th 7s 6c]
+Seat 6: Sorin6 (small blind) folded on the Pre-Flop
+Seat 7: pennywise1818 (big blind) folded on the Pre-Flop
+

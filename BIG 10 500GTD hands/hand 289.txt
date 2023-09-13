@@ -1,0 +1,55 @@
+Game Hand #1852180999 - Tournament #30459245 - Holdem(No Limit) - Level 34 (40000.00/80000.00)- 2023/09/08 22:31:22 UTC
+Table '59' 8-max Seat #5 is the button
+Seat 1: ERamires21 (4806606.00)
+Seat 2: JohnChae0929 (1128946.00)
+Seat 3: almenmx (1100140.00)
+Seat 4: FaelCosta (5760050.00)
+Seat 6: Sorin6 (1751706.00)
+Seat 7: pennywise1818 (2230600.00)
+Seat 8: Napoleon6996 (4326952.00)
+ERamires21 posts ante 10000.00
+JohnChae0929 posts ante 10000.00
+almenmx posts ante 10000.00
+FaelCosta posts ante 10000.00
+Sorin6 posts ante 10000.00
+pennywise1818 posts ante 10000.00
+Napoleon6996 posts ante 10000.00
+Sorin6 posts the small blind 40000.00
+pennywise1818 posts the big blind 80000.00
+*** HOLE CARDS ***
+Main pot 70000.00
+Dealt to JohnChae0929 [Qd 9d]
+Napoleon6996 folds
+ERamires21 folds
+JohnChae0929 raises 160000.00 to 160000.00
+almenmx folds
+FaelCosta folds
+Sorin6 folds
+pennywise1818 calls 80000.00
+*** FLOP *** [9c Ks 7s]
+Main pot 430000.00
+pennywise1818 checks
+JohnChae0929 bets 128000.00
+pennywise1818 raises 354380.00 to 354380.00
+JohnChae0929 raises 830946.00 to 958946.00 and is all-in
+pennywise1818 calls 604566.00
+*** TURN *** [9c Ks 7s] [9s]
+Main pot 2347892.00
+*** RIVER *** [9c Ks 7s 9s] [4s]
+Main pot 2347892.00
+*** SHOW DOWN ***
+Main pot 2347892.00
+JohnChae0929 shows [Qd 9d] (three of a kind, Set of Nines [9s 9d 9c Ks Qd])
+pennywise1818 shows [Td 9h] (three of a kind, Set of Nines [9s 9h 9c Ks Td])
+JohnChae0929 collected 2347892.00 from main pot
+*** SUMMARY ***
+Total pot 2347892.00
+Board [9c Ks 7s 9s 4s]
+Seat 1: ERamires21 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 showed [Qd 9d] and won 2347892.00 with three of a kind, Set of Nines [9s 9d 9c Ks Qd] with the kicker Queen
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 (small blind) folded on the Pre-Flop
+Seat 7: pennywise1818 (big blind) showed [Td 9h] and lost with three of a kind, Set of Nines [9s 9h 9c Ks Td]
+Seat 8: Napoleon6996 folded on the Pre-Flop and did not bet
+

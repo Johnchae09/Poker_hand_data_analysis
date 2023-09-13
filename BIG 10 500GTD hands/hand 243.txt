@@ -1,0 +1,52 @@
+Game Hand #1852134280 - Tournament #30459245 - Holdem(No Limit) - Level 31 (25000.00/50000.00)- 2023/09/08 21:53:04 UTC
+Table '59' 8-max Seat #1 is the button
+Seat 2: JohnChae0929 (1455426.00)
+Seat 3: almenmx (1387492.00)
+Seat 4: FaelCosta (2346620.00)
+Seat 5: Kirrrysha (757148.00)
+Seat 6: Sorin6 (2662543.00)
+Seat 7: pennywise1818 (2304265.00)
+Seat 8: K1L0 (293270.00)
+JohnChae0929 posts ante 6000.00
+almenmx posts ante 6000.00
+FaelCosta posts ante 6000.00
+Kirrrysha posts ante 6000.00
+Sorin6 posts ante 6000.00
+pennywise1818 posts ante 6000.00
+K1L0 posts ante 6000.00
+JohnChae0929 posts the small blind 25000.00
+almenmx posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 42000.00
+Dealt to JohnChae0929 [Kh Kd]
+FaelCosta raises 100000.00 to 100000.00
+Kirrrysha folds
+Sorin6 folds
+pennywise1818 folds
+K1L0 raises 287270.00 to 287270.00 and is all-in
+JohnChae0929 raises 1424426.00 to 1449426.00 and is all-in
+almenmx folds
+FaelCosta folds
+Uncalled bet (1162156.00) returned to JohnChae0929
+*** FLOP *** [Qh Jc 4h]
+Main pot 766540.00
+*** TURN *** [Qh Jc 4h] [5c]
+Main pot 766540.00
+*** RIVER *** [Qh Jc 4h 5c] [9c]
+Main pot 766540.00
+*** SHOW DOWN ***
+Main pot 766540.00
+JohnChae0929 shows [Kh Kd] (a pair of Kings [Kh Kd Qh Jc 9c])
+K1L0 shows [Jh Ks] (a pair of Jacks [Jh Jc Ks Qh 9c])
+JohnChae0929 collected 766540.00 from main pot
+*** SUMMARY ***
+Total pot 766540.00
+Board [Qh Jc 4h 5c 9c]
+Seat 2: JohnChae0929 (small blind) showed [Kh Kd] and won 766540.00 with a pair of Kings [Kh Kd Qh Jc 9c]
+Seat 3: almenmx (big blind) folded on the Pre-Flop
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 5: Kirrrysha folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: K1L0 showed [Jh Ks] and lost with a pair of Jacks [Jh Jc Ks Qh 9c]
+

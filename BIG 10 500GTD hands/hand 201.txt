@@ -1,0 +1,36 @@
+Game Hand #1852090078 - Tournament #30459245 - Holdem(No Limit) - Level 27 (12500.00/25000.00)- 2023/09/08 21:17:01 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 1: Safr0nOF (2324852.00)
+Seat 2: JohnChae0929 (898109.00)
+Seat 3: Napoleon6996 (1983370.00)
+Seat 4: FaelCosta (959148.00)
+Seat 7: pennywise1818 (2040620.00)
+Seat 8: K1L0 (490260.00)
+Safr0nOF posts ante 3250.00
+JohnChae0929 posts ante 3250.00
+Napoleon6996 posts ante 3250.00
+FaelCosta posts ante 3250.00
+pennywise1818 posts ante 3250.00
+K1L0 posts ante 3250.00
+Napoleon6996 posts the small blind 12500.00
+FaelCosta posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 19500.00
+Dealt to JohnChae0929 [Jc 8c]
+pennywise1818 folds
+K1L0 folds
+Safr0nOF raises 66000.00 to 66000.00
+JohnChae0929 folds
+Napoleon6996 folds
+FaelCosta folds
+Uncalled bet (41000.00) returned to Safr0nOF
+Safr0nOF does not show
+*** SUMMARY ***
+Total pot 82000.00
+Seat 1: Safr0nOF did not show and won 82000.00
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 3: Napoleon6996 (small blind) folded on the Pre-Flop
+Seat 4: FaelCosta (big blind) folded on the Pre-Flop
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: K1L0 folded on the Pre-Flop and did not bet
+

@@ -1,0 +1,51 @@
+Game Hand #1852192190 - Tournament #30459245 - Holdem(No Limit) - Level 35 (50000.00/100000.00)- 2023/09/08 22:39:26 UTC
+Table '59' 8-max Seat #8 is the button
+Seat 1: ERamires21 (962060.00)
+Seat 2: JohnChae0929 (5275784.00)
+Seat 3: almenmx (1107640.00)
+Seat 4: FaelCosta (7431100.00)
+Seat 6: Sorin6 (1721706.00)
+Seat 7: pennywise1818 (2035808.00)
+Seat 8: Napoleon6996 (2570902.00)
+ERamires21 posts ante 12500.00
+JohnChae0929 posts ante 12500.00
+almenmx posts ante 12500.00
+FaelCosta posts ante 12500.00
+Sorin6 posts ante 12500.00
+pennywise1818 posts ante 12500.00
+Napoleon6996 posts ante 12500.00
+ERamires21 posts the small blind 50000.00
+JohnChae0929 posts the big blind 100000.00
+*** HOLE CARDS ***
+Main pot 87500.00
+Dealt to JohnChae0929 [5d 7s]
+almenmx folds
+FaelCosta folds
+Sorin6 folds
+pennywise1818 folds
+Napoleon6996 raises 250000.00 to 250000.00
+ERamires21 raises 899560.00 to 949560.00 and is all-in
+JohnChae0929 folds
+Napoleon6996 calls 699560.00
+*** FLOP *** [6d 6h Jh]
+Main pot 2086620.00
+*** TURN *** [6d 6h Jh] [4s]
+Main pot 2086620.00
+*** RIVER *** [6d 6h Jh 4s] [5s]
+Main pot 2086620.00
+*** SHOW DOWN ***
+Main pot 2086620.00
+ERamires21 shows [Jd Js] (a full house, Jacks full of Sixs [Js Jh Jd 6h 6d])
+Napoleon6996 shows [Ah Tc] (a pair of Sixs [6h 6d Ah Jh Tc])
+ERamires21 collected 2086620.00 from main pot
+*** SUMMARY ***
+Total pot 2086620.00
+Board [6d 6h Jh 4s 5s]
+Seat 1: ERamires21 (small blind) showed [Jd Js] and won 2086620.00 with a full house, Jacks full of Sixs [Js Jh Jd 6h 6d]
+Seat 2: JohnChae0929 (big blind) folded on the Pre-Flop
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: Napoleon6996 (button) showed [Ah Tc] and lost with a pair of Sixs [6h 6d Ah Jh Tc]
+

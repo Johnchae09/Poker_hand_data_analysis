@@ -1,0 +1,53 @@
+Game Hand #1852186335 - Tournament #30459245 - Holdem(No Limit) - Level 34 (40000.00/80000.00)- 2023/09/08 22:35:11 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 1: ERamires21 (4826606.00)
+Seat 2: JohnChae0929 (2577892.00)
+Seat 3: almenmx (970140.00)
+Seat 4: FaelCosta (5510050.00)
+Seat 6: Sorin6 (1931706.00)
+Seat 7: pennywise1818 (1021654.00)
+Seat 8: Napoleon6996 (4266952.00)
+ERamires21 posts ante 10000.00
+JohnChae0929 posts ante 10000.00
+almenmx posts ante 10000.00
+FaelCosta posts ante 10000.00
+Sorin6 posts ante 10000.00
+pennywise1818 posts ante 10000.00
+Napoleon6996 posts ante 10000.00
+almenmx posts the small blind 40000.00
+FaelCosta posts the big blind 80000.00
+*** HOLE CARDS ***
+Main pot 70000.00
+Dealt to JohnChae0929 [Kd Ks]
+Sorin6 folds
+pennywise1818 folds
+Napoleon6996 folds
+ERamires21 raises 160000.00 to 160000.00
+JohnChae0929 raises 416000.00 to 416000.00
+almenmx folds
+FaelCosta folds
+ERamires21 raises 4656606.00 to 4816606.00 and is all-in
+JohnChae0929 calls 2151892.00 and is all-in
+Uncalled bet (2248714.00) returned to ERamires21
+*** FLOP *** [7d 9d 3d]
+Main pot 5325784.00
+*** TURN *** [7d 9d 3d] [2d]
+Main pot 5325784.00
+*** RIVER *** [7d 9d 3d 2d] [As]
+Main pot 5325784.00
+*** SHOW DOWN ***
+Main pot 5325784.00
+ERamires21 shows [Qd Qs] (a flush, Queen high [Qd 9d 7d 3d 2d])
+JohnChae0929 shows [Kd Ks] (a flush, King high [Kd 9d 7d 3d 2d])
+JohnChae0929 collected 5325784.00 from main pot
+*** SUMMARY ***
+Total pot 5325784.00
+Board [7d 9d 3d 2d As]
+Seat 1: ERamires21 showed [Qd Qs] and lost with a flush, Queen high [Qd 9d 7d 3d 2d]
+Seat 2: JohnChae0929 (button) showed [Kd Ks] and won 5325784.00 with a flush, King high [Kd 9d 7d 3d 2d]
+Seat 3: almenmx (small blind) folded on the Pre-Flop
+Seat 4: FaelCosta (big blind) folded on the Pre-Flop
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: Napoleon6996 folded on the Pre-Flop and did not bet
+

@@ -1,0 +1,55 @@
+Game Hand #1852093170 - Tournament #30459245 - Holdem(No Limit) - Level 27 (12500.00/25000.00)- 2023/09/08 21:19:27 UTC
+Table '59' 8-max Seat #5 is the button
+Seat 1: Safr0nOF (2372102.00)
+Seat 2: JohnChae0929 (888359.00)
+Seat 3: Napoleon6996 (2024620.00)
+Seat 4: FaelCosta (911898.00)
+Seat 5: Kirrrysha (340637.00)
+Seat 6: BISHUACES (312912.00)
+Seat 7: pennywise1818 (2030870.00)
+Seat 8: K1L0 (544010.00)
+Safr0nOF posts ante 3250.00
+JohnChae0929 posts ante 3250.00
+Napoleon6996 posts ante 3250.00
+FaelCosta posts ante 3250.00
+Kirrrysha posts ante 3250.00
+BISHUACES posts ante 3250.00
+pennywise1818 posts ante 3250.00
+K1L0 posts ante 3250.00
+BISHUACES posts the small blind 12500.00
+pennywise1818 posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 26000.00
+Dealt to JohnChae0929 [8h Ts]
+K1L0 folds
+Safr0nOF folds
+JohnChae0929 folds
+Napoleon6996 raises 62500.00 to 62500.00
+FaelCosta folds
+Kirrrysha raises 337387.00 to 337387.00 and is all-in
+BISHUACES folds
+pennywise1818 folds
+Napoleon6996 calls 274887.00
+*** FLOP *** [9h 6h 9s]
+Main pot 738274.00
+*** TURN *** [9h 6h 9s] [3c]
+Main pot 738274.00
+*** RIVER *** [9h 6h 9s 3c] [Ks]
+Main pot 738274.00
+*** SHOW DOWN ***
+Main pot 738274.00
+Napoleon6996 shows [Js Tc] (a pair of Nines [9s 9h Ks Js Tc])
+Kirrrysha shows [Qd Ah] (a pair of Nines [9s 9h Ah Ks Qd])
+Kirrrysha collected 738274.00 from main pot
+*** SUMMARY ***
+Total pot 738274.00
+Board [9h 6h 9s 3c Ks]
+Seat 1: Safr0nOF folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: Napoleon6996 showed [Js Tc] and lost with a pair of Nines [9s 9h Ks Js Tc]
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 5: Kirrrysha (button) showed [Qd Ah] and won 738274.00 with a pair of Nines [9s 9h Ah Ks Qd] with the kicker Ace
+Seat 6: BISHUACES (small blind) folded on the Pre-Flop
+Seat 7: pennywise1818 (big blind) folded on the Pre-Flop
+Seat 8: K1L0 folded on the Pre-Flop and did not bet
+

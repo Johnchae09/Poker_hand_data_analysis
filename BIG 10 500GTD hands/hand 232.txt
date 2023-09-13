@@ -1,0 +1,49 @@
+Game Hand #1852124134 - Tournament #30459245 - Holdem(No Limit) - Level 30 (20000.00/40000.00)- 2023/09/08 21:44:45 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 1: Safr0nOF (2411977.00)
+Seat 2: JohnChae0929 (1081505.00)
+Seat 4: FaelCosta (834810.00)
+Seat 5: Kirrrysha (514148.00)
+Seat 7: pennywise1818 (2487265.00)
+Seat 8: K1L0 (536270.00)
+Safr0nOF posts ante 5000.00
+JohnChae0929 posts ante 5000.00
+FaelCosta posts ante 5000.00
+Kirrrysha posts ante 5000.00
+pennywise1818 posts ante 5000.00
+K1L0 posts ante 5000.00
+FaelCosta posts the small blind 20000.00
+Kirrrysha posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 30000.00
+Dealt to JohnChae0929 [7c 5h]
+pennywise1818 folds
+K1L0 folds
+Safr0nOF raises 105000.00 to 105000.00
+JohnChae0929 folds
+FaelCosta raises 365000.00 to 385000.00
+Kirrrysha folds
+Safr0nOF raises 560000.00 to 665000.00
+FaelCosta raises 444810.00 to 829810.00 and is all-in
+Safr0nOF calls 164810.00
+*** FLOP *** [2h Jh 4s]
+Main pot 1729620.00
+*** TURN *** [2h Jh 4s] [4c]
+Main pot 1729620.00
+*** RIVER *** [2h Jh 4s 4c] [9h]
+Main pot 1729620.00
+*** SHOW DOWN ***
+Main pot 1729620.00
+Safr0nOF shows [Tc As] (a pair of Fours [4s 4c As Jh Tc])
+FaelCosta shows [Jd Jc] (a full house, Jacks full of Fours [Jh Jd Jc 4s 4c])
+FaelCosta collected 1729620.00 from main pot
+*** SUMMARY ***
+Total pot 1729620.00
+Board [2h Jh 4s 4c 9h]
+Seat 1: Safr0nOF showed [Tc As] and lost with a pair of Fours [4s 4c As Jh Tc]
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 4: FaelCosta (small blind) showed [Jd Jc] and won 1729620.00 with a full house, Jacks full of Fours [Jh Jd Jc 4s 4c]
+Seat 5: Kirrrysha (big blind) folded on the Pre-Flop
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: K1L0 folded on the Pre-Flop and did not bet
+

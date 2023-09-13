@@ -1,0 +1,51 @@
+Game Hand #1852117097 - Tournament #30459245 - Holdem(No Limit) - Level 29 (17500.00/35000.00)- 2023/09/08 21:39:08 UTC
+Table '59' 8-max Seat #3 is the button
+Seat 1: Safr0nOF (2605977.00)
+Seat 2: JohnChae0929 (675505.00)
+Seat 3: Napoleon6996 (1489433.00)
+Seat 4: FaelCosta (921310.00)
+Seat 5: Kirrrysha (903428.00)
+Seat 7: pennywise1818 (2496870.00)
+Seat 8: K1L0 (332885.00)
+Safr0nOF posts ante 4500.00
+JohnChae0929 posts ante 4500.00
+Napoleon6996 posts ante 4500.00
+FaelCosta posts ante 4500.00
+Kirrrysha posts ante 4500.00
+pennywise1818 posts ante 4500.00
+K1L0 posts ante 4500.00
+FaelCosta posts the small blind 17500.00
+Kirrrysha posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to JohnChae0929 [Qc 4s]
+pennywise1818 raises 70000.00 to 70000.00
+K1L0 raises 328385.00 to 328385.00 and is all-in
+Safr0nOF folds
+JohnChae0929 folds
+Napoleon6996 folds
+FaelCosta folds
+Kirrrysha folds
+pennywise1818 calls 258385.00
+*** FLOP *** [8d Jc 4d]
+Main pot 740770.00
+*** TURN *** [8d Jc 4d] [Jh]
+Main pot 740770.00
+*** RIVER *** [8d Jc 4d Jh] [3c]
+Main pot 740770.00
+*** SHOW DOWN ***
+Main pot 740770.00
+pennywise1818 shows [Th Qh] (a pair of Jacks [Jh Jc Qh Th 8d])
+K1L0 shows [Ac 7c] (a pair of Jacks [Jh Jc Ac 8d 7c])
+K1L0 collected 740770.00 from main pot
+*** SUMMARY ***
+Total pot 740770.00
+Board [8d Jc 4d Jh 3c]
+Seat 1: Safr0nOF folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: Napoleon6996 (button) folded on the Pre-Flop
+Seat 4: FaelCosta (small blind) folded on the Pre-Flop
+Seat 5: Kirrrysha (big blind) folded on the Pre-Flop
+Seat 7: pennywise1818 showed [Th Qh] and lost with a pair of Jacks [Jh Jc Qh Th 8d]
+Seat 8: K1L0 showed [Ac 7c] and won 740770.00 with a pair of Jacks [Jh Jc Ac 8d 7c] with the kicker Ace
+

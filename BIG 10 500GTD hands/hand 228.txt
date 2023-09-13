@@ -1,0 +1,57 @@
+Game Hand #1852118922 - Tournament #30459245 - Holdem(No Limit) - Level 30 (20000.00/40000.00)- 2023/09/08 21:40:35 UTC
+Table '59' 8-max Seat #5 is the button
+Seat 1: Safr0nOF (2596977.00)
+Seat 2: JohnChae0929 (666505.00)
+Seat 3: Napoleon6996 (1564433.00)
+Seat 4: FaelCosta (894810.00)
+Seat 5: Kirrrysha (841928.00)
+Seat 7: pennywise1818 (2124485.00)
+Seat 8: K1L0 (736270.00)
+Safr0nOF posts ante 5000.00
+JohnChae0929 posts ante 5000.00
+Napoleon6996 posts ante 5000.00
+FaelCosta posts ante 5000.00
+Kirrrysha posts ante 5000.00
+pennywise1818 posts ante 5000.00
+K1L0 posts ante 5000.00
+pennywise1818 posts the small blind 20000.00
+K1L0 posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 35000.00
+Dealt to JohnChae0929 [2h 7c]
+Safr0nOF folds
+JohnChae0929 folds
+Napoleon6996 folds
+FaelCosta folds
+Kirrrysha raises 80000.00 to 80000.00
+pennywise1818 calls 60000.00
+K1L0 folds
+*** FLOP *** [5h Js 6d]
+Main pot 235000.00
+pennywise1818 checks
+Kirrrysha bets 90500.00
+pennywise1818 calls 90500.00
+*** TURN *** [5h Js 6d] [Qd]
+Main pot 416000.00
+pennywise1818 checks
+Kirrrysha checks
+*** RIVER *** [5h Js 6d Qd] [Ah]
+Main pot 416000.00
+pennywise1818 bets 137280.00
+Kirrrysha calls 137280.00
+*** SHOW DOWN ***
+Main pot 690560.00
+Kirrrysha shows [Ks Jc] (a pair of Jacks [Js Jc Ah Ks Qd])
+pennywise1818 shows [3s As] (a pair of Aces [As Ah Qd Js 6d])
+pennywise1818 collected 690560.00 from main pot
+*** SUMMARY ***
+Total pot 690560.00
+Board [5h Js 6d Qd Ah]
+Seat 1: Safr0nOF folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: Napoleon6996 folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 5: Kirrrysha (button) showed [Ks Jc] and lost with a pair of Jacks [Js Jc Ah Ks Qd]
+Seat 7: pennywise1818 (small blind) showed [3s As] and won 690560.00 with a pair of Aces [As Ah Qd Js 6d]
+Seat 8: K1L0 (big blind) folded on the Pre-Flop
+

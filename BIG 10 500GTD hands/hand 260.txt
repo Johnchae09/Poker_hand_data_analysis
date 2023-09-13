@@ -1,0 +1,43 @@
+Game Hand #1852150878 - Tournament #30459245 - Holdem(No Limit) - Level 32 (30000.00/60000.00)- 2023/09/08 22:09:20 UTC
+Table '59' 8-max Seat #6 is the button
+Seat 1: MAARCOLAA (963612.00)
+Seat 2: JohnChae0929 (1435696.00)
+Seat 3: almenmx (1891390.00)
+Seat 4: FaelCosta (5030740.00)
+Seat 6: Sorin6 (1102103.00)
+Seat 7: pennywise1818 (2945015.00)
+MAARCOLAA posts ante 7500.00
+JohnChae0929 posts ante 7500.00
+almenmx posts ante 7500.00
+FaelCosta posts ante 7500.00
+Sorin6 posts ante 7500.00
+pennywise1818 posts ante 7500.00
+pennywise1818 posts the small blind 30000.00
+MAARCOLAA posts the big blind 60000.00
+*** HOLE CARDS ***
+Main pot 45000.00
+Dealt to JohnChae0929 [Ts 9d]
+JohnChae0929 folds
+almenmx folds
+FaelCosta folds
+Sorin6 folds
+pennywise1818 calls 30000.00
+MAARCOLAA raises 120000.00 to 180000.00
+pennywise1818 calls 120000.00
+*** FLOP *** [4h 2c Td]
+Main pot 405000.00
+pennywise1818 checks
+MAARCOLAA bets 356400.00
+pennywise1818 folds
+Uncalled bet (356400.00) returned to MAARCOLAA
+MAARCOLAA does not show
+*** SUMMARY ***
+Total pot 405000.00
+Board [4h 2c Td]
+Seat 1: MAARCOLAA did not show and won 405000.00
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 (button) folded on the Pre-Flop
+Seat 7: pennywise1818 (small blind) folded on the Flop
+

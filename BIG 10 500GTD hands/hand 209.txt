@@ -1,0 +1,46 @@
+Game Hand #1852098492 - Tournament #30459245 - Holdem(No Limit) - Level 28 (15000.00/30000.00)- 2023/09/08 21:23:47 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 1: Safr0nOF (2432477.00)
+Seat 2: JohnChae0929 (825609.00)
+Seat 3: Napoleon6996 (1516183.00)
+Seat 4: FaelCosta (969148.00)
+Seat 5: Kirrrysha (997074.00)
+Seat 6: BISHUACES (282662.00)
+Seat 7: pennywise1818 (1975620.00)
+Seat 8: K1L0 (426635.00)
+Safr0nOF posts ante 3750.00
+JohnChae0929 posts ante 3750.00
+Napoleon6996 posts ante 3750.00
+FaelCosta posts ante 3750.00
+Kirrrysha posts ante 3750.00
+BISHUACES posts ante 3750.00
+pennywise1818 posts ante 3750.00
+K1L0 posts ante 3750.00
+Napoleon6996 posts the small blind 15000.00
+FaelCosta posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 30000.00
+Dealt to JohnChae0929 [4c 5c]
+Kirrrysha folds
+BISHUACES folds
+pennywise1818 raises 60000.00 to 60000.00
+K1L0 folds
+Safr0nOF folds
+JohnChae0929 folds
+Napoleon6996 raises 285000.00 to 300000.00
+FaelCosta folds
+pennywise1818 raises 1911870.00 to 1971870.00 and is all-in
+Napoleon6996 folds
+Uncalled bet (1671870.00) returned to pennywise1818
+pennywise1818 does not show
+*** SUMMARY ***
+Total pot 660000.00
+Seat 1: Safr0nOF folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 3: Napoleon6996 (small blind) folded on the Pre-Flop
+Seat 4: FaelCosta (big blind) folded on the Pre-Flop
+Seat 5: Kirrrysha folded on the Pre-Flop and did not bet
+Seat 6: BISHUACES folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 did not show and won 660000.00
+Seat 8: K1L0 folded on the Pre-Flop and did not bet
+
