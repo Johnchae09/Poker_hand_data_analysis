@@ -1,0 +1,51 @@
+Game Hand #1851952612 - Tournament #30459245 - Holdem(No Limit) - Level 16 (1750.00/3500.00)- 2023/09/08 19:16:38 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: Fischapryce (86743.00)
+Seat 2: Pankado (34550.00)
+Seat 3: nicotoon (91262.00)
+Seat 4: pupoCHECK (150524.00)
+Seat 5: SeregaGal88 (12399.00)
+Seat 6: kmac2464 (68700.00)
+Seat 7: JohnChae0929 (307998.00)
+Seat 8: danya44444 (388868.00)
+Fischapryce posts ante 450.00
+Pankado posts ante 450.00
+nicotoon posts ante 450.00
+pupoCHECK posts ante 450.00
+SeregaGal88 posts ante 450.00
+kmac2464 posts ante 450.00
+JohnChae0929 posts ante 450.00
+danya44444 posts ante 450.00
+danya44444 posts the small blind 1750.00
+Fischapryce posts the big blind 3500.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to JohnChae0929 [Jd 7c]
+Pankado calls 3500.00
+nicotoon folds
+pupoCHECK folds
+SeregaGal88 folds
+kmac2464 raises 8750.00 to 8750.00
+JohnChae0929 folds
+danya44444 folds
+Fischapryce folds
+Pankado calls 5250.00
+*** FLOP *** [6c Qc 5c]
+Main pot 26350.00
+Pankado checks
+kmac2464 bets 19763.00
+Pankado folds
+Uncalled bet (19763.00) returned to kmac2464
+kmac2464 does not show
+*** SUMMARY ***
+Total pot 26350.00
+Board [6c Qc 5c]
+Seat 1: Fischapryce (big blind) folded on the Pre-Flop
+Seat 2: Pankado folded on the Flop
+Seat 3: nicotoon folded on the Pre-Flop and did not bet
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: kmac2464 did not show and won 26350.00
+Seat 7: JohnChae0929 (button) folded on the Pre-Flop
+Seat 8: danya44444 (small blind) folded on the Pre-Flop
+

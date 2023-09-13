@@ -1,0 +1,54 @@
+Game Hand #1851971582 - Tournament #30459245 - Holdem(No Limit) - Level 18 (2500.00/5000.00)- 2023/09/08 19:32:11 UTC
+Table '34' 8-max Seat #1 is the button
+Seat 1: schAAdenfreude (311229.00)
+Seat 2: uvichemoreno (61346.00)
+Seat 4: pupoCHECK (166875.00)
+Seat 5: ColeStates14 (195278.00)
+Seat 6: RoWdY29 (190588.00)
+Seat 7: JohnChae0929 (382546.00)
+Seat 8: danya44444 (301793.00)
+schAAdenfreude posts ante 625.00
+uvichemoreno posts ante 625.00
+pupoCHECK posts ante 625.00
+ColeStates14 posts ante 625.00
+RoWdY29 posts ante 625.00
+JohnChae0929 posts ante 625.00
+danya44444 posts ante 625.00
+uvichemoreno posts the small blind 2500.00
+pupoCHECK posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to JohnChae0929 [2h 6h]
+ColeStates14 raises 10000.00 to 10000.00
+RoWdY29 folds
+JohnChae0929 folds
+danya44444 folds
+schAAdenfreude calls 10000.00
+uvichemoreno raises 27500.00 to 30000.00
+pupoCHECK folds
+ColeStates14 folds
+schAAdenfreude raises 72500.00 to 82500.00
+uvichemoreno calls 30721.00 and is all-in
+Uncalled bet (21779.00) returned to schAAdenfreude
+*** FLOP *** [3c As 9c]
+Main pot 140817.00
+*** TURN *** [3c As 9c] [8h]
+Main pot 140817.00
+*** RIVER *** [3c As 9c 8h] [8d]
+Main pot 140817.00
+*** SHOW DOWN ***
+Main pot 140817.00
+schAAdenfreude shows [9d 9h] (a full house, Nines full of Eights [9h 9d 9c 8h 8d])
+uvichemoreno shows [Ah Jd] (two pair, Aces and Eights [As Ah 8h 8d Jd])
+schAAdenfreude collected 140817.00 from main pot
+*** SUMMARY ***
+Total pot 140817.00
+Board [3c As 9c 8h 8d]
+Seat 1: schAAdenfreude (button) showed [9d 9h] and won 140817.00 with a full house, Nines full of Eights [9h 9d 9c 8h 8d]
+Seat 2: uvichemoreno (small blind) showed [Ah Jd] and lost with two pair, Aces and Eights [As Ah 8h 8d Jd]
+Seat 4: pupoCHECK (big blind) folded on the Pre-Flop
+Seat 5: ColeStates14 folded on the Pre-Flop and did not bet
+Seat 6: RoWdY29 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: danya44444 folded on the Pre-Flop and did not bet
+

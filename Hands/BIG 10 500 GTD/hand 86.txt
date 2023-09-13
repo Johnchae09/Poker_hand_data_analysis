@@ -1,0 +1,52 @@
+Game Hand #1851976969 - Tournament #30459245 - Holdem(No Limit) - Level 18 (2500.00/5000.00)- 2023/09/08 19:36:36 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: schAAdenfreude (366637.00)
+Seat 3: Alchemist24 (112227.00)
+Seat 4: pupoCHECK (156250.00)
+Seat 5: ColeStates14 (197466.00)
+Seat 6: RoWdY29 (179963.00)
+Seat 7: JohnChae0929 (405671.00)
+Seat 8: danya44444 (293668.00)
+schAAdenfreude posts ante 625.00
+Alchemist24 posts ante 625.00
+pupoCHECK posts ante 625.00
+ColeStates14 posts ante 625.00
+RoWdY29 posts ante 625.00
+JohnChae0929 posts ante 625.00
+danya44444 posts ante 625.00
+danya44444 posts the small blind 2500.00
+schAAdenfreude posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to JohnChae0929 [Jc Jd]
+Alchemist24 raises 15000.00 to 15000.00
+pupoCHECK folds
+ColeStates14 folds
+RoWdY29 folds
+JohnChae0929 raises 45000.00 to 45000.00
+danya44444 folds
+schAAdenfreude folds
+Alchemist24 raises 96602.00 to 111602.00 and is all-in
+JohnChae0929 calls 66602.00
+*** FLOP *** [7h 2s 4s]
+Main pot 235079.00
+*** TURN *** [7h 2s 4s] [Qc]
+Main pot 235079.00
+*** RIVER *** [7h 2s 4s Qc] [8h]
+Main pot 235079.00
+*** SHOW DOWN ***
+Main pot 235079.00
+Alchemist24 shows [Ah Ks] (a high card, Ace high [Ah Ks Qc 8h 7h])
+JohnChae0929 shows [Jc Jd] (a pair of Jacks [Jd Jc Qc 8h 7h])
+JohnChae0929 collected 235079.00 from main pot
+*** SUMMARY ***
+Total pot 235079.00
+Board [7h 2s 4s Qc 8h]
+Seat 1: schAAdenfreude (big blind) folded on the Pre-Flop
+Seat 3: Alchemist24 showed [Ah Ks] and lost with a high card, Ace high [Ah Ks Qc 8h 7h]
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: ColeStates14 folded on the Pre-Flop and did not bet
+Seat 6: RoWdY29 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 (button) showed [Jc Jd] and won 235079.00 with a pair of Jacks [Jd Jc Qc 8h 7h]
+Seat 8: danya44444 (small blind) folded on the Pre-Flop
+

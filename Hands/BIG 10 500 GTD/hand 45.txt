@@ -1,0 +1,51 @@
+Game Hand #1851923918 - Tournament #30459245 - Holdem(No Limit) - Level 15 (1500.00/3000.00)- 2023/09/08 18:49:30 UTC
+Table '34' 8-max Seat #4 is the button
+Seat 1: Fischapryce (68105.00)
+Seat 2: pyup (35000.00)
+Seat 3: nicotoon (52950.00)
+Seat 4: pupoCHECK (163992.00)
+Seat 5: SeregaGal88 (66674.00)
+Seat 6: Xaviptm (29875.00)
+Seat 7: JohnChae0929 (332448.00)
+Fischapryce posts ante 375.00
+pyup posts ante 375.00
+nicotoon posts ante 375.00
+pupoCHECK posts ante 375.00
+SeregaGal88 posts ante 375.00
+Xaviptm posts ante 375.00
+JohnChae0929 posts ante 375.00
+SeregaGal88 posts the small blind 1500.00
+Xaviptm posts the big blind 3000.00
+*** HOLE CARDS ***
+Main pot 2625.00
+Dealt to JohnChae0929 [3c 7c]
+JohnChae0929 folds
+Fischapryce folds
+pyup folds
+nicotoon folds
+pupoCHECK folds
+SeregaGal88 raises 9000.00 to 10500.00
+Xaviptm raises 26500.00 to 29500.00 and is all-in
+SeregaGal88 calls 19000.00
+*** FLOP *** [8h Tc Jh]
+Main pot 61625.00
+*** TURN *** [8h Tc Jh] [Ad]
+Main pot 61625.00
+*** RIVER *** [8h Tc Jh Ad] [9c]
+Main pot 61625.00
+*** SHOW DOWN ***
+Main pot 61625.00
+SeregaGal88 shows [Kc 4c] (a high card, Ace high [Ad Kc Jh Tc 9c])
+Xaviptm shows [Jc Qs] (a straight, Queen high [Qs Jh Tc 9c 8h])
+Xaviptm collected 61625.00 from main pot
+*** SUMMARY ***
+Total pot 61625.00
+Board [8h Tc Jh Ad 9c]
+Seat 1: Fischapryce folded on the Pre-Flop and did not bet
+Seat 2: pyup folded on the Pre-Flop and did not bet
+Seat 3: nicotoon folded on the Pre-Flop and did not bet
+Seat 4: pupoCHECK (button) folded on the Pre-Flop
+Seat 5: SeregaGal88 (small blind) showed [Kc 4c] and lost with a high card, Ace high [Ad Kc Jh Tc 9c]
+Seat 6: Xaviptm (big blind) showed [Jc Qs] and won 61625.00 with a straight, Queen high [Qs Jh Tc 9c 8h]
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+

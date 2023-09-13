@@ -1,0 +1,55 @@
+Game Hand #1851921158 - Tournament #30459245 - Holdem(No Limit) - Level 15 (1500.00/3000.00)- 2023/09/08 18:46:51 UTC
+Table '34' 8-max Seat #2 is the button
+Seat 1: Fischapryce (68855.00)
+Seat 2: pyup (6125.00)
+Seat 3: nicotoon (55200.00)
+Seat 4: pupoCHECK (169242.00)
+Seat 5: SeregaGal88 (79480.00)
+Seat 6: Xaviptm (30625.00)
+Seat 7: JohnChae0929 (217667.00)
+Seat 8: JuampyG97 (86850.00)
+Fischapryce posts ante 375.00
+pyup posts ante 375.00
+nicotoon posts ante 375.00
+pupoCHECK posts ante 375.00
+SeregaGal88 posts ante 375.00
+Xaviptm posts ante 375.00
+JohnChae0929 posts ante 375.00
+JuampyG97 posts ante 375.00
+nicotoon posts the small blind 1500.00
+pupoCHECK posts the big blind 3000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to JohnChae0929 [8d 9d]
+SeregaGal88 folds
+Xaviptm folds
+JohnChae0929 raises 6300.00 to 6300.00
+JuampyG97 folds
+Fischapryce folds
+pyup calls 5750.00 and is all-in
+nicotoon folds
+pupoCHECK folds
+Uncalled bet (550.00) returned to JohnChae0929
+*** FLOP *** [Js 3h 9c]
+Main pot 19000.00
+*** TURN *** [Js 3h 9c] [2s]
+Main pot 19000.00
+*** RIVER *** [Js 3h 9c 2s] [Qs]
+Main pot 19000.00
+*** SHOW DOWN ***
+Main pot 19000.00
+pyup shows [7h Kh] (a high card, King high [Kh Qs Js 9c 7h])
+JohnChae0929 shows [8d 9d] (a pair of Nines [9d 9c Qs Js 8d])
+JohnChae0929 collected 19000.00 from main pot
+*** SUMMARY ***
+Total pot 19000.00
+Board [Js 3h 9c 2s Qs]
+Seat 1: Fischapryce folded on the Pre-Flop and did not bet
+Seat 2: pyup (button) showed [7h Kh] and lost with a high card, King high [Kh Qs Js 9c 7h]
+Seat 3: nicotoon (small blind) folded on the Pre-Flop
+Seat 4: pupoCHECK (big blind) folded on the Pre-Flop
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: Xaviptm folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 showed [8d 9d] and won 19000.00 with a pair of Nines [9d 9c Qs Js 8d]
+Seat 8: JuampyG97 folded on the Pre-Flop and did not bet
+

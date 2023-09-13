@@ -1,0 +1,55 @@
+Game Hand #1851849710 - Tournament #30459245 - Holdem(No Limit) - Level 11 (700.00/1400.00)- 2023/09/08 17:36:39 UTC
+Table '28' 8-max Seat #3 is the button
+Seat 1: Barraccudda (23700.00)
+Seat 2: MikeWazowski77 (15672.00)
+Seat 3: TytusB (95032.00)
+Seat 4: emikshacr (61542.00)
+Seat 5: kot1k (43758.00)
+Seat 6: JohnChae0929 (34350.00)
+Seat 7: mooraisjoao (23721.00)
+Seat 8: deathloyd1 (225477.00)
+Barraccudda posts ante 175.00
+MikeWazowski77 posts ante 175.00
+TytusB posts ante 175.00
+emikshacr posts ante 175.00
+kot1k posts ante 175.00
+JohnChae0929 posts ante 175.00
+mooraisjoao posts ante 175.00
+deathloyd1 posts ante 175.00
+emikshacr posts the small blind 700.00
+kot1k posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to JohnChae0929 [Td Jc]
+JohnChae0929 folds
+mooraisjoao folds
+deathloyd1 folds
+Barraccudda raises 2800.00 to 2800.00
+MikeWazowski77 raises 15497.00 to 15497.00 and is all-in
+TytusB folds
+emikshacr folds
+kot1k folds
+Barraccudda calls 12697.00
+*** FLOP *** [2d 2h Jd]
+Main pot 34494.00
+*** TURN *** [2d 2h Jd] [Qh]
+Main pot 34494.00
+*** RIVER *** [2d 2h Jd Qh] [5c]
+Main pot 34494.00
+*** SHOW DOWN ***
+Main pot 34494.00
+Barraccudda shows [Js Ac] (two pair, Jacks and Deuces [Js Jd 2h 2d Ac])
+MikeWazowski77 shows [Kh Qd] (two pair, Queens and Deuces [Qh Qd 2h 2d Kh])
+MikeWazowski77 collected 34494.00 from main pot
+*** SUMMARY ***
+Total pot 34494.00
+Board [2d 2h Jd Qh 5c]
+Seat 1: Barraccudda showed [Js Ac] and lost with two pair, Jacks and Deuces [Js Jd 2h 2d Ac]
+Seat 2: MikeWazowski77 showed [Kh Qd] and won 34494.00 with two pair, Queens and Deuces [Qh Qd 2h 2d Kh]
+Seat 3: TytusB (button) folded on the Pre-Flop
+Seat 4: emikshacr (small blind) folded on the Pre-Flop
+Seat 5: kot1k (big blind) folded on the Pre-Flop
+Seat 6: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 7: mooraisjoao folded on the Pre-Flop and did not bet
+Seat 8: deathloyd1 folded on the Pre-Flop and did not bet
+

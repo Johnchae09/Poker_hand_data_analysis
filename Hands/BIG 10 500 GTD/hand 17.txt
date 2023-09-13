@@ -1,0 +1,58 @@
+Game Hand #1851860717 - Tournament #30459245 - Holdem(No Limit) - Level 11 (700.00/1400.00)- 2023/09/08 17:47:07 UTC
+Table '28' 8-max Seat #8 is the button
+Seat 1: Barraccudda (29662.00)
+Seat 2: MikeWazowski77 (40829.00)
+Seat 3: TytusB (75012.00)
+Seat 4: emikshacr (53842.00)
+Seat 5: kot1k (44178.00)
+Seat 6: JohnChae0929 (53447.00)
+Seat 7: Botfly65 (18979.00)
+Seat 8: deathloyd1 (222117.00)
+Barraccudda posts ante 175.00
+MikeWazowski77 posts ante 175.00
+TytusB posts ante 175.00
+emikshacr posts ante 175.00
+kot1k posts ante 175.00
+JohnChae0929 posts ante 175.00
+Botfly65 posts ante 175.00
+deathloyd1 posts ante 175.00
+Barraccudda posts the small blind 700.00
+MikeWazowski77 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to JohnChae0929 [8s 9s]
+TytusB folds
+emikshacr folds
+kot1k folds
+JohnChae0929 raises 2800.00 to 2800.00
+Botfly65 folds
+deathloyd1 folds
+Barraccudda calls 2100.00
+MikeWazowski77 calls 1400.00
+*** FLOP *** [Kd Kh 2d]
+Main pot 9800.00
+Barraccudda checks
+MikeWazowski77 checks
+JohnChae0929 bets 4620.00
+Barraccudda folds
+MikeWazowski77 calls 4620.00
+*** TURN *** [Kd Kh 2d] [7c]
+Main pot 19040.00
+MikeWazowski77 checks
+JohnChae0929 bets 9520.00
+MikeWazowski77 raises 19040.00 to 19040.00
+JohnChae0929 folds
+Uncalled bet (9520.00) returned to MikeWazowski77
+MikeWazowski77 does not show
+*** SUMMARY ***
+Total pot 38080.00
+Board [Kd Kh 2d 7c]
+Seat 1: Barraccudda (small blind) folded on the Flop
+Seat 2: MikeWazowski77 did not show and won 38080.00
+Seat 3: TytusB folded on the Pre-Flop and did not bet
+Seat 4: emikshacr folded on the Pre-Flop and did not bet
+Seat 5: kot1k folded on the Pre-Flop and did not bet
+Seat 6: JohnChae0929 folded on the Turn
+Seat 7: Botfly65 folded on the Pre-Flop and did not bet
+Seat 8: deathloyd1 (button) folded on the Pre-Flop
+

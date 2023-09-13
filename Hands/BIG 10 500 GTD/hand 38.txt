@@ -1,0 +1,42 @@
+Game Hand #1851916333 - Tournament #30459245 - Holdem(No Limit) - Level 15 (1500.00/3000.00)- 2023/09/08 18:42:15 UTC
+Table '34' 8-max Seat #5 is the button
+Seat 1: Fischapryce (64730.00)
+Seat 2: pyup (35000.00)
+Seat 3: nicotoon (60075.00)
+Seat 4: pupoCHECK (129117.00)
+Seat 5: SeregaGal88 (81355.00)
+Seat 6: Xaviptm (26500.00)
+Seat 7: JohnChae0929 (224042.00)
+Seat 8: JuampyG97 (93225.00)
+Fischapryce posts ante 375.00
+pyup posts ante 375.00
+nicotoon posts ante 375.00
+pupoCHECK posts ante 375.00
+SeregaGal88 posts ante 375.00
+Xaviptm posts ante 375.00
+JohnChae0929 posts ante 375.00
+JuampyG97 posts ante 375.00
+Xaviptm posts the small blind 1500.00
+JohnChae0929 posts the big blind 3000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to JohnChae0929 [9d 7d]
+JuampyG97 folds
+Fischapryce folds
+pyup folds
+nicotoon folds
+pupoCHECK folds
+SeregaGal88 folds
+Xaviptm folds
+JohnChae0929 does not show
+*** SUMMARY ***
+Total pot 7500.00
+Seat 1: Fischapryce folded on the Pre-Flop and did not bet
+Seat 2: pyup folded on the Pre-Flop and did not bet
+Seat 3: nicotoon folded on the Pre-Flop and did not bet
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 (button) folded on the Pre-Flop
+Seat 6: Xaviptm (small blind) folded on the Pre-Flop
+Seat 7: JohnChae0929 did not show and won 7500.00
+Seat 8: JuampyG97 folded on the Pre-Flop and did not bet
+
