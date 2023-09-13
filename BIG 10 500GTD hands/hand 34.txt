@@ -1,0 +1,45 @@
+Game Hand #1851913595 - Tournament #30459245 - Holdem(No Limit) - Level 14 (1250.00/2500.00)- 2023/09/08 18:39:38 UTC
+Table '34' 8-max Seat #1 is the button
+Seat 1: Fischapryce (66080.00)
+Seat 2: SoLoveLA (173919.00)
+Seat 3: nicotoon (65175.00)
+Seat 4: pupoCHECK (134592.00)
+Seat 5: SeregaGal88 (71830.00)
+Seat 6: Xaviptm (30850.00)
+Seat 7: JohnChae0929 (214042.00)
+Seat 8: JuampyG97 (94575.00)
+Fischapryce posts ante 325.00
+SoLoveLA posts ante 325.00
+nicotoon posts ante 325.00
+pupoCHECK posts ante 325.00
+SeregaGal88 posts ante 325.00
+Xaviptm posts ante 325.00
+JohnChae0929 posts ante 325.00
+JuampyG97 posts ante 325.00
+SoLoveLA posts the small blind 1250.00
+nicotoon posts the big blind 2500.00
+*** HOLE CARDS ***
+Main pot 2600.00
+Dealt to JohnChae0929 [Kh Kc]
+pupoCHECK folds
+SeregaGal88 raises 5000.00 to 5000.00
+Xaviptm folds
+JohnChae0929 raises 16250.00 to 16250.00
+JuampyG97 folds
+Fischapryce folds
+SoLoveLA folds
+nicotoon folds
+SeregaGal88 folds
+Uncalled bet (11250.00) returned to JohnChae0929
+JohnChae0929 shows [Kh Kc]
+*** SUMMARY ***
+Total pot 16350.00
+Seat 1: Fischapryce (button) folded on the Pre-Flop
+Seat 2: SoLoveLA (small blind) folded on the Pre-Flop
+Seat 3: nicotoon (big blind) folded on the Pre-Flop
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: Xaviptm folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 showed [Kh Kc] and won 16350.00
+Seat 8: JuampyG97 folded on the Pre-Flop and did not bet
+

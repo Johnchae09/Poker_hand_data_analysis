@@ -1,0 +1,55 @@
+Game Hand #1851969302 - Tournament #30459245 - Holdem(No Limit) - Level 18 (2500.00/5000.00)- 2023/09/08 19:30:16 UTC
+Table '34' 8-max Seat #6 is the button
+Seat 1: schAAdenfreude (242450.00)
+Seat 2: uvichemoreno (68221.00)
+Seat 3: iJohnny (66279.00)
+Seat 4: pupoCHECK (146875.00)
+Seat 5: ColeStates14 (197153.00)
+Seat 6: RoWdY29 (192463.00)
+Seat 7: JohnChae0929 (375046.00)
+Seat 8: danya44444 (321168.00)
+schAAdenfreude posts ante 625.00
+uvichemoreno posts ante 625.00
+iJohnny posts ante 625.00
+pupoCHECK posts ante 625.00
+ColeStates14 posts ante 625.00
+RoWdY29 posts ante 625.00
+JohnChae0929 posts ante 625.00
+danya44444 posts ante 625.00
+JohnChae0929 posts the small blind 2500.00
+danya44444 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 5000.00
+Dealt to JohnChae0929 [6d Qc]
+schAAdenfreude raises 10000.00 to 10000.00
+uvichemoreno folds
+iJohnny raises 65654.00 to 65654.00 and is all-in
+pupoCHECK folds
+ColeStates14 folds
+RoWdY29 folds
+JohnChae0929 folds
+danya44444 folds
+schAAdenfreude calls 55654.00
+*** FLOP *** [Jd Jh 6c]
+Main pot 143808.00
+*** TURN *** [Jd Jh 6c] [2s]
+Main pot 143808.00
+*** RIVER *** [Jd Jh 6c 2s] [5h]
+Main pot 143808.00
+*** SHOW DOWN ***
+Main pot 143808.00
+schAAdenfreude shows [Jc As] (three of a kind, Set of Jacks [Jh Jd Jc As 6c])
+iJohnny shows [Th Td] (two pair, Jacks and Tens [Jh Jd Th Td 6c])
+schAAdenfreude collected 143808.00 from main pot
+*** SUMMARY ***
+Total pot 143808.00
+Board [Jd Jh 6c 2s 5h]
+Seat 1: schAAdenfreude showed [Jc As] and won 143808.00 with three of a kind, Set of Jacks [Jh Jd Jc As 6c]
+Seat 2: uvichemoreno folded on the Pre-Flop and did not bet
+Seat 3: iJohnny showed [Th Td] and lost with two pair, Jacks and Tens [Jh Jd Th Td 6c]
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: ColeStates14 folded on the Pre-Flop and did not bet
+Seat 6: RoWdY29 (button) folded on the Pre-Flop
+Seat 7: JohnChae0929 (small blind) folded on the Pre-Flop
+Seat 8: danya44444 (big blind) folded on the Pre-Flop
+

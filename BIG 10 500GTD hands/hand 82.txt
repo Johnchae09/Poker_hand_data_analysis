@@ -1,0 +1,50 @@
+Game Hand #1851972965 - Tournament #30459245 - Holdem(No Limit) - Level 18 (2500.00/5000.00)- 2023/09/08 19:33:20 UTC
+Table '34' 8-max Seat #2 is the button
+Seat 1: schAAdenfreude (390700.00)
+Seat 3: Alchemist24 will be allowed to play after the button
+Seat 4: pupoCHECK (161250.00)
+Seat 5: ColeStates14 (184653.00)
+Seat 6: RoWdY29 (189963.00)
+Seat 7: JohnChae0929 (381921.00)
+Seat 8: danya44444 (301168.00)
+schAAdenfreude posts ante 625.00
+pupoCHECK posts ante 625.00
+ColeStates14 posts ante 625.00
+RoWdY29 posts ante 625.00
+JohnChae0929 posts ante 625.00
+danya44444 posts ante 625.00
+pupoCHECK posts the small blind 2500.00
+ColeStates14 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3750.00
+Dealt to JohnChae0929 [Qd 6c]
+RoWdY29 folds
+JohnChae0929 folds
+danya44444 folds
+schAAdenfreude raises 10000.00 to 10000.00
+pupoCHECK folds
+ColeStates14 calls 5000.00
+*** FLOP *** [2c Js 7c]
+Main pot 26250.00
+ColeStates14 checks
+schAAdenfreude checks
+*** TURN *** [2c Js 7c] [Ks]
+Main pot 26250.00
+ColeStates14 bets 11563.00
+schAAdenfreude calls 11563.00
+*** RIVER *** [2c Js 7c Ks] [Jh]
+Main pot 49376.00
+ColeStates14 bets 47895.00
+schAAdenfreude folds
+Uncalled bet (47895.00) returned to ColeStates14
+ColeStates14 does not show
+*** SUMMARY ***
+Total pot 49376.00
+Board [2c Js 7c Ks Jh]
+Seat 1: schAAdenfreude folded on the River
+Seat 4: pupoCHECK (small blind) folded on the Pre-Flop
+Seat 5: ColeStates14 did not show and won 49376.00
+Seat 6: RoWdY29 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: danya44444 folded on the Pre-Flop and did not bet
+

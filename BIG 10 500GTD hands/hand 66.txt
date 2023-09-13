@@ -1,0 +1,41 @@
+Game Hand #1851954844 - Tournament #30459245 - Holdem(No Limit) - Level 17 (2000.00/4000.00)- 2023/09/08 19:18:27 UTC
+Table '34' 8-max Seat #1 is the button
+Seat 1: Fischapryce (80593.00)
+Seat 3: nicotoon (206012.00)
+Seat 4: pupoCHECK (149624.00)
+Seat 5: SeregaGal88 (11499.00)
+Seat 7: JohnChae0929 (307098.00)
+Seat 8: danya44444 (386218.00)
+Fischapryce posts ante 500.00
+nicotoon posts ante 500.00
+pupoCHECK posts ante 500.00
+SeregaGal88 posts ante 500.00
+JohnChae0929 posts ante 500.00
+danya44444 posts ante 500.00
+nicotoon posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to JohnChae0929 [Qd 5d]
+pupoCHECK folds
+SeregaGal88 folds
+JohnChae0929 raises 8400.00 to 8400.00
+danya44444 folds
+Fischapryce folds
+nicotoon calls 4400.00
+*** FLOP *** [Jd 5h 6d]
+Main pot 19800.00
+nicotoon checks
+JohnChae0929 bets 6534.00
+nicotoon folds
+Uncalled bet (6534.00) returned to JohnChae0929
+JohnChae0929 does not show
+*** SUMMARY ***
+Total pot 19800.00
+Board [Jd 5h 6d]
+Seat 1: Fischapryce (button) folded on the Pre-Flop
+Seat 3: nicotoon (big blind) folded on the Flop
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 did not show and won 19800.00
+Seat 8: danya44444 folded on the Pre-Flop and did not bet
+

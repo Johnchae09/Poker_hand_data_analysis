@@ -1,0 +1,45 @@
+Game Hand #1851970689 - Tournament #30459245 - Holdem(No Limit) - Level 18 (2500.00/5000.00)- 2023/09/08 19:31:26 UTC
+Table '34' 8-max Seat #8 is the button
+Seat 1: schAAdenfreude (314354.00)
+Seat 2: uvichemoreno (66971.00)
+Seat 4: pupoCHECK (145625.00)
+Seat 5: ColeStates14 (195903.00)
+Seat 6: RoWdY29 (191213.00)
+Seat 7: JohnChae0929 (383171.00)
+Seat 8: danya44444 (312418.00)
+schAAdenfreude posts ante 625.00
+uvichemoreno posts ante 625.00
+pupoCHECK posts ante 625.00
+ColeStates14 posts ante 625.00
+RoWdY29 posts ante 625.00
+JohnChae0929 posts ante 625.00
+danya44444 posts ante 625.00
+schAAdenfreude posts the small blind 2500.00
+uvichemoreno posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to JohnChae0929 [4h 6c]
+pupoCHECK raises 10000.00 to 10000.00
+ColeStates14 folds
+RoWdY29 folds
+JohnChae0929 folds
+danya44444 calls 10000.00
+schAAdenfreude folds
+uvichemoreno folds
+*** FLOP *** [9h 4c Ac]
+Main pot 31875.00
+pupoCHECK bets 17500.00
+danya44444 folds
+Uncalled bet (17500.00) returned to pupoCHECK
+pupoCHECK does not show
+*** SUMMARY ***
+Total pot 31875.00
+Board [9h 4c Ac]
+Seat 1: schAAdenfreude (small blind) folded on the Pre-Flop
+Seat 2: uvichemoreno (big blind) folded on the Pre-Flop
+Seat 4: pupoCHECK did not show and won 31875.00
+Seat 5: ColeStates14 folded on the Pre-Flop and did not bet
+Seat 6: RoWdY29 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: danya44444 (button) folded on the Flop
+

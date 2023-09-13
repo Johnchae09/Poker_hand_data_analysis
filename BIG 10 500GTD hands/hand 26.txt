@@ -1,0 +1,53 @@
+Game Hand #1851868930 - Tournament #30459245 - Holdem(No Limit) - Level 12 (800.00/1600.00)- 2023/09/08 17:54:27 UTC
+Table '28' 8-max Seat #1 is the button
+Seat 1: Barraccudda (26737.00)
+Seat 2: MikeWazowski77 (52824.00)
+Seat 4: emikshacr (57117.00)
+Seat 5: kot1k (40053.00)
+Seat 6: JohnChae0929 (32382.00)
+Seat 7: Botfly65 (29714.00)
+Seat 8: deathloyd1 (227212.00)
+Barraccudda posts ante 200.00
+MikeWazowski77 posts ante 200.00
+emikshacr posts ante 200.00
+kot1k posts ante 200.00
+JohnChae0929 posts ante 200.00
+Botfly65 posts ante 200.00
+deathloyd1 posts ante 200.00
+MikeWazowski77 posts the small blind 800.00
+emikshacr posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to JohnChae0929 [4c 8s]
+kot1k folds
+JohnChae0929 folds
+Botfly65 folds
+deathloyd1 raises 3520.00 to 3520.00
+Barraccudda folds
+MikeWazowski77 folds
+emikshacr calls 1920.00
+*** FLOP *** [Ts 6s 8c]
+Main pot 9240.00
+emikshacr checks
+deathloyd1 checks
+*** TURN *** [Ts 6s 8c] [Qs]
+Main pot 9240.00
+emikshacr checks
+deathloyd1 checks
+*** RIVER *** [Ts 6s 8c Qs] [Qc]
+Main pot 9240.00
+emikshacr bets 6930.00
+deathloyd1 folds
+Uncalled bet (6930.00) returned to emikshacr
+emikshacr does not show
+*** SUMMARY ***
+Total pot 9240.00
+Board [Ts 6s 8c Qs Qc]
+Seat 1: Barraccudda (button) folded on the Pre-Flop
+Seat 2: MikeWazowski77 (small blind) folded on the Pre-Flop
+Seat 4: emikshacr did not show and won 9240.00
+Seat 5: kot1k folded on the Pre-Flop and did not bet
+Seat 6: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 7: Botfly65 folded on the Pre-Flop and did not bet
+Seat 8: deathloyd1 folded on the River
+

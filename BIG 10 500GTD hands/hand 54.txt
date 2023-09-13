@@ -1,0 +1,60 @@
+Game Hand #1851939612 - Tournament #30459245 - Holdem(No Limit) - Level 16 (1750.00/3500.00)- 2023/09/08 19:06:00 UTC
+Table '34' 8-max Seat #5 is the button
+Seat 1: Fischapryce (52505.00)
+Seat 2: pyup (118750.00)
+Seat 3: nicotoon (67100.00)
+Seat 4: pupoCHECK (151492.00)
+Seat 5: SeregaGal88 (28324.00) is sitting out
+Seat 6: kmac2464 (41025.00)
+Seat 7: JohnChae0929 (330348.00)
+Seat 8: danya44444 (281500.00)
+Fischapryce posts ante 450.00
+pyup posts ante 450.00
+nicotoon posts ante 450.00
+pupoCHECK posts ante 450.00
+SeregaGal88 posts ante 450.00
+kmac2464 posts ante 450.00
+JohnChae0929 posts ante 450.00
+danya44444 posts ante 450.00
+kmac2464 posts the small blind 1750.00
+JohnChae0929 posts the big blind 3500.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to JohnChae0929 [7s 2s]
+danya44444 raises 7000.00 to 7000.00
+Fischapryce folds
+pyup calls 7000.00
+nicotoon folds
+pupoCHECK folds
+SeregaGal88 folds
+kmac2464 folds
+JohnChae0929 folds
+*** FLOP *** [Qd 9s 7h]
+Main pot 22850.00
+danya44444 bets 11425.00
+pyup calls 11425.00
+*** TURN *** [Qd 9s 7h] [9d]
+Main pot 45700.00
+danya44444 bets 14925.00
+pyup calls 14925.00
+*** RIVER *** [Qd 9s 7h 9d] [6s]
+Main pot 75550.00
+danya44444 bets 37775.00
+pyup calls 37775.00
+*** SHOW DOWN ***
+Main pot 151100.00
+pyup shows [As 6h] (two pair, Nines and Sixs [9s 9d 6s 6h As])
+danya44444 shows [Kd Qc] (two pair, Queens and Nines [Qd Qc 9s 9d Kd])
+danya44444 collected 151100.00 from main pot
+*** SUMMARY ***
+Total pot 151100.00
+Board [Qd 9s 7h 9d 6s]
+Seat 1: Fischapryce folded on the Pre-Flop and did not bet
+Seat 2: pyup showed [As 6h] and lost with two pair, Nines and Sixs [9s 9d 6s 6h As]
+Seat 3: nicotoon folded on the Pre-Flop and did not bet
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 (button) folded on the Pre-Flop
+Seat 6: kmac2464 (small blind) folded on the Pre-Flop
+Seat 7: JohnChae0929 (big blind) folded on the Pre-Flop
+Seat 8: danya44444 showed [Kd Qc] and won 151100.00 with two pair, Queens and Nines [Qd Qc 9s 9d Kd]
+

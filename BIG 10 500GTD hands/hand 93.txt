@@ -1,0 +1,55 @@
+Game Hand #1851986867 - Tournament #30459245 - Holdem(No Limit) - Level 19 (3000.00/6000.00)- 2023/09/08 19:44:28 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: schAAdenfreude (354137.00)
+Seat 2: DealersPet (367397.00)
+Seat 3: BlanKpoker (95155.00)
+Seat 4: pupoCHECK (127250.00)
+Seat 5: ColeStates14 (148066.00)
+Seat 6: RoWdY29 (135963.00)
+Seat 7: JohnChae0929 (723408.00)
+Seat 8: danya44444 (479096.00)
+schAAdenfreude posts ante 750.00
+DealersPet posts ante 750.00
+BlanKpoker posts ante 750.00
+pupoCHECK posts ante 750.00
+ColeStates14 posts ante 750.00
+RoWdY29 posts ante 750.00
+JohnChae0929 posts ante 750.00
+danya44444 posts ante 750.00
+danya44444 posts the small blind 3000.00
+schAAdenfreude posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to JohnChae0929 [Td 3d]
+DealersPet folds
+BlanKpoker calls 6000.00
+pupoCHECK folds
+ColeStates14 folds
+RoWdY29 folds
+JohnChae0929 folds
+danya44444 raises 9000.00 to 12000.00
+schAAdenfreude folds
+BlanKpoker calls 6000.00
+*** FLOP *** [Kd 7d 2d]
+Main pot 36000.00
+danya44444 bets 12000.00
+BlanKpoker calls 12000.00
+*** TURN *** [Kd 7d 2d] [6h]
+Main pot 60000.00
+danya44444 checks
+BlanKpoker bets 31200.00
+danya44444 folds
+Uncalled bet (31200.00) returned to BlanKpoker
+BlanKpoker does not show
+*** SUMMARY ***
+Total pot 60000.00
+Board [Kd 7d 2d 6h]
+Seat 1: schAAdenfreude (big blind) folded on the Pre-Flop
+Seat 2: DealersPet folded on the Pre-Flop and did not bet
+Seat 3: BlanKpoker did not show and won 60000.00
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: ColeStates14 folded on the Pre-Flop and did not bet
+Seat 6: RoWdY29 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 (button) folded on the Pre-Flop
+Seat 8: danya44444 (small blind) folded on the Turn
+

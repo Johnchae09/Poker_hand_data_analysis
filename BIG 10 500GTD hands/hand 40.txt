@@ -1,0 +1,60 @@
+Game Hand #1851918770 - Tournament #30459245 - Holdem(No Limit) - Level 15 (1500.00/3000.00)- 2023/09/08 18:44:33 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: Fischapryce (63980.00)
+Seat 2: pyup (14750.00)
+Seat 3: nicotoon (59325.00)
+Seat 4: pupoCHECK (155367.00)
+Seat 5: SeregaGal88 (80605.00)
+Seat 6: Xaviptm (24250.00)
+Seat 7: JohnChae0929 (226292.00)
+Seat 8: JuampyG97 (89475.00)
+Fischapryce posts ante 375.00
+pyup posts ante 375.00
+nicotoon posts ante 375.00
+pupoCHECK posts ante 375.00
+SeregaGal88 posts ante 375.00
+Xaviptm posts ante 375.00
+JohnChae0929 posts ante 375.00
+JuampyG97 posts ante 375.00
+JuampyG97 posts the small blind 1500.00
+Fischapryce posts the big blind 3000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to JohnChae0929 [Ad 3s]
+pyup folds
+nicotoon folds
+pupoCHECK folds
+SeregaGal88 folds
+Xaviptm folds
+JohnChae0929 raises 7500.00 to 7500.00
+JuampyG97 folds
+Fischapryce calls 4500.00
+*** FLOP *** [Jc 2h 7h]
+Main pot 19500.00
+Fischapryce checks
+JohnChae0929 checks
+*** TURN *** [Jc 2h 7h] [Kh]
+Main pot 19500.00
+Fischapryce checks
+JohnChae0929 checks
+*** RIVER *** [Jc 2h 7h Kh] [5d]
+Main pot 19500.00
+Fischapryce checks
+JohnChae0929 checks
+*** SHOW DOWN ***
+Main pot 19500.00
+Fischapryce shows [Ac 2c] (a pair of Deuces [2h 2c Ac Kh Jc])
+JohnChae0929 shows [Ad 3s] (a high card, Ace high [Ad Kh Jc 7h 5d])
+Fischapryce collected 19500.00 from main pot
+*** SUMMARY ***
+Total pot 19500.00
+Board [Jc 2h 7h Kh 5d]
+Seat 1: Fischapryce (big blind) showed [Ac 2c] and won 19500.00 with a pair of Deuces [2h 2c Ac Kh Jc]
+Seat 2: pyup folded on the Pre-Flop and did not bet
+Seat 3: nicotoon folded on the Pre-Flop and did not bet
+Seat 4: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: Xaviptm folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 (button) showed [Ad 3s] and lost with a high card, Ace high [Ad Kh Jc 7h 5d]
+Seat 8: JuampyG97 (small blind) folded on the Pre-Flop
+

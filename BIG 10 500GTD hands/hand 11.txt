@@ -1,0 +1,50 @@
+Game Hand #1851855291 - Tournament #30459245 - Holdem(No Limit) - Level 11 (700.00/1400.00)- 2023/09/08 17:42:00 UTC
+Table '28' 8-max Seat #2 is the button
+Seat 1: Barraccudda (14831.00)
+Seat 2: MikeWazowski77 (41879.00)
+Seat 3: TytusB (77042.00)
+Seat 4: emikshacr (59792.00)
+Seat 5: kot1k (40608.00)
+Seat 6: JohnChae0929 (46937.00)
+Seat 7: Botfly65 (38010.00)
+Seat 8: deathloyd1 (218967.00)
+Barraccudda posts ante 175.00
+MikeWazowski77 posts ante 175.00
+TytusB posts ante 175.00
+emikshacr posts ante 175.00
+kot1k posts ante 175.00
+JohnChae0929 posts ante 175.00
+Botfly65 posts ante 175.00
+deathloyd1 posts ante 175.00
+TytusB posts the small blind 700.00
+emikshacr posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to JohnChae0929 [4s 4h]
+kot1k folds
+JohnChae0929 raises 2800.00 to 2800.00
+Botfly65 folds
+deathloyd1 folds
+Barraccudda folds
+MikeWazowski77 folds
+TytusB calls 2100.00
+emikshacr folds
+*** FLOP *** [Jc 2d 7d]
+Main pot 8400.00
+TytusB checks
+JohnChae0929 bets 2772.00
+TytusB folds
+Uncalled bet (2772.00) returned to JohnChae0929
+JohnChae0929 does not show
+*** SUMMARY ***
+Total pot 8400.00
+Board [Jc 2d 7d]
+Seat 1: Barraccudda folded on the Pre-Flop and did not bet
+Seat 2: MikeWazowski77 (button) folded on the Pre-Flop
+Seat 3: TytusB (small blind) folded on the Flop
+Seat 4: emikshacr (big blind) folded on the Pre-Flop
+Seat 5: kot1k folded on the Pre-Flop and did not bet
+Seat 6: JohnChae0929 did not show and won 8400.00
+Seat 7: Botfly65 folded on the Pre-Flop and did not bet
+Seat 8: deathloyd1 folded on the Pre-Flop and did not bet
+

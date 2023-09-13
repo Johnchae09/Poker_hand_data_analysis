@@ -1,0 +1,60 @@
+Game Hand #1851946418 - Tournament #30459245 - Holdem(No Limit) - Level 16 (1750.00/3500.00)- 2023/09/08 19:11:29 UTC
+Table '34' 8-max Seat #2 is the button
+Seat 1: Fischapryce (73968.00)
+Seat 2: pyup (8475.00)
+Seat 3: nicotoon (95262.00)
+Seat 4: pupoCHECK (149242.00)
+Seat 5: SeregaGal88 (26074.00)
+Seat 6: kmac2464 (76200.00)
+Seat 7: JohnChae0929 (322848.00)
+Seat 8: danya44444 (353975.00)
+Fischapryce posts ante 450.00
+pyup posts ante 450.00
+nicotoon posts ante 450.00
+pupoCHECK posts ante 450.00
+SeregaGal88 posts ante 450.00
+kmac2464 posts ante 450.00
+JohnChae0929 posts ante 450.00
+danya44444 posts ante 450.00
+nicotoon posts the small blind 1750.00
+pupoCHECK posts the big blind 3500.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to JohnChae0929 [Tc 5c]
+SeregaGal88 folds
+kmac2464 folds
+JohnChae0929 folds
+danya44444 raises 7000.00 to 7000.00
+Fischapryce folds
+pyup folds
+nicotoon folds
+pupoCHECK calls 3500.00
+*** FLOP *** [Jc 3d Ts]
+Main pot 19350.00
+pupoCHECK checks
+danya44444 checks
+*** TURN *** [Jc 3d Ts] [As]
+Main pot 19350.00
+pupoCHECK checks
+danya44444 checks
+*** RIVER *** [Jc 3d Ts As] [Kh]
+Main pot 19350.00
+pupoCHECK bets 12182.00
+danya44444 calls 12182.00
+*** SHOW DOWN ***
+Main pot 43714.00
+pupoCHECK shows [Qh 7h] (a straight, Ace high [As Kh Qh Jc Ts])
+danya44444 shows [Ks 6s] (a pair of Kings [Ks Kh As Jc Ts])
+pupoCHECK collected 43714.00 from main pot
+*** SUMMARY ***
+Total pot 43714.00
+Board [Jc 3d Ts As Kh]
+Seat 1: Fischapryce folded on the Pre-Flop and did not bet
+Seat 2: pyup (button) folded on the Pre-Flop
+Seat 3: nicotoon (small blind) folded on the Pre-Flop
+Seat 4: pupoCHECK (big blind) showed [Qh 7h] and won 43714.00 with a straight, Ace high [As Kh Qh Jc Ts]
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: kmac2464 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: danya44444 showed [Ks 6s] and lost with a pair of Kings [Ks Kh As Jc Ts]
+
