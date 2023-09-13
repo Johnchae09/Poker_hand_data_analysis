@@ -1,0 +1,60 @@
+Game Hand #1852002531 - Tournament #30459245 - Holdem(No Limit) - Level 20 (3500.00/7000.00)- 2023/09/08 20:01:06 UTC
+Table '34' 8-max Seat #4 is the button
+Seat 1: schAAdenfreude (437529.00)
+Seat 2: ryokan777 (270869.00)
+Seat 3: BlanKpoker (291685.00)
+Seat 4: stankfist (394324.00)
+Seat 5: ColeStates14 (107216.00)
+Seat 6: RoWdY29 (132213.00)
+Seat 7: JohnChae0929 (954775.00) is sitting out
+Seat 8: danya44444 (474696.00)
+schAAdenfreude posts ante 875.00
+ryokan777 posts ante 875.00
+BlanKpoker posts ante 875.00
+stankfist posts ante 875.00
+ColeStates14 posts ante 875.00
+RoWdY29 posts ante 875.00
+JohnChae0929 posts ante 875.00
+danya44444 posts ante 875.00
+ColeStates14 posts the small blind 3500.00
+RoWdY29 posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to JohnChae0929 [Kh Qc]
+JohnChae0929 folds
+danya44444 folds
+schAAdenfreude folds
+ryokan777 folds
+BlanKpoker folds
+stankfist folds
+ColeStates14 calls 3500.00
+RoWdY29 checks
+*** FLOP *** [6c 2h 3s]
+Main pot 21000.00
+ColeStates14 bets 7000.00
+RoWdY29 calls 7000.00
+*** TURN *** [6c 2h 3s] [Jd]
+Main pot 35000.00
+ColeStates14 checks
+RoWdY29 checks
+*** RIVER *** [6c 2h 3s Jd] [Ah]
+Main pot 35000.00
+ColeStates14 checks
+RoWdY29 checks
+*** SHOW DOWN ***
+Main pot 35000.00
+ColeStates14 shows [3c 4c] (a pair of Threes [3s 3c Ah Jd 6c])
+RoWdY29 shows [2d Tc] (a pair of Deuces [2h 2d Ah Jd Tc])
+ColeStates14 collected 35000.00 from main pot
+*** SUMMARY ***
+Total pot 35000.00
+Board [6c 2h 3s Jd Ah]
+Seat 1: schAAdenfreude folded on the Pre-Flop and did not bet
+Seat 2: ryokan777 folded on the Pre-Flop and did not bet
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: stankfist (button) folded on the Pre-Flop
+Seat 5: ColeStates14 (small blind) showed [3c 4c] and won 35000.00 with a pair of Threes [3s 3c Ah Jd 6c]
+Seat 6: RoWdY29 (big blind) showed [2d Tc] and lost with a pair of Deuces [2h 2d Ah Jd Tc]
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: danya44444 folded on the Pre-Flop and did not bet
+

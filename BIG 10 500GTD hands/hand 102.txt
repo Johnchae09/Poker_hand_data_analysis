@@ -1,0 +1,61 @@
+Game Hand #1851995360 - Tournament #30459245 - Holdem(No Limit) - Level 20 (3500.00/7000.00)- 2023/09/08 19:51:41 UTC
+Table '34' 8-max Seat #8 is the button
+Seat 1: schAAdenfreude (318887.00)
+Seat 2: ryokan777 (361511.00)
+Seat 3: BlanKpoker (305685.00)
+Seat 4: stankfist (383824.00)
+Seat 5: ColeStates14 (124716.00)
+Seat 6: RoWdY29 (118213.00)
+Seat 7: JohnChae0929 (958275.00)
+Seat 8: danya44444 (492196.00)
+schAAdenfreude posts ante 875.00
+ryokan777 posts ante 875.00
+BlanKpoker posts ante 875.00
+stankfist posts ante 875.00
+ColeStates14 posts ante 875.00
+RoWdY29 posts ante 875.00
+JohnChae0929 posts ante 875.00
+danya44444 posts ante 875.00
+schAAdenfreude posts the small blind 3500.00
+ryokan777 posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to JohnChae0929 [9s 3s]
+BlanKpoker folds
+stankfist folds
+ColeStates14 folds
+RoWdY29 folds
+JohnChae0929 folds
+danya44444 raises 14000.00 to 14000.00
+schAAdenfreude calls 10500.00
+ryokan777 calls 7000.00
+*** FLOP *** [5h 7s Qc]
+Main pot 49000.00
+schAAdenfreude checks
+ryokan777 checks
+danya44444 checks
+*** TURN *** [5h 7s Qc] [6s]
+Main pot 49000.00
+schAAdenfreude bets 19110.00
+ryokan777 raises 38220.00 to 38220.00
+danya44444 folds
+schAAdenfreude raises 68032.00 to 87142.00
+ryokan777 calls 48922.00
+*** RIVER *** [5h 7s Qc 6s] [Jd]
+Main pot 223284.00
+schAAdenfreude bets 111642.00
+ryokan777 folds
+Uncalled bet (111642.00) returned to schAAdenfreude
+schAAdenfreude does not show
+*** SUMMARY ***
+Total pot 223284.00
+Board [5h 7s Qc 6s Jd]
+Seat 1: schAAdenfreude did not show and won 223284.00
+Seat 2: ryokan777 (big blind) folded on the River
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 5: ColeStates14 folded on the Pre-Flop and did not bet
+Seat 6: RoWdY29 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: danya44444 (button) folded on the Turn
+

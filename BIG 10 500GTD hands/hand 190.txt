@@ -1,0 +1,61 @@
+Game Hand #1851901555 - Tournament #30459245 - Holdem(No Limit) - Level 14 (1250.00/2500.00)- 2023/09/08 18:28:14 UTC
+Table '35' 8-max Seat #7 is the button
+Seat 1: Jotacef777 (237224.00)
+Seat 2: JohnChae0929 (202842.00)
+Seat 3: pupoCHECK (136492.00)
+Seat 4: shiva003 (63546.00)
+Seat 5: SeregaGal88 (61342.00)
+Seat 6: JuampyG97 (85375.00)
+Seat 7: vardja (48057.00)
+Seat 8: FeltSniffer (29096.00)
+Jotacef777 posts ante 325.00
+JohnChae0929 posts ante 325.00
+pupoCHECK posts ante 325.00
+shiva003 posts ante 325.00
+SeregaGal88 posts ante 325.00
+JuampyG97 posts ante 325.00
+vardja posts ante 325.00
+FeltSniffer posts ante 325.00
+FeltSniffer posts the small blind 1250.00
+Jotacef777 posts the big blind 2500.00
+*** HOLE CARDS ***
+Main pot 2600.00
+Dealt to JohnChae0929 [6c 6s]
+JohnChae0929 raises 5000.00 to 5000.00
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 folds
+JuampyG97 folds
+vardja raises 47732.00 to 47732.00 and is all-in
+FeltSniffer calls 27521.00 and is all-in
+Jotacef777 calls 45232.00
+JohnChae0929 folds
+*** FLOP *** [5h 9h Jd]
+Main pot 93913.00
+Side pot(1) 37922.00
+*** TURN *** [5h 9h Jd] [5s]
+Main pot 93913.00
+Side pot(1) 37922.00
+*** RIVER *** [5h 9h Jd 5s] [9c]
+Main pot 93913.00
+Side pot(1) 37922.00
+*** SHOW DOWN ***
+Main pot 93913.00
+Side pot(1) 37922.00
+Jotacef777 shows [Ah Kh] (two pair, Nines and Fives [9h 9c 5s 5h Ah])
+vardja shows [7c 7h] (two pair, Nines and Sevens [9h 9c 7h 7c Jd])
+FeltSniffer shows [Kd Qs] (two pair, Nines and Fives [9h 9c 5s 5h Kd])
+vardja collected 93913.00 from main pot
+vardja collected 37922.00 from side pot-1
+*** SUMMARY ***
+Total pot 131835.00
+Board [5h 9h Jd 5s 9c]
+Seat 1: Jotacef777 (big blind) showed [Ah Kh] and lost with two pair, Nines and Fives [9h 9c 5s 5h Ah]
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 4: shiva003 folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: JuampyG97 folded on the Pre-Flop and did not bet
+Seat 7: vardja (button) showed [7c 7h] and won 131835.00 with two pair, Nines and Sevens [9h 9c 7h 7c Jd]
+Seat 8: FeltSniffer (small blind) showed [Kd Qs] and lost with two pair, Nines and Fives [9h 9c 5s 5h Kd]
+

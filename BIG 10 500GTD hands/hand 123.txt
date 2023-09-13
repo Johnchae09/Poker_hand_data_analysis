@@ -1,0 +1,58 @@
+Game Hand #1852021966 - Tournament #30459245 - Holdem(No Limit) - Level 22 (5000.00/10000.00)- 2023/09/08 20:18:02 UTC
+Table '34' 8-max Seat #5 is the button
+Seat 1: schAAdenfreude (530367.00)
+Seat 2: ryokan777 (292275.00)
+Seat 3: BlanKpoker (616120.00)
+Seat 4: stankfist (312199.00)
+Seat 5: ntimidatr (163006.00)
+Seat 7: JohnChae0929 (971650.00)
+Seat 8: SoLoveLA (130828.00)
+schAAdenfreude posts ante 1250.00
+ryokan777 posts ante 1250.00
+BlanKpoker posts ante 1250.00
+stankfist posts ante 1250.00
+ntimidatr posts ante 1250.00
+JohnChae0929 posts ante 1250.00
+SoLoveLA posts ante 1250.00
+JohnChae0929 posts the small blind 5000.00
+SoLoveLA posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 8750.00
+Dealt to JohnChae0929 [2d 7h]
+schAAdenfreude folds
+ryokan777 raises 20000.00 to 20000.00
+BlanKpoker raises 60000.00 to 60000.00
+stankfist folds
+ntimidatr folds
+JohnChae0929 folds
+SoLoveLA folds
+ryokan777 calls 40000.00
+*** FLOP *** [9d Qc 8s]
+Main pot 143750.00
+ryokan777 checks
+BlanKpoker bets 35938.00
+ryokan777 calls 35938.00
+*** TURN *** [9d Qc 8s] [4d]
+Main pot 215626.00
+ryokan777 checks
+BlanKpoker bets 215626.00
+ryokan777 calls 195087.00 and is all-in
+Uncalled bet (20539.00) returned to BlanKpoker
+*** RIVER *** [9d Qc 8s 4d] [As]
+Main pot 605800.00
+*** SHOW DOWN ***
+Main pot 605800.00
+ryokan777 shows [Ad Jd] (a pair of Aces [As Ad Qc Jd 9d])
+BlanKpoker shows [Ac Qd] (two pair, Aces and Queens [As Ac Qd Qc 9d])
+BlanKpoker collected 605800.00 from main pot
+*** SUMMARY ***
+Total pot 605800.00
+Board [9d Qc 8s 4d As]
+Seat 1: schAAdenfreude folded on the Pre-Flop and did not bet
+Seat 2: ryokan777 showed [Ad Jd] and lost with a pair of Aces [As Ad Qc Jd 9d]
+Seat 3: BlanKpoker showed [Ac Qd] and won 605800.00 with two pair, Aces and Queens [As Ac Qd Qc 9d]
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 5: ntimidatr (button) folded on the Pre-Flop
+Seat 7: JohnChae0929 (small blind) folded on the Pre-Flop
+Seat 8: SoLoveLA (big blind) folded on the Pre-Flop
+

@@ -1,0 +1,62 @@
+Game Hand #1852036226 - Tournament #30459245 - Holdem(No Limit) - Level 23 (6000.00/12000.00)- 2023/09/08 20:29:31 UTC
+Table '34' 8-max Seat #1 is the button
+Seat 1: schAAdenfreude (469167.00)
+Seat 2: cat_of_yoshka (452116.00)
+Seat 3: BlanKpoker (651946.00)
+Seat 4: stankfist (614398.00)
+Seat 5: ntimidatr (122006.00)
+Seat 6: danya44444 (742815.00)
+Seat 7: JohnChae0929 (1082250.00)
+Seat 8: SoLoveLA (94578.00)
+schAAdenfreude posts ante 1500.00
+cat_of_yoshka posts ante 1500.00
+BlanKpoker posts ante 1500.00
+stankfist posts ante 1500.00
+ntimidatr posts ante 1500.00
+danya44444 posts ante 1500.00
+JohnChae0929 posts ante 1500.00
+SoLoveLA posts ante 1500.00
+cat_of_yoshka posts the small blind 6000.00
+BlanKpoker posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to JohnChae0929 [Td Ad]
+stankfist folds
+ntimidatr raises 66000.00 to 66000.00
+danya44444 folds
+JohnChae0929 raises 180000.00 to 180000.00
+SoLoveLA folds
+schAAdenfreude folds
+cat_of_yoshka raises 444616.00 to 450616.00 and is all-in
+BlanKpoker folds
+ntimidatr calls 54506.00 and is all-in
+JohnChae0929 calls 270616.00
+*** FLOP *** [9c 7h Ts]
+Main pot 385518.00
+Side pot(1) 660220.00
+*** TURN *** [9c 7h Ts] [Ah]
+Main pot 385518.00
+Side pot(1) 660220.00
+*** RIVER *** [9c 7h Ts Ah] [Kh]
+Main pot 385518.00
+Side pot(1) 660220.00
+*** SHOW DOWN ***
+Main pot 385518.00
+Side pot(1) 660220.00
+cat_of_yoshka shows [Jc Jh] (a pair of Jacks [Jh Jc Ah Kh Ts])
+ntimidatr shows [As Qh] (a pair of Aces [As Ah Kh Qh Ts])
+JohnChae0929 shows [Td Ad] (two pair, Aces and Tens [Ah Ad Ts Td Kh])
+JohnChae0929 collected 385518.00 from main pot
+JohnChae0929 collected 660220.00 from side pot-1
+*** SUMMARY ***
+Total pot 1045738.00
+Board [9c 7h Ts Ah Kh]
+Seat 1: schAAdenfreude (button) folded on the Pre-Flop
+Seat 2: cat_of_yoshka (small blind) showed [Jc Jh] and lost with a pair of Jacks [Jh Jc Ah Kh Ts]
+Seat 3: BlanKpoker (big blind) folded on the Pre-Flop
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 5: ntimidatr showed [As Qh] and lost with a pair of Aces [As Ah Kh Qh Ts]
+Seat 6: danya44444 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 showed [Td Ad] and won 1045738.00 with two pair, Aces and Tens [Ah Ad Ts Td Kh]
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+

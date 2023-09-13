@@ -1,0 +1,61 @@
+Game Hand #1851889761 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:17:13 UTC
+Table '35' 8-max Seat #6 is the button
+Seat 1: Jotacef777 (201820.00)
+Seat 2: JohnChae0929 (239917.00)
+Seat 3: pupoCHECK (85127.00)
+Seat 4: shiva003 (81371.00)
+Seat 5: SeregaGal88 (28167.00)
+Seat 6: jjvargas will be allowed to play after the button
+Seat 7: vardja (79352.00)
+Seat 8: FeltSniffer (78220.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+vardja posts ante 250.00
+FeltSniffer posts ante 250.00
+vardja posts the small blind 1000.00
+FeltSniffer posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to JohnChae0929 [4c 7c]
+Jotacef777 folds
+JohnChae0929 folds
+pupoCHECK raises 4000.00 to 4000.00
+shiva003 folds
+SeregaGal88 folds
+vardja calls 3000.00
+FeltSniffer calls 2000.00
+*** FLOP *** [Jh 4h Ac]
+Main pot 13750.00
+vardja checks
+FeltSniffer checks
+pupoCHECK bets 7900.00
+vardja calls 7900.00
+FeltSniffer folds
+*** TURN *** [Jh 4h Ac] [Th]
+Main pot 29550.00
+vardja checks
+pupoCHECK checks
+*** RIVER *** [Jh 4h Ac Th] [3c]
+Main pot 29550.00
+vardja checks
+pupoCHECK bets 13820.00
+vardja calls 13820.00
+*** SHOW DOWN ***
+Main pot 57190.00
+pupoCHECK shows [Ad Td] (two pair, Aces and Tens [Ad Ac Th Td Jh])
+vardja shows [Jd Kh] (a pair of Jacks [Jh Jd Ac Kh Th])
+pupoCHECK collected 57190.00 from main pot
+*** SUMMARY ***
+Total pot 57190.00
+Board [Jh 4h Ac Th 3c]
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: pupoCHECK showed [Ad Td] and won 57190.00 with two pair, Aces and Tens [Ad Ac Th Td Jh]
+Seat 4: shiva003 folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 7: vardja (small blind) showed [Jd Kh] and lost with a pair of Jacks [Jh Jd Ac Kh Th]
+Seat 8: FeltSniffer (big blind) folded on the Flop
+

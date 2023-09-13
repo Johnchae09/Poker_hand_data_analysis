@@ -1,0 +1,57 @@
+Game Hand #1852019398 - Tournament #30459245 - Holdem(No Limit) - Level 22 (5000.00/10000.00)- 2023/09/08 20:15:50 UTC
+Table '34' 8-max Seat #3 is the button
+Seat 1: schAAdenfreude (532867.00)
+Seat 2: ryokan777 (562335.00)
+Seat 3: BlanKpoker (292560.00)
+Seat 4: stankfist (319699.00)
+Seat 5: ntimidatr (191506.00)
+Seat 7: JohnChae0929 (984150.00)
+Seat 8: SoLoveLA (133328.00)
+schAAdenfreude posts ante 1250.00
+ryokan777 posts ante 1250.00
+BlanKpoker posts ante 1250.00
+stankfist posts ante 1250.00
+ntimidatr posts ante 1250.00
+JohnChae0929 posts ante 1250.00
+SoLoveLA posts ante 1250.00
+stankfist posts the small blind 5000.00
+ntimidatr posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 8750.00
+Dealt to JohnChae0929 [9h 8c]
+JohnChae0929 folds
+SoLoveLA folds
+schAAdenfreude folds
+ryokan777 raises 21000.00 to 21000.00
+BlanKpoker calls 21000.00
+stankfist folds
+ntimidatr calls 11000.00
+*** FLOP *** [Kc 7d Ah]
+Main pot 76750.00
+ntimidatr checks
+ryokan777 bets 14188.00
+BlanKpoker calls 14188.00
+ntimidatr folds
+*** TURN *** [Kc 7d Ah] [8d]
+Main pot 105126.00
+ryokan777 bets 105126.00
+BlanKpoker raises 256122.00 to 256122.00 and is all-in
+ryokan777 calls 150996.00
+*** RIVER *** [Kc 7d Ah 8d] [8h]
+Main pot 617370.00
+*** SHOW DOWN ***
+Main pot 617370.00
+ryokan777 shows [Qd Td] (a pair of Eights [8h 8d Ah Kc Qd])
+BlanKpoker shows [7s As] (two pair, Aces and Eights [As Ah 8h 8d Kc])
+BlanKpoker collected 617370.00 from main pot
+*** SUMMARY ***
+Total pot 617370.00
+Board [Kc 7d Ah 8d 8h]
+Seat 1: schAAdenfreude folded on the Pre-Flop and did not bet
+Seat 2: ryokan777 showed [Qd Td] and lost with a pair of Eights [8h 8d Ah Kc Qd]
+Seat 3: BlanKpoker (button) showed [7s As] and won 617370.00 with two pair, Aces and Eights [As Ah 8h 8d Kc]
+Seat 4: stankfist (small blind) folded on the Pre-Flop
+Seat 5: ntimidatr (big blind) folded on the Flop
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+

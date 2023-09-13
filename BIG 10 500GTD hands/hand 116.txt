@@ -1,0 +1,46 @@
+Game Hand #1852014068 - Tournament #30459245 - Holdem(No Limit) - Level 21 (4000.00/8000.00)- 2023/09/08 20:11:15 UTC
+Table '34' 8-max Seat #6 is the button
+Seat 1: schAAdenfreude (574492.00)
+Seat 2: ryokan777 (447835.00)
+Seat 3: BlanKpoker (286060.00)
+Seat 4: stankfist (335199.00)
+Seat 6: noupgrade (30125.00)
+Seat 7: JohnChae0929 (993650.00)
+Seat 8: SoLoveLA (178828.00)
+schAAdenfreude posts ante 1000.00
+ryokan777 posts ante 1000.00
+BlanKpoker posts ante 1000.00
+stankfist posts ante 1000.00
+noupgrade posts ante 1000.00
+JohnChae0929 posts ante 1000.00
+SoLoveLA posts ante 1000.00
+JohnChae0929 posts the small blind 4000.00
+SoLoveLA posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to JohnChae0929 [7c Ks]
+schAAdenfreude folds
+ryokan777 folds
+BlanKpoker raises 16000.00 to 16000.00
+stankfist folds
+noupgrade folds
+JohnChae0929 folds
+SoLoveLA calls 8000.00
+*** FLOP *** [As 4h Jc]
+Main pot 43000.00
+SoLoveLA checks
+BlanKpoker bets 10750.00
+SoLoveLA folds
+Uncalled bet (10750.00) returned to BlanKpoker
+BlanKpoker does not show
+*** SUMMARY ***
+Total pot 43000.00
+Board [As 4h Jc]
+Seat 1: schAAdenfreude folded on the Pre-Flop and did not bet
+Seat 2: ryokan777 folded on the Pre-Flop and did not bet
+Seat 3: BlanKpoker did not show and won 43000.00
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 6: noupgrade (button) folded on the Pre-Flop
+Seat 7: JohnChae0929 (small blind) folded on the Pre-Flop
+Seat 8: SoLoveLA (big blind) folded on the Flop
+

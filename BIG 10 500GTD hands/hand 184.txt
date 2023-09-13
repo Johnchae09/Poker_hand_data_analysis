@@ -1,0 +1,56 @@
+Game Hand #1851893879 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:21:02 UTC
+Table '35' 8-max Seat #1 is the button
+Seat 1: Jotacef777 (196070.00)
+Seat 2: JohnChae0929 (244167.00)
+Seat 3: pupoCHECK (115847.00)
+Seat 4: shiva003 (80621.00)
+Seat 5: SeregaGal88 (44417.00)
+Seat 6: jjvargas (34500.00)
+Seat 7: vardja (52882.00)
+Seat 8: FeltSniffer (60470.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+jjvargas posts ante 250.00
+vardja posts ante 250.00
+FeltSniffer posts ante 250.00
+JohnChae0929 posts the small blind 1000.00
+pupoCHECK posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to JohnChae0929 [9s 3s]
+shiva003 folds
+SeregaGal88 folds
+jjvargas raises 9000.00 to 9000.00
+vardja folds
+FeltSniffer raises 60220.00 to 60220.00 and is all-in
+Jotacef777 folds
+JohnChae0929 folds
+pupoCHECK folds
+jjvargas calls 25250.00 and is all-in
+Uncalled bet (25970.00) returned to FeltSniffer
+*** FLOP *** [6d 3c 9h]
+Main pot 73500.00
+*** TURN *** [6d 3c 9h] [6s]
+Main pot 73500.00
+*** RIVER *** [6d 3c 9h 6s] [Kd]
+Main pot 73500.00
+*** SHOW DOWN ***
+Main pot 73500.00
+jjvargas shows [Js Jd] (two pair, Jacks and Sixs [Js Jd 6s 6d Kd])
+FeltSniffer shows [Ac Kc] (two pair, Kings and Sixs [Kd Kc 6s 6d Ac])
+FeltSniffer collected 73500.00 from main pot
+*** SUMMARY ***
+Total pot 73500.00
+Board [6d 3c 9h 6s Kd]
+Seat 1: Jotacef777 (button) folded on the Pre-Flop
+Seat 2: JohnChae0929 (small blind) folded on the Pre-Flop
+Seat 3: pupoCHECK (big blind) folded on the Pre-Flop
+Seat 4: shiva003 folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: jjvargas showed [Js Jd] and lost with two pair, Jacks and Sixs [Js Jd 6s 6d Kd]
+Seat 7: vardja folded on the Pre-Flop and did not bet
+Seat 8: FeltSniffer showed [Ac Kc] and won 73500.00 with two pair, Kings and Sixs [Kd Kc 6s 6d Ac]
+

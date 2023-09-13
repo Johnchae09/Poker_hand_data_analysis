@@ -1,0 +1,55 @@
+Game Hand #1852044255 - Tournament #30459245 - Holdem(No Limit) - Level 24 (7000.00/14000.00)- 2023/09/08 20:36:05 UTC
+Table '34' 8-max Seat #1 is the button
+Seat 2: BimBonik (296837.00)
+Seat 3: BlanKpoker (622946.00)
+Seat 4: stankfist (613898.00)
+Seat 5: pupoCHECK (119232.00)
+Seat 6: danya44444 (713815.00)
+Seat 7: JohnChae0929 (1635944.00)
+Seat 8: SoLoveLA (172906.00)
+BimBonik posts ante 1750.00
+BlanKpoker posts ante 1750.00
+stankfist posts ante 1750.00
+pupoCHECK posts ante 1750.00
+danya44444 posts ante 1750.00
+JohnChae0929 posts ante 1750.00
+SoLoveLA posts ante 1750.00
+BimBonik posts the small blind 7000.00
+BlanKpoker posts the big blind 14000.00
+*** HOLE CARDS ***
+Main pot 12250.00
+Dealt to JohnChae0929 [Ah Qd]
+stankfist folds
+pupoCHECK folds
+danya44444 folds
+JohnChae0929 raises 29400.00 to 29400.00
+SoLoveLA folds
+BimBonik folds
+BlanKpoker calls 15400.00
+*** FLOP *** [2h 4d Kh]
+Main pot 78050.00
+BlanKpoker checks
+JohnChae0929 bets 25757.00
+BlanKpoker calls 25757.00
+*** TURN *** [2h 4d Kh] [3c]
+Main pot 129564.00
+BlanKpoker checks
+JohnChae0929 checks
+*** RIVER *** [2h 4d Kh 3c] [8h]
+Main pot 129564.00
+BlanKpoker bets 42756.00
+JohnChae0929 raises 256200.00 to 256200.00
+BlanKpoker folds
+Uncalled bet (213444.00) returned to JohnChae0929
+JohnChae0929 shows [Ah -]
+*** SUMMARY ***
+Total pot 215076.00
+Board [2h 4d Kh 3c 8h]
+Seat 2: BimBonik (small blind) folded on the Pre-Flop
+Seat 3: BlanKpoker (big blind) folded on the River
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 5: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 6: danya44444 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 showed [Ah -] and won 215076.00
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+

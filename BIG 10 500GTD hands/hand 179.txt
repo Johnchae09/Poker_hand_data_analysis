@@ -1,0 +1,51 @@
+Game Hand #1851888059 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:15:39 UTC
+Table '35' 8-max Seat #4 is the button
+Seat 1: Jotacef777 (202320.00)
+Seat 2: JohnChae0929 (221361.00)
+Seat 3: pupoCHECK (79877.00)
+Seat 4: shiva003 (81871.00)
+Seat 5: SeregaGal88 (29667.00)
+Seat 6: ramsi2309 (16556.00)
+Seat 8: FeltSniffer (78720.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+ramsi2309 posts ante 250.00
+FeltSniffer posts ante 250.00
+SeregaGal88 posts the small blind 1000.00
+ramsi2309 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to JohnChae0929 [Tc 8c]
+FeltSniffer folds
+Jotacef777 folds
+JohnChae0929 raises 4000.00 to 4000.00
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 folds
+ramsi2309 raises 14306.00 to 16306.00 and is all-in
+JohnChae0929 calls 12306.00
+*** FLOP *** [6c 8h Jc]
+Main pot 35362.00
+*** TURN *** [6c 8h Jc] [As]
+Main pot 35362.00
+*** RIVER *** [6c 8h Jc As] [6s]
+Main pot 35362.00
+*** SHOW DOWN ***
+Main pot 35362.00
+JohnChae0929 shows [Tc 8c] (two pair, Eights and Sixs [8h 8c 6s 6c As])
+ramsi2309 shows [Kd 7s] (a pair of Sixs [6s 6c As Kd Jc])
+JohnChae0929 collected 35362.00 from main pot
+*** SUMMARY ***
+Total pot 35362.00
+Board [6c 8h Jc As 6s]
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 showed [Tc 8c] and won 35362.00 with two pair, Eights and Sixs [8h 8c 6s 6c As]
+Seat 3: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 4: shiva003 (button) folded on the Pre-Flop
+Seat 5: SeregaGal88 (small blind) folded on the Pre-Flop
+Seat 6: ramsi2309 (big blind) showed [Kd 7s] and lost with a pair of Sixs [6s 6c As Kd Jc]
+Seat 8: FeltSniffer folded on the Pre-Flop and did not bet
+

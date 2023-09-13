@@ -1,0 +1,54 @@
+Game Hand #1851883330 - Tournament #30459245 - Holdem(No Limit) - Level 12 (800.00/1600.00)- 2023/09/08 18:11:17 UTC
+Table '35' 8-max Seat #1 is the button
+Seat 1: Jotacef777 (90360.00) is sitting out
+Seat 2: JohnChae0929 (98587.00)
+Seat 3: pupoCHECK (42577.00)
+Seat 4: shiva003 (85571.00)
+Seat 5: SeregaGal88 (32367.00)
+Seat 6: ramsi2309 (107166.00)
+Seat 7: AharonEl (36800.00)
+Seat 8: FeltSniffer (194507.00)
+Jotacef777 posts ante 200.00
+JohnChae0929 posts ante 200.00
+pupoCHECK posts ante 200.00
+shiva003 posts ante 200.00
+SeregaGal88 posts ante 200.00
+ramsi2309 posts ante 200.00
+AharonEl posts ante 200.00
+FeltSniffer posts ante 200.00
+JohnChae0929 posts the small blind 800.00
+pupoCHECK posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to JohnChae0929 [Kd 8s]
+shiva003 folds
+SeregaGal88 folds
+ramsi2309 folds
+AharonEl raises 36600.00 to 36600.00 and is all-in
+FeltSniffer folds
+Jotacef777 folds
+JohnChae0929 folds
+pupoCHECK calls 35000.00
+*** FLOP *** [3h 7c 2s]
+Main pot 75600.00
+*** TURN *** [3h 7c 2s] [2c]
+Main pot 75600.00
+*** RIVER *** [3h 7c 2s 2c] [8c]
+Main pot 75600.00
+*** SHOW DOWN ***
+Main pot 75600.00
+pupoCHECK shows [As Qh] (a pair of Deuces [2s 2c As Qh 8c])
+AharonEl shows [Js Kc] (a pair of Deuces [2s 2c Kc Js 8c])
+pupoCHECK collected 75600.00 from main pot
+*** SUMMARY ***
+Total pot 75600.00
+Board [3h 7c 2s 2c 8c]
+Seat 1: Jotacef777 (button) folded on the Pre-Flop
+Seat 2: JohnChae0929 (small blind) folded on the Pre-Flop
+Seat 3: pupoCHECK (big blind) showed [As Qh] and won 75600.00 with a pair of Deuces [2s 2c As Qh 8c] with the kicker Ace
+Seat 4: shiva003 folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: ramsi2309 folded on the Pre-Flop and did not bet
+Seat 7: AharonEl showed [Js Kc] and lost with a pair of Deuces [2s 2c Kc Js 8c]
+Seat 8: FeltSniffer folded on the Pre-Flop and did not bet
+

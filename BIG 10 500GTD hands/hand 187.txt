@@ -1,0 +1,60 @@
+Game Hand #1851897723 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:24:34 UTC
+Table '35' 8-max Seat #4 is the button
+Seat 1: Jotacef777 (195320.00)
+Seat 2: JohnChae0929 (207667.00)
+Seat 3: pupoCHECK (137317.00)
+Seat 4: shiva003 (76871.00)
+Seat 5: SeregaGal88 (41667.00)
+Seat 6: JuampyG97 (74500.00)
+Seat 7: vardja (52132.00)
+Seat 8: FeltSniffer (78500.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+JuampyG97 posts ante 250.00
+vardja posts ante 250.00
+FeltSniffer posts ante 250.00
+SeregaGal88 posts the small blind 1000.00
+JuampyG97 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to JohnChae0929 [9d Jh]
+vardja folds
+FeltSniffer raises 5500.00 to 5500.00
+Jotacef777 folds
+JohnChae0929 folds
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 folds
+JuampyG97 calls 3500.00
+*** FLOP *** [Qc 5d 9h]
+Main pot 14000.00
+JuampyG97 checks
+FeltSniffer checks
+*** TURN *** [Qc 5d 9h] [Qh]
+Main pot 14000.00
+JuampyG97 bets 4200.00
+FeltSniffer calls 4200.00
+*** RIVER *** [Qc 5d 9h Qh] [Kd]
+Main pot 22400.00
+JuampyG97 checks
+FeltSniffer checks
+*** SHOW DOWN ***
+Main pot 22400.00
+JuampyG97 shows [9s Ad] (two pair, Queens and Nines [Qh Qc 9s 9h Ad])
+FeltSniffer shows [2c Ac] (a pair of Queens [Qh Qc Ac Kd 9h])
+JuampyG97 collected 22400.00 from main pot
+*** SUMMARY ***
+Total pot 22400.00
+Board [Qc 5d 9h Qh Kd]
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 4: shiva003 (button) folded on the Pre-Flop
+Seat 5: SeregaGal88 (small blind) folded on the Pre-Flop
+Seat 6: JuampyG97 (big blind) showed [9s Ad] and won 22400.00 with two pair, Queens and Nines [Qh Qc 9s 9h Ad]
+Seat 7: vardja folded on the Pre-Flop and did not bet
+Seat 8: FeltSniffer showed [2c Ac] and lost with a pair of Queens [Qh Qc Ac Kd 9h]
+

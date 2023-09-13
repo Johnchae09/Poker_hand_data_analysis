@@ -1,0 +1,59 @@
+Game Hand #1852062025 - Tournament #30459245 - Holdem(No Limit) - Level 25 (8000.00/16000.00)- 2023/09/08 20:51:01 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: blacklinesmoke (663720.00)
+Seat 2: BimBonik (361174.00)
+Seat 3: BlanKpoker (459683.00)
+Seat 5: Dino84 (979790.00)
+Seat 6: danya44444 (650985.00)
+Seat 7: JohnChae0929 (1725108.00)
+Seat 8: SoLoveLA (147906.00)
+blacklinesmoke posts ante 2000.00
+BimBonik posts ante 2000.00
+BlanKpoker posts ante 2000.00
+Dino84 posts ante 2000.00
+danya44444 posts ante 2000.00
+JohnChae0929 posts ante 2000.00
+SoLoveLA posts ante 2000.00
+SoLoveLA posts the small blind 8000.00
+blacklinesmoke posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to JohnChae0929 [7s 7h]
+BimBonik folds
+BlanKpoker folds
+Dino84 folds
+danya44444 folds
+JohnChae0929 raises 33600.00 to 33600.00
+SoLoveLA folds
+blacklinesmoke calls 17600.00
+*** FLOP *** [Jd Ad Tc]
+Main pot 89200.00
+blacklinesmoke checks
+JohnChae0929 bets 22300.00
+blacklinesmoke calls 22300.00
+*** TURN *** [Jd Ad Tc] [7d]
+Main pot 133800.00
+blacklinesmoke checks
+JohnChae0929 bets 44154.00
+blacklinesmoke raises 96308.00 to 96308.00
+JohnChae0929 calls 52154.00
+*** RIVER *** [Jd Ad Tc 7d] [3s]
+Main pot 326416.00
+blacklinesmoke bets 326416.00
+JohnChae0929 calls 326416.00
+*** SHOW DOWN ***
+Main pot 979248.00
+blacklinesmoke shows [6d Qd] (a flush, Ace high [Ad Qd Jd 7d 6d])
+JohnChae0929 shows [7s 7h] (three of a kind, Set of Sevens [7s 7h 7d Ad Jd])
+blacklinesmoke collected 979248.00 from main pot
+*** SUMMARY ***
+Total pot 979248.00
+Board [Jd Ad Tc 7d 3s]
+Seat 1: blacklinesmoke (big blind) showed [6d Qd] and won 979248.00 with a flush, Ace high [Ad Qd Jd 7d 6d]
+Seat 2: BimBonik folded on the Pre-Flop and did not bet
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 5: Dino84 folded on the Pre-Flop and did not bet
+Seat 6: danya44444 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 (button) showed [7s 7h] and lost with three of a kind, Set of Sevens [7s 7h 7d Ad Jd]
+Seat 8: SoLoveLA (small blind) folded on the Pre-Flop
+

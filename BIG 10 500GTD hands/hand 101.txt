@@ -1,0 +1,46 @@
+Game Hand #1851994491 - Tournament #30459245 - Holdem(No Limit) - Level 20 (3500.00/7000.00)- 2023/09/08 19:50:56 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: schAAdenfreude (326762.00)
+Seat 3: BlanKpoker (306560.00)
+Seat 4: stankfist (384699.00)
+Seat 5: ColeStates14 (125591.00)
+Seat 6: RoWdY29 (119088.00)
+Seat 7: JohnChae0929 (1016375.00)
+Seat 8: danya44444 (422721.00)
+schAAdenfreude posts ante 875.00
+BlanKpoker posts ante 875.00
+stankfist posts ante 875.00
+ColeStates14 posts ante 875.00
+RoWdY29 posts ante 875.00
+JohnChae0929 posts ante 875.00
+danya44444 posts ante 875.00
+danya44444 posts the small blind 3500.00
+schAAdenfreude posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 6125.00
+Dealt to JohnChae0929 [2h 2s]
+BlanKpoker folds
+stankfist folds
+ColeStates14 folds
+RoWdY29 folds
+JohnChae0929 raises 14700.00 to 14700.00
+danya44444 raises 53725.00 to 57225.00
+schAAdenfreude folds
+JohnChae0929 calls 42525.00
+*** FLOP *** [Ts 4d 5h]
+Main pot 127575.00
+danya44444 bets 49394.00
+JohnChae0929 folds
+Uncalled bet (49394.00) returned to danya44444
+danya44444 does not show
+*** SUMMARY ***
+Total pot 127575.00
+Board [Ts 4d 5h]
+Seat 1: schAAdenfreude (big blind) folded on the Pre-Flop
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 5: ColeStates14 folded on the Pre-Flop and did not bet
+Seat 6: RoWdY29 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 (button) folded on the Flop
+Seat 8: danya44444 did not show and won 127575.00
+

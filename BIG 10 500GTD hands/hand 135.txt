@@ -1,0 +1,36 @@
+Game Hand #1852037836 - Tournament #30459245 - Holdem(No Limit) - Level 23 (6000.00/12000.00)- 2023/09/08 20:30:47 UTC
+Table '34' 8-max Seat #2 is the button
+Seat 1: schAAdenfreude (467667.00)
+Seat 3: BlanKpoker (638446.00)
+Seat 4: stankfist (612898.00)
+Seat 6: danya44444 (741315.00)
+Seat 7: JohnChae0929 (1675872.00)
+Seat 8: SoLoveLA (93078.00)
+schAAdenfreude posts ante 1500.00
+BlanKpoker posts ante 1500.00
+stankfist posts ante 1500.00
+danya44444 posts ante 1500.00
+JohnChae0929 posts ante 1500.00
+SoLoveLA posts ante 1500.00
+BlanKpoker posts the small blind 6000.00
+stankfist posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to JohnChae0929 [7d Qs]
+danya44444 folds
+JohnChae0929 folds
+SoLoveLA folds
+schAAdenfreude raises 24000.00 to 24000.00
+BlanKpoker folds
+stankfist folds
+Uncalled bet (12000.00) returned to schAAdenfreude
+schAAdenfreude does not show
+*** SUMMARY ***
+Total pot 39000.00
+Seat 1: schAAdenfreude did not show and won 39000.00
+Seat 3: BlanKpoker (small blind) folded on the Pre-Flop
+Seat 4: stankfist (big blind) folded on the Pre-Flop
+Seat 6: danya44444 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+

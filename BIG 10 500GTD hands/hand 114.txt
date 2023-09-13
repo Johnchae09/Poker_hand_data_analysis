@@ -1,0 +1,51 @@
+Game Hand #1852010825 - Tournament #30459245 - Holdem(No Limit) - Level 21 (4000.00/8000.00)- 2023/09/08 20:08:27 UTC
+Table '34' 8-max Seat #4 is the button
+Seat 1: schAAdenfreude (576492.00)
+Seat 2: ryokan777 (306244.00)
+Seat 3: BlanKpoker (288060.00)
+Seat 4: stankfist (337199.00)
+Seat 5: ColeStates14 (98591.00)
+Seat 6: noupgrade (56125.00)
+Seat 7: JohnChae0929 (1003650.00)
+schAAdenfreude posts ante 1000.00
+ryokan777 posts ante 1000.00
+BlanKpoker posts ante 1000.00
+stankfist posts ante 1000.00
+ColeStates14 posts ante 1000.00
+noupgrade posts ante 1000.00
+JohnChae0929 posts ante 1000.00
+ColeStates14 posts the small blind 4000.00
+noupgrade posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to JohnChae0929 [Kc 4h]
+JohnChae0929 folds
+schAAdenfreude folds
+ryokan777 raises 16000.00 to 16000.00
+BlanKpoker folds
+stankfist folds
+ColeStates14 raises 93591.00 to 97591.00 and is all-in
+noupgrade folds
+ryokan777 calls 81591.00
+*** FLOP *** [9h 3h 2d]
+Main pot 210182.00
+*** TURN *** [9h 3h 2d] [Qs]
+Main pot 210182.00
+*** RIVER *** [9h 3h 2d Qs] [Ah]
+Main pot 210182.00
+*** SHOW DOWN ***
+Main pot 210182.00
+ryokan777 shows [Ac Qd] (two pair, Aces and Queens [Ah Ac Qs Qd 9h])
+ColeStates14 shows [Kd Ts] (a high card, Ace high [Ah Kd Qs Ts 9h])
+ryokan777 collected 210182.00 from main pot
+*** SUMMARY ***
+Total pot 210182.00
+Board [9h 3h 2d Qs Ah]
+Seat 1: schAAdenfreude folded on the Pre-Flop and did not bet
+Seat 2: ryokan777 showed [Ac Qd] and won 210182.00 with two pair, Aces and Queens [Ah Ac Qs Qd 9h]
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: stankfist (button) folded on the Pre-Flop
+Seat 5: ColeStates14 (small blind) showed [Kd Ts] and lost with a high card, Ace high [Ah Kd Qs Ts 9h]
+Seat 6: noupgrade (big blind) folded on the Pre-Flop
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+

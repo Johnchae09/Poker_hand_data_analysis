@@ -1,0 +1,40 @@
+Game Hand #1852079556 - Tournament #30459245 - Holdem(No Limit) - Level 26 (10000.00/20000.00)- 2023/09/08 21:09:13 UTC
+Table '34' 8-max Seat #1 is the button
+Seat 1: blacklinesmoke (1328344.00)
+Seat 3: BlanKpoker (882857.00)
+Seat 4: HAWKABOVE (387953.00)
+Seat 5: Dino84 (1046290.00)
+Seat 6: danya44444 (611485.00)
+Seat 7: JohnChae0929 (1052984.00)
+Seat 8: SoLoveLA (143906.00)
+blacklinesmoke posts ante 2500.00
+BlanKpoker posts ante 2500.00
+HAWKABOVE posts ante 2500.00
+Dino84 posts ante 2500.00
+danya44444 posts ante 2500.00
+JohnChae0929 posts ante 2500.00
+SoLoveLA posts ante 2500.00
+BlanKpoker posts the small blind 10000.00
+HAWKABOVE posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 17500.00
+Dealt to JohnChae0929 [Ah 8c]
+Dino84 raises 40000.00 to 40000.00
+danya44444 folds
+JohnChae0929 folds
+SoLoveLA folds
+blacklinesmoke folds
+BlanKpoker folds
+HAWKABOVE folds
+Uncalled bet (20000.00) returned to Dino84
+Dino84 does not show
+*** SUMMARY ***
+Total pot 67500.00
+Seat 1: blacklinesmoke (button) folded on the Pre-Flop
+Seat 3: BlanKpoker (small blind) folded on the Pre-Flop
+Seat 4: HAWKABOVE (big blind) folded on the Pre-Flop
+Seat 5: Dino84 did not show and won 67500.00
+Seat 6: danya44444 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+

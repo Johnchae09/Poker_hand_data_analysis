@@ -1,0 +1,55 @@
+Game Hand #1851882496 - Tournament #30459245 - Holdem(No Limit) - Level 12 (800.00/1600.00)- 2023/09/08 18:10:33 UTC
+Table '35' 8-max Seat #8 is the button
+Seat 1: Jotacef777 (91360.00) is sitting out
+Seat 2: JohnChae0929 (100387.00)
+Seat 3: pupoCHECK (42777.00)
+Seat 4: shiva003 (85771.00)
+Seat 5: SeregaGal88 (32567.00)
+Seat 6: ramsi2309 (107366.00)
+Seat 7: AharonEl (35000.00)
+Seat 8: FeltSniffer (192707.00)
+Jotacef777 posts ante 200.00
+JohnChae0929 posts ante 200.00
+pupoCHECK posts ante 200.00
+shiva003 posts ante 200.00
+SeregaGal88 posts ante 200.00
+ramsi2309 posts ante 200.00
+AharonEl posts ante 200.00
+FeltSniffer posts ante 200.00
+Jotacef777 posts the small blind 800.00
+JohnChae0929 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to JohnChae0929 [Jh 2c]
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 folds
+ramsi2309 folds
+AharonEl raises 34800.00 to 34800.00 and is all-in
+FeltSniffer calls 34800.00
+Jotacef777 folds
+JohnChae0929 folds
+*** FLOP *** [Qs Th 4s]
+Main pot 73600.00
+*** TURN *** [Qs Th 4s] [2d]
+Main pot 73600.00
+*** RIVER *** [Qs Th 4s 2d] [6h]
+Main pot 73600.00
+*** SHOW DOWN ***
+Main pot 73600.00
+AharonEl shows [Js Ks] (a high card, King high [Ks Qs Js Th 6h])
+FeltSniffer shows [Kh Jc] (a high card, King high [Kh Qs Jc Th 6h])
+AharonEl collected 36800.00 from main pot
+FeltSniffer collected 36800.00 from main pot
+*** SUMMARY ***
+Total pot 73600.00
+Board [Qs Th 4s 2d 6h]
+Seat 1: Jotacef777 (small blind) folded on the Pre-Flop
+Seat 2: JohnChae0929 (big blind) folded on the Pre-Flop
+Seat 3: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 4: shiva003 folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: ramsi2309 folded on the Pre-Flop and did not bet
+Seat 7: AharonEl showed [Js Ks] and won 36800.00 with a high card, King high [Ks Qs Js Th 6h]
+Seat 8: FeltSniffer (button) showed [Kh Jc] and won 36800.00 with a high card, King high [Kh Qs Jc Th 6h]
+

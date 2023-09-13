@@ -1,0 +1,50 @@
+Game Hand #1852054315 - Tournament #30459245 - Holdem(No Limit) - Level 25 (8000.00/16000.00)- 2023/09/08 20:44:31 UTC
+Table '34' 8-max Seat #1 is the button
+Seat 1: blacklinesmoke (675720.00)
+Seat 2: BimBonik (492174.00)
+Seat 3: BlanKpoker (537283.00)
+Seat 4: stankfist (564898.00)
+Seat 6: danya44444 (656065.00)
+Seat 7: JohnChae0929 (1689252.00)
+Seat 8: SoLoveLA (137906.00)
+blacklinesmoke posts ante 2000.00
+BimBonik posts ante 2000.00
+BlanKpoker posts ante 2000.00
+stankfist posts ante 2000.00
+danya44444 posts ante 2000.00
+JohnChae0929 posts ante 2000.00
+SoLoveLA posts ante 2000.00
+BimBonik posts the small blind 8000.00
+BlanKpoker posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to JohnChae0929 [Ac 3h]
+stankfist folds
+danya44444 raises 32000.00 to 32000.00
+JohnChae0929 folds
+SoLoveLA folds
+blacklinesmoke folds
+BimBonik calls 24000.00
+BlanKpoker calls 16000.00
+*** FLOP *** [3c Jd 2d]
+Main pot 110000.00
+BimBonik checks
+BlanKpoker checks
+danya44444 bets 35500.00
+BimBonik raises 87000.00 to 87000.00
+BlanKpoker folds
+danya44444 raises 586565.00 to 622065.00 and is all-in
+BimBonik folds
+Uncalled bet (535065.00) returned to danya44444
+danya44444 does not show
+*** SUMMARY ***
+Total pot 284000.00
+Board [3c Jd 2d]
+Seat 1: blacklinesmoke (button) folded on the Pre-Flop
+Seat 2: BimBonik (small blind) folded on the Flop
+Seat 3: BlanKpoker (big blind) folded on the Flop
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 6: danya44444 did not show and won 284000.00
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+

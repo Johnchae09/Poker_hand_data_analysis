@@ -1,0 +1,56 @@
+Game Hand #1852076316 - Tournament #30459245 - Holdem(No Limit) - Level 26 (10000.00/20000.00)- 2023/09/08 21:06:29 UTC
+Table '34' 8-max Seat #6 is the button
+Seat 1: blacklinesmoke (1338344.00)
+Seat 3: BlanKpoker (842857.00)
+Seat 4: HAWKABOVE (395453.00)
+Seat 5: Dino84 (1053790.00)
+Seat 6: danya44444 (618985.00)
+Seat 7: JohnChae0929 (1080484.00)
+Seat 8: SoLoveLA (123906.00)
+blacklinesmoke posts ante 2500.00
+BlanKpoker posts ante 2500.00
+HAWKABOVE posts ante 2500.00
+Dino84 posts ante 2500.00
+danya44444 posts ante 2500.00
+JohnChae0929 posts ante 2500.00
+SoLoveLA posts ante 2500.00
+JohnChae0929 posts the small blind 10000.00
+SoLoveLA posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 17500.00
+Dealt to JohnChae0929 [8c 6d]
+blacklinesmoke folds
+BlanKpoker folds
+HAWKABOVE folds
+Dino84 folds
+danya44444 folds
+JohnChae0929 calls 10000.00
+SoLoveLA checks
+*** FLOP *** [Ah 5h 9s]
+Main pot 57500.00
+JohnChae0929 checks
+SoLoveLA checks
+*** TURN *** [Ah 5h 9s] [2c]
+Main pot 57500.00
+JohnChae0929 checks
+SoLoveLA checks
+*** RIVER *** [Ah 5h 9s 2c] [2s]
+Main pot 57500.00
+JohnChae0929 checks
+SoLoveLA checks
+*** SHOW DOWN ***
+Main pot 57500.00
+JohnChae0929 shows [8c 6d] (a pair of Deuces [2s 2c Ah 9s 8c])
+SoLoveLA shows [7s 5d] (two pair, Fives and Deuces [5h 5d 2s 2c Ah])
+SoLoveLA collected 57500.00 from main pot
+*** SUMMARY ***
+Total pot 57500.00
+Board [Ah 5h 9s 2c 2s]
+Seat 1: blacklinesmoke folded on the Pre-Flop and did not bet
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: HAWKABOVE folded on the Pre-Flop and did not bet
+Seat 5: Dino84 folded on the Pre-Flop and did not bet
+Seat 6: danya44444 (button) folded on the Pre-Flop
+Seat 7: JohnChae0929 (small blind) showed [8c 6d] and lost with a pair of Deuces [2s 2c Ah 9s 8c]
+Seat 8: SoLoveLA (big blind) showed [7s 5d] and won 57500.00 with two pair, Fives and Deuces [5h 5d 2s 2c Ah]
+

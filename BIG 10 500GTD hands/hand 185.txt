@@ -1,0 +1,57 @@
+Game Hand #1851894845 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:21:56 UTC
+Table '35' 8-max Seat #2 is the button
+Seat 1: Jotacef777 (195820.00)
+Seat 2: JohnChae0929 (242917.00)
+Seat 3: pupoCHECK (113597.00)
+Seat 4: shiva003 (80371.00)
+Seat 5: SeregaGal88 (44167.00)
+Seat 7: vardja (52632.00)
+Seat 8: FeltSniffer (99470.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+vardja posts ante 250.00
+FeltSniffer posts ante 250.00
+pupoCHECK posts the small blind 1000.00
+shiva003 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to JohnChae0929 [4s Kh]
+SeregaGal88 folds
+vardja folds
+FeltSniffer raises 7063.00 to 7063.00
+Jotacef777 folds
+JohnChae0929 folds
+pupoCHECK calls 6063.00
+shiva003 folds
+*** FLOP *** [4h 9h Kc]
+Main pot 17876.00
+pupoCHECK checks
+FeltSniffer bets 13407.00
+pupoCHECK calls 13407.00
+*** TURN *** [4h 9h Kc] [Qd]
+Main pot 44690.00
+pupoCHECK checks
+FeltSniffer checks
+*** RIVER *** [4h 9h Kc Qd] [8s]
+Main pot 44690.00
+pupoCHECK checks
+FeltSniffer checks
+*** SHOW DOWN ***
+Main pot 44690.00
+pupoCHECK shows [Ks Js] (a pair of Kings [Ks Kc Qd Js 9h])
+FeltSniffer shows [Td Tc] (a pair of Tens [Td Tc Kc Qd 9h])
+pupoCHECK collected 44690.00 from main pot
+*** SUMMARY ***
+Total pot 44690.00
+Board [4h 9h Kc Qd 8s]
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 3: pupoCHECK (small blind) showed [Ks Js] and won 44690.00 with a pair of Kings [Ks Kc Qd Js 9h]
+Seat 4: shiva003 (big blind) folded on the Pre-Flop
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 7: vardja folded on the Pre-Flop and did not bet
+Seat 8: FeltSniffer showed [Td Tc] and lost with a pair of Tens [Td Tc Kc Qd 9h]
+

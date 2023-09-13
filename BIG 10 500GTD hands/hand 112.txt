@@ -1,0 +1,52 @@
+Game Hand #1852009006 - Tournament #30459245 - Holdem(No Limit) - Level 21 (4000.00/8000.00)- 2023/09/08 20:06:52 UTC
+Table '34' 8-max Seat #2 is the button
+Seat 1: schAAdenfreude (419904.00)
+Seat 2: ryokan777 (308244.00)
+Seat 3: BlanKpoker (264060.00)
+Seat 4: stankfist (363199.00)
+Seat 5: ColeStates14 (108591.00)
+Seat 6: RoWdY29 (140588.00)
+Seat 7: JohnChae0929 (1005650.00)
+schAAdenfreude posts ante 1000.00
+ryokan777 posts ante 1000.00
+BlanKpoker posts ante 1000.00
+stankfist posts ante 1000.00
+ColeStates14 posts ante 1000.00
+RoWdY29 posts ante 1000.00
+JohnChae0929 posts ante 1000.00
+BlanKpoker posts the small blind 4000.00
+stankfist posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to JohnChae0929 [Td 5c]
+ColeStates14 folds
+RoWdY29 raises 16000.00 to 16000.00
+JohnChae0929 folds
+schAAdenfreude raises 52800.00 to 52800.00
+ryokan777 folds
+BlanKpoker folds
+stankfist folds
+RoWdY29 raises 123588.00 to 139588.00 and is all-in
+schAAdenfreude calls 86788.00
+*** FLOP *** [6c Jd 8h]
+Main pot 298176.00
+*** TURN *** [6c Jd 8h] [8s]
+Main pot 298176.00
+*** RIVER *** [6c Jd 8h 8s] [4c]
+Main pot 298176.00
+*** SHOW DOWN ***
+Main pot 298176.00
+schAAdenfreude shows [Js Ad] (two pair, Jacks and Eights [Js Jd 8s 8h Ad])
+RoWdY29 shows [Qh Kh] (a pair of Eights [8s 8h Kh Qh Jd])
+schAAdenfreude collected 298176.00 from main pot
+*** SUMMARY ***
+Total pot 298176.00
+Board [6c Jd 8h 8s 4c]
+Seat 1: schAAdenfreude showed [Js Ad] and won 298176.00 with two pair, Jacks and Eights [Js Jd 8s 8h Ad]
+Seat 2: ryokan777 (button) folded on the Pre-Flop
+Seat 3: BlanKpoker (small blind) folded on the Pre-Flop
+Seat 4: stankfist (big blind) folded on the Pre-Flop
+Seat 5: ColeStates14 folded on the Pre-Flop and did not bet
+Seat 6: RoWdY29 showed [Qh Kh] and lost with a pair of Eights [8s 8h Kh Qh Jd]
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+

@@ -1,0 +1,56 @@
+Game Hand #1852038866 - Tournament #30459245 - Holdem(No Limit) - Level 23 (6000.00/12000.00)- 2023/09/08 20:31:35 UTC
+Table '34' 8-max Seat #3 is the button
+Seat 1: schAAdenfreude (493167.00)
+Seat 2: BimBonik (287737.00)
+Seat 3: BlanKpoker (630946.00)
+Seat 4: stankfist (599398.00)
+Seat 6: danya44444 (739815.00)
+Seat 7: JohnChae0929 (1674372.00)
+Seat 8: SoLoveLA (91578.00)
+schAAdenfreude posts ante 1500.00
+BimBonik posts ante 1500.00
+BlanKpoker posts ante 1500.00
+stankfist posts ante 1500.00
+danya44444 posts ante 1500.00
+JohnChae0929 posts ante 1500.00
+SoLoveLA posts ante 1500.00
+stankfist posts the small blind 6000.00
+danya44444 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to JohnChae0929 [6s Ad]
+JohnChae0929 folds
+SoLoveLA folds
+schAAdenfreude folds
+BimBonik folds
+BlanKpoker folds
+stankfist calls 6000.00
+danya44444 checks
+*** FLOP *** [8s 5h 6h]
+Main pot 34500.00
+stankfist checks
+danya44444 checks
+*** TURN *** [8s 5h 6h] [5d]
+Main pot 34500.00
+stankfist checks
+danya44444 checks
+*** RIVER *** [8s 5h 6h 5d] [Ts]
+Main pot 34500.00
+stankfist checks
+danya44444 checks
+*** SHOW DOWN ***
+Main pot 34500.00
+stankfist shows [3c As] (a pair of Fives [5h 5d As Ts 8s])
+danya44444 shows [Qs Ks] (a pair of Fives [5h 5d Ks Qs Ts])
+stankfist collected 34500.00 from main pot
+*** SUMMARY ***
+Total pot 34500.00
+Board [8s 5h 6h 5d Ts]
+Seat 1: schAAdenfreude folded on the Pre-Flop and did not bet
+Seat 2: BimBonik folded on the Pre-Flop and did not bet
+Seat 3: BlanKpoker (button) folded on the Pre-Flop
+Seat 4: stankfist (small blind) showed [3c As] and won 34500.00 with a pair of Fives [5h 5d As Ts 8s] with the kicker Ace
+Seat 6: danya44444 (big blind) showed [Qs Ks] and lost with a pair of Fives [5h 5d Ks Qs Ts]
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+

@@ -1,0 +1,54 @@
+Game Hand #1852016322 - Tournament #30459245 - Holdem(No Limit) - Level 21 (4000.00/8000.00)- 2023/09/08 20:13:14 UTC
+Table '34' 8-max Seat #8 is the button
+Seat 1: schAAdenfreude (583492.00)
+Seat 2: ryokan777 (445835.00)
+Seat 3: BlanKpoker (311060.00)
+Seat 4: stankfist (333199.00)
+Seat 6: noupgrade (28125.00)
+Seat 7: JohnChae0929 (987650.00)
+Seat 8: SoLoveLA (156828.00)
+schAAdenfreude posts ante 1000.00
+ryokan777 posts ante 1000.00
+BlanKpoker posts ante 1000.00
+stankfist posts ante 1000.00
+noupgrade posts ante 1000.00
+JohnChae0929 posts ante 1000.00
+SoLoveLA posts ante 1000.00
+schAAdenfreude posts the small blind 4000.00
+ryokan777 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to JohnChae0929 [2d 7d]
+BlanKpoker folds
+stankfist folds
+noupgrade raises 27125.00 to 27125.00 and is all-in
+JohnChae0929 folds
+SoLoveLA folds
+schAAdenfreude calls 23125.00
+ryokan777 calls 19125.00
+*** FLOP *** [2c Kh 9h]
+Main pot 88375.00
+schAAdenfreude checks
+ryokan777 bets 22094.00
+schAAdenfreude folds
+Uncalled bet (22094.00) returned to ryokan777
+*** TURN *** [2c Kh 9h] [7c]
+Main pot 88375.00
+*** RIVER *** [2c Kh 9h 7c] [Qd]
+Main pot 88375.00
+*** SHOW DOWN ***
+Main pot 88375.00
+ryokan777 shows [3c Kc] (a pair of Kings [Kh Kc Qd 9h 7c])
+noupgrade shows [8d As] (a high card, Ace high [As Kh Qd 9h 8d])
+ryokan777 collected 88375.00 from main pot
+*** SUMMARY ***
+Total pot 88375.00
+Board [2c Kh 9h 7c Qd]
+Seat 1: schAAdenfreude (small blind) folded on the Flop
+Seat 2: ryokan777 (big blind) showed [3c Kc] and won 88375.00 with a pair of Kings [Kh Kc Qd 9h 7c]
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 6: noupgrade showed [8d As] and lost with a high card, Ace high [As Kh Qd 9h 8d]
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: SoLoveLA (button) folded on the Pre-Flop
+

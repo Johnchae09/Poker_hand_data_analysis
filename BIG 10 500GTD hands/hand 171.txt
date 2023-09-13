@@ -1,0 +1,44 @@
+Game Hand #1851878300 - Tournament #30459245 - Holdem(No Limit) - Level 12 (800.00/1600.00)- 2023/09/08 18:06:41 UTC
+Table '35' 8-max Seat #4 is the button
+Seat 1: Jotacef777 (93760.00) is sitting out
+Seat 2: JohnChae0929 (35000.00)
+Seat 3: pupoCHECK (46777.00)
+Seat 4: shiva003 (95291.00)
+Seat 5: SeregaGal88 (34167.00)
+Seat 6: ramsi2309 (101166.00)
+Seat 7: dMazai (10747.00)
+Seat 8: FeltSniffer (236027.00)
+Jotacef777 posts ante 200.00
+JohnChae0929 posts ante 200.00
+pupoCHECK posts ante 200.00
+shiva003 posts ante 200.00
+SeregaGal88 posts ante 200.00
+ramsi2309 posts ante 200.00
+dMazai posts ante 200.00
+FeltSniffer posts ante 200.00
+SeregaGal88 posts the small blind 800.00
+ramsi2309 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to JohnChae0929 [Tc 5c]
+dMazai folds
+FeltSniffer raises 4400.00 to 4400.00
+Jotacef777 folds
+JohnChae0929 folds
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 folds
+ramsi2309 folds
+Uncalled bet (2800.00) returned to FeltSniffer
+FeltSniffer does not show
+*** SUMMARY ***
+Total pot 5600.00
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 4: shiva003 (button) folded on the Pre-Flop
+Seat 5: SeregaGal88 (small blind) folded on the Pre-Flop
+Seat 6: ramsi2309 (big blind) folded on the Pre-Flop
+Seat 7: dMazai folded on the Pre-Flop and did not bet
+Seat 8: FeltSniffer did not show and won 5600.00
+

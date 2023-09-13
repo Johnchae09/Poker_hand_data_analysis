@@ -1,0 +1,58 @@
+Game Hand #1851884502 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:12:22 UTC
+Table '35' 8-max Seat #2 is the button
+Seat 1: Jotacef777 (90160.00)
+Seat 2: JohnChae0929 (97587.00)
+Seat 3: pupoCHECK (81377.00)
+Seat 4: shiva003 (85371.00)
+Seat 5: SeregaGal88 (32167.00)
+Seat 6: ramsi2309 (106966.00)
+Seat 8: FeltSniffer (194307.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+ramsi2309 posts ante 250.00
+FeltSniffer posts ante 250.00
+pupoCHECK posts the small blind 1000.00
+shiva003 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to JohnChae0929 [8h Qd]
+SeregaGal88 folds
+ramsi2309 raises 4000.00 to 4000.00
+FeltSniffer calls 4000.00
+Jotacef777 raises 18000.00 to 18000.00
+JohnChae0929 folds
+pupoCHECK folds
+shiva003 folds
+ramsi2309 calls 14000.00
+FeltSniffer calls 14000.00
+*** FLOP *** [4h 3c 6h]
+Main pot 58750.00
+ramsi2309 checks
+FeltSniffer checks
+Jotacef777 bets 71910.00 and is all-in
+ramsi2309 raises 88716.00 to 88716.00 and is all-in
+FeltSniffer folds
+Uncalled bet (16806.00) returned to ramsi2309
+*** TURN *** [4h 3c 6h] [Js]
+Main pot 202570.00
+*** RIVER *** [4h 3c 6h Js] [2c]
+Main pot 202570.00
+*** SHOW DOWN ***
+Main pot 202570.00
+Jotacef777 shows [Qc Qs] (a pair of Queens [Qs Qc Js 6h 4h])
+ramsi2309 shows [Ts Th] (a pair of Tens [Ts Th Js 6h 4h])
+Jotacef777 collected 202570.00 from main pot
+*** SUMMARY ***
+Total pot 202570.00
+Board [4h 3c 6h Js 2c]
+Seat 1: Jotacef777 showed [Qc Qs] and won 202570.00 with a pair of Queens [Qs Qc Js 6h 4h]
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 3: pupoCHECK (small blind) folded on the Pre-Flop
+Seat 4: shiva003 (big blind) folded on the Pre-Flop
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: ramsi2309 showed [Ts Th] and lost with a pair of Tens [Ts Th Js 6h 4h]
+Seat 8: FeltSniffer folded on the Flop
+

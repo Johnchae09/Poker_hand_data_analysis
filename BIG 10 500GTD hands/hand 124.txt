@@ -1,0 +1,50 @@
+Game Hand #1852023579 - Tournament #30459245 - Holdem(No Limit) - Level 22 (5000.00/10000.00)- 2023/09/08 20:19:22 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: schAAdenfreude (529117.00)
+Seat 3: BlanKpoker (929645.00)
+Seat 4: stankfist (310949.00)
+Seat 5: ntimidatr (161756.00)
+Seat 7: JohnChae0929 (965400.00)
+Seat 8: SoLoveLA (119578.00)
+schAAdenfreude posts ante 1250.00
+BlanKpoker posts ante 1250.00
+stankfist posts ante 1250.00
+ntimidatr posts ante 1250.00
+JohnChae0929 posts ante 1250.00
+SoLoveLA posts ante 1250.00
+SoLoveLA posts the small blind 5000.00
+schAAdenfreude posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to JohnChae0929 [Th 8c]
+BlanKpoker raises 20000.00 to 20000.00
+stankfist raises 66875.00 to 66875.00
+ntimidatr folds
+JohnChae0929 folds
+SoLoveLA folds
+schAAdenfreude folds
+BlanKpoker calls 46875.00
+*** FLOP *** [5d 9d 4c]
+Main pot 156250.00
+BlanKpoker bets 81250.00
+stankfist raises 242824.00 to 242824.00 and is all-in
+BlanKpoker calls 161574.00
+*** TURN *** [5d 9d 4c] [2h]
+Main pot 641898.00
+*** RIVER *** [5d 9d 4c 2h] [6d]
+Main pot 641898.00
+*** SHOW DOWN ***
+Main pot 641898.00
+BlanKpoker shows [7d 7s] (a pair of Sevens [7s 7d 9d 6d 5d])
+stankfist shows [Kc Kh] (a pair of Kings [Kh Kc 9d 6d 5d])
+stankfist collected 641898.00 from main pot
+*** SUMMARY ***
+Total pot 641898.00
+Board [5d 9d 4c 2h 6d]
+Seat 1: schAAdenfreude (big blind) folded on the Pre-Flop
+Seat 3: BlanKpoker showed [7d 7s] and lost with a pair of Sevens [7s 7d 9d 6d 5d]
+Seat 4: stankfist showed [Kc Kh] and won 641898.00 with a pair of Kings [Kh Kc 9d 6d 5d]
+Seat 5: ntimidatr folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 (button) folded on the Pre-Flop
+Seat 8: SoLoveLA (small blind) folded on the Pre-Flop
+

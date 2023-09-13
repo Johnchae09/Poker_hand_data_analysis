@@ -1,0 +1,56 @@
+Game Hand #1852072922 - Tournament #30459245 - Holdem(No Limit) - Level 26 (10000.00/20000.00)- 2023/09/08 21:03:36 UTC
+Table '34' 8-max Seat #4 is the button
+Seat 1: blacklinesmoke (1343344.00)
+Seat 2: BimBonik (286174.00)
+Seat 3: BlanKpoker (406683.00)
+Seat 4: HAWKABOVE (400453.00)
+Seat 5: Dino84 (1108790.00) is sitting out
+Seat 6: danya44444 (653985.00)
+Seat 7: JohnChae0929 (1125484.00)
+Seat 8: SoLoveLA (128906.00)
+blacklinesmoke posts ante 2500.00
+BimBonik posts ante 2500.00
+BlanKpoker posts ante 2500.00
+HAWKABOVE posts ante 2500.00
+Dino84 posts ante 2500.00
+danya44444 posts ante 2500.00
+JohnChae0929 posts ante 2500.00
+SoLoveLA posts ante 2500.00
+Dino84 posts the small blind 10000.00
+danya44444 posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 20000.00
+Dealt to JohnChae0929 [Jd 3d]
+JohnChae0929 folds
+SoLoveLA folds
+blacklinesmoke folds
+BimBonik raises 70000.00 to 70000.00
+BlanKpoker raises 404183.00 to 404183.00 and is all-in
+HAWKABOVE folds
+Dino84 folds
+danya44444 folds
+BimBonik calls 213674.00 and is all-in
+Uncalled bet (120509.00) returned to BlanKpoker
+*** FLOP *** [6c Tc 8d]
+Main pot 617348.00
+*** TURN *** [6c Tc 8d] [9h]
+Main pot 617348.00
+*** RIVER *** [6c Tc 8d 9h] [8h]
+Main pot 617348.00
+*** SHOW DOWN ***
+Main pot 617348.00
+BimBonik shows [Qc Qd] (two pair, Queens and Eights [Qd Qc 8h 8d Tc])
+BlanKpoker shows [Ad Ac] (two pair, Aces and Eights [Ad Ac 8h 8d Tc])
+BlanKpoker collected 617348.00 from main pot
+*** SUMMARY ***
+Total pot 617348.00
+Board [6c Tc 8d 9h 8h]
+Seat 1: blacklinesmoke folded on the Pre-Flop and did not bet
+Seat 2: BimBonik showed [Qc Qd] and lost with two pair, Queens and Eights [Qd Qc 8h 8d Tc]
+Seat 3: BlanKpoker showed [Ad Ac] and won 617348.00 with two pair, Aces and Eights [Ad Ac 8h 8d Tc]
+Seat 4: HAWKABOVE (button) folded on the Pre-Flop
+Seat 5: Dino84 (small blind) folded on the Pre-Flop
+Seat 6: danya44444 (big blind) folded on the Pre-Flop
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+

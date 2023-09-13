@@ -1,0 +1,53 @@
+Game Hand #1851998313 - Tournament #30459245 - Holdem(No Limit) - Level 20 (3500.00/7000.00)- 2023/09/08 19:54:16 UTC
+Table '34' 8-max Seat #3 is the button
+Seat 1: schAAdenfreude (438404.00)
+Seat 2: ryokan777 (271744.00)
+Seat 3: BlanKpoker (292560.00)
+Seat 4: stankfist (374199.00)
+Seat 5: ColeStates14 (122091.00)
+Seat 6: RoWdY29 (133088.00)
+Seat 7: JohnChae0929 (955650.00)
+Seat 8: danya44444 (475571.00)
+schAAdenfreude posts ante 875.00
+ryokan777 posts ante 875.00
+BlanKpoker posts ante 875.00
+stankfist posts ante 875.00
+ColeStates14 posts ante 875.00
+RoWdY29 posts ante 875.00
+JohnChae0929 posts ante 875.00
+danya44444 posts ante 875.00
+stankfist posts the small blind 3500.00
+ColeStates14 posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to JohnChae0929 [Kd 8h]
+RoWdY29 folds
+JohnChae0929 folds
+danya44444 folds
+schAAdenfreude folds
+ryokan777 folds
+BlanKpoker folds
+stankfist calls 3500.00
+ColeStates14 checks
+*** FLOP *** [5c Ks 6h]
+Main pot 21000.00
+stankfist bets 7000.00
+ColeStates14 calls 7000.00
+*** TURN *** [5c Ks 6h] [9h]
+Main pot 35000.00
+stankfist bets 7000.00
+ColeStates14 folds
+Uncalled bet (7000.00) returned to stankfist
+stankfist does not show
+*** SUMMARY ***
+Total pot 35000.00
+Board [5c Ks 6h 9h]
+Seat 1: schAAdenfreude folded on the Pre-Flop and did not bet
+Seat 2: ryokan777 folded on the Pre-Flop and did not bet
+Seat 3: BlanKpoker (button) folded on the Pre-Flop
+Seat 4: stankfist did not show and won 35000.00
+Seat 5: ColeStates14 (big blind) folded on the Turn
+Seat 6: RoWdY29 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 8: danya44444 folded on the Pre-Flop and did not bet
+

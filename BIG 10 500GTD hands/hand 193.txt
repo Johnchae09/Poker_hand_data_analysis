@@ -1,0 +1,62 @@
+Game Hand #1851904487 - Tournament #30459245 - Holdem(No Limit) - Level 14 (1250.00/2500.00)- 2023/09/08 18:31:01 UTC
+Table '35' 8-max Seat #2 is the button
+Seat 1: Jotacef777 (182017.00)
+Seat 2: JohnChae0929 (209642.00)
+Seat 3: pupoCHECK (128017.00)
+Seat 4: shiva003 (62571.00)
+Seat 5: SeregaGal88 (60367.00)
+Seat 6: JuampyG97 (90175.00)
+Seat 7: vardja (131185.00)
+Seat 8: jjvargas (35000.00)
+Jotacef777 posts ante 325.00
+JohnChae0929 posts ante 325.00
+pupoCHECK posts ante 325.00
+shiva003 posts ante 325.00
+SeregaGal88 posts ante 325.00
+JuampyG97 posts ante 325.00
+vardja posts ante 325.00
+jjvargas posts ante 325.00
+pupoCHECK posts the small blind 1250.00
+shiva003 posts the big blind 2500.00
+*** HOLE CARDS ***
+Main pot 2600.00
+Dealt to JohnChae0929 [7d Qs]
+SeregaGal88 folds
+JuampyG97 folds
+vardja raises 5000.00 to 5000.00
+jjvargas folds
+Jotacef777 folds
+JohnChae0929 folds
+pupoCHECK folds
+shiva003 calls 2500.00
+*** FLOP *** [8c 2h 6c]
+Main pot 13850.00
+shiva003 checks
+vardja bets 6925.00
+shiva003 raises 16350.00 to 16350.00
+vardja calls 9425.00
+*** TURN *** [8c 2h 6c] [3c]
+Main pot 46550.00
+shiva003 checks
+vardja checks
+*** RIVER *** [8c 2h 6c 3c] [Jd]
+Main pot 46550.00
+shiva003 bets 40896.00 and is all-in
+vardja calls 40896.00
+*** SHOW DOWN ***
+Main pot 128342.00
+shiva003 shows [Qh 9s] (a high card, Queen high [Qh Jd 9s 8c 6c])
+vardja shows [4c Ac] (a flush, Ace high [Ac 8c 6c 4c 3c])
+vardja collected 128342.00 from main pot
+*** SUMMARY ***
+Total pot 128342.00
+Board [8c 2h 6c 3c Jd]
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 3: pupoCHECK (small blind) folded on the Pre-Flop
+Seat 4: shiva003 (big blind) showed [Qh 9s] and lost with a high card, Queen high [Qh Jd 9s 8c 6c]
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: JuampyG97 folded on the Pre-Flop and did not bet
+Seat 7: vardja showed [4c Ac] and won 128342.00 with a flush, Ace high [Ac 8c 6c 4c 3c]
+Seat 8: jjvargas folded on the Pre-Flop and did not bet
+

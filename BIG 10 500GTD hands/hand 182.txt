@@ -1,0 +1,57 @@
+Game Hand #1851891455 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:18:48 UTC
+Table '35' 8-max Seat #7 is the button
+Seat 1: Jotacef777 (201570.00)
+Seat 2: JohnChae0929 (239667.00)
+Seat 3: pupoCHECK (116347.00)
+Seat 4: shiva003 (81121.00)
+Seat 5: SeregaGal88 (27917.00)
+Seat 6: jjvargas (35000.00)
+Seat 7: vardja (53382.00)
+Seat 8: FeltSniffer (73970.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+jjvargas posts ante 250.00
+vardja posts ante 250.00
+FeltSniffer posts ante 250.00
+FeltSniffer posts the small blind 1000.00
+Jotacef777 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to JohnChae0929 [9s 4h]
+JohnChae0929 folds
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 raises 4000.00 to 4000.00
+jjvargas folds
+vardja folds
+FeltSniffer calls 3000.00
+Jotacef777 calls 2000.00
+*** FLOP *** [8h Tc 7c]
+Main pot 14000.00
+FeltSniffer checks
+Jotacef777 checks
+SeregaGal88 bets 7000.00
+FeltSniffer calls 7000.00
+Jotacef777 folds
+*** TURN *** [8h Tc 7c] [3s]
+Main pot 28000.00
+FeltSniffer checks
+SeregaGal88 bets 16667.00 and is all-in
+FeltSniffer folds
+Uncalled bet (16667.00) returned to SeregaGal88
+SeregaGal88 does not show
+*** SUMMARY ***
+Total pot 28000.00
+Board [8h Tc 7c 3s]
+Seat 1: Jotacef777 (big blind) folded on the Flop
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 4: shiva003 folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 did not show and won 28000.00
+Seat 6: jjvargas folded on the Pre-Flop and did not bet
+Seat 7: vardja (button) folded on the Pre-Flop
+Seat 8: FeltSniffer (small blind) folded on the Turn
+

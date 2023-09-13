@@ -1,0 +1,57 @@
+Game Hand #1852051742 - Tournament #30459245 - Holdem(No Limit) - Level 24 (7000.00/14000.00)- 2023/09/08 20:42:24 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: blacklinesmoke (575970.00)
+Seat 2: BimBonik (600674.00)
+Seat 3: BlanKpoker (540783.00)
+Seat 4: stankfist (568398.00)
+Seat 6: danya44444 (659565.00)
+Seat 7: JohnChae0929 (1659502.00)
+Seat 8: SoLoveLA (148406.00)
+blacklinesmoke posts ante 1750.00
+BimBonik posts ante 1750.00
+BlanKpoker posts ante 1750.00
+stankfist posts ante 1750.00
+danya44444 posts ante 1750.00
+JohnChae0929 posts ante 1750.00
+SoLoveLA posts ante 1750.00
+SoLoveLA posts the small blind 7000.00
+blacklinesmoke posts the big blind 14000.00
+*** HOLE CARDS ***
+Main pot 12250.00
+Dealt to JohnChae0929 [Qd 8c]
+BimBonik raises 30625.00 to 30625.00
+BlanKpoker folds
+stankfist folds
+danya44444 folds
+JohnChae0929 folds
+SoLoveLA folds
+blacklinesmoke calls 16625.00
+*** FLOP *** [Qc Jh 7h]
+Main pot 80500.00
+blacklinesmoke checks
+BimBonik bets 60375.00
+blacklinesmoke calls 60375.00
+*** TURN *** [Qc Jh 7h] [Ah]
+Main pot 201250.00
+blacklinesmoke checks
+BimBonik checks
+*** RIVER *** [Qc Jh 7h Ah] [9c]
+Main pot 201250.00
+blacklinesmoke checks
+BimBonik checks
+*** SHOW DOWN ***
+Main pot 201250.00
+blacklinesmoke shows [Kh Qh] (a flush, Ace high [Ah Kh Qh Jh 7h])
+BimBonik shows [7d 8d] (a pair of Sevens [7h 7d Ah Qc Jh])
+blacklinesmoke collected 201250.00 from main pot
+*** SUMMARY ***
+Total pot 201250.00
+Board [Qc Jh 7h Ah 9c]
+Seat 1: blacklinesmoke (big blind) showed [Kh Qh] and won 201250.00 with a flush, Ace high [Ah Kh Qh Jh 7h]
+Seat 2: BimBonik showed [7d 8d] and lost with a pair of Sevens [7h 7d Ah Qc Jh]
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 6: danya44444 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 (button) folded on the Pre-Flop
+Seat 8: SoLoveLA (small blind) folded on the Pre-Flop
+

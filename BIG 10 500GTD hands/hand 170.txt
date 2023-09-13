@@ -1,0 +1,57 @@
+Game Hand #1852084390 - Tournament #30459245 - Holdem(No Limit) - Level 27 (12500.00/25000.00)- 2023/09/08 21:12:48 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: blacklinesmoke (1373844.00)
+Seat 3: BlanKpoker (952482.00)
+Seat 4: HAWKABOVE (403453.00)
+Seat 5: Dino84 (999665.00)
+Seat 6: danya44444 (619485.00)
+Seat 7: JohnChae0929 (1000734.00)
+Seat 8: SoLoveLA (104156.00)
+blacklinesmoke posts ante 3250.00
+BlanKpoker posts ante 3250.00
+HAWKABOVE posts ante 3250.00
+Dino84 posts ante 3250.00
+danya44444 posts ante 3250.00
+JohnChae0929 posts ante 3250.00
+SoLoveLA posts ante 3250.00
+SoLoveLA posts the small blind 12500.00
+blacklinesmoke posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 22750.00
+Dealt to JohnChae0929 [4s 2h]
+BlanKpoker folds
+HAWKABOVE folds
+Dino84 folds
+danya44444 raises 50000.00 to 50000.00
+JohnChae0929 folds
+SoLoveLA folds
+blacklinesmoke calls 25000.00
+*** FLOP *** [6c Kh 5s]
+Main pot 135250.00
+blacklinesmoke checks
+danya44444 bets 46313.00
+blacklinesmoke calls 46313.00
+*** TURN *** [6c Kh 5s] [Td]
+Main pot 227876.00
+blacklinesmoke checks
+danya44444 checks
+*** RIVER *** [6c Kh 5s Td] [Kc]
+Main pot 227876.00
+blacklinesmoke checks
+danya44444 checks
+*** SHOW DOWN ***
+Main pot 227876.00
+blacklinesmoke shows [4h 3h] (a pair of Kings [Kh Kc Td 6c 5s])
+danya44444 shows [5c Ac] (two pair, Kings and Fives [Kh Kc 5s 5c Ac])
+danya44444 collected 227876.00 from main pot
+*** SUMMARY ***
+Total pot 227876.00
+Board [6c Kh 5s Td Kc]
+Seat 1: blacklinesmoke (big blind) showed [4h 3h] and lost with a pair of Kings [Kh Kc Td 6c 5s]
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: HAWKABOVE folded on the Pre-Flop and did not bet
+Seat 5: Dino84 folded on the Pre-Flop and did not bet
+Seat 6: danya44444 showed [5c Ac] and won 227876.00 with two pair, Kings and Fives [Kh Kc 5s 5c Ac]
+Seat 7: JohnChae0929 (button) folded on the Pre-Flop
+Seat 8: SoLoveLA (small blind) folded on the Pre-Flop
+

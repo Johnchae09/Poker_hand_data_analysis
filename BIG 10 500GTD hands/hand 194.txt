@@ -1,0 +1,40 @@
+Game Hand #1851906575 - Tournament #30459245 - Holdem(No Limit) - Level 14 (1250.00/2500.00)- 2023/09/08 18:32:58 UTC
+Table '35' 8-max Seat #3 is the button
+Seat 1: Jotacef777 (181692.00)
+Seat 2: JohnChae0929 (209317.00)
+Seat 3: pupoCHECK (126442.00)
+Seat 5: SeregaGal88 (60042.00)
+Seat 6: JuampyG97 (89850.00)
+Seat 7: vardja (196956.00)
+Seat 8: jjvargas (34675.00)
+Jotacef777 posts ante 325.00
+JohnChae0929 posts ante 325.00
+pupoCHECK posts ante 325.00
+SeregaGal88 posts ante 325.00
+JuampyG97 posts ante 325.00
+vardja posts ante 325.00
+jjvargas posts ante 325.00
+SeregaGal88 posts the big blind 2500.00
+*** HOLE CARDS ***
+Main pot 2275.00
+Dealt to JohnChae0929 [9c 8d]
+JuampyG97 folds
+vardja folds
+jjvargas folds
+Jotacef777 folds
+JohnChae0929 raises 5000.00 to 5000.00
+pupoCHECK raises 17500.00 to 17500.00
+SeregaGal88 folds
+JohnChae0929 folds
+Uncalled bet (12500.00) returned to pupoCHECK
+pupoCHECK does not show
+*** SUMMARY ***
+Total pot 14775.00
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: pupoCHECK did not show and won 14775.00
+Seat 5: SeregaGal88 (big blind) folded on the Pre-Flop
+Seat 6: JuampyG97 folded on the Pre-Flop and did not bet
+Seat 7: vardja folded on the Pre-Flop and did not bet
+Seat 8: jjvargas folded on the Pre-Flop and did not bet
+

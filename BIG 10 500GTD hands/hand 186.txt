@@ -1,0 +1,56 @@
+Game Hand #1851896623 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:23:34 UTC
+Table '35' 8-max Seat #3 is the button
+Seat 1: Jotacef777 (195570.00)
+Seat 2: JohnChae0929 (242667.00)
+Seat 3: pupoCHECK (137567.00)
+Seat 4: shiva003 (78121.00)
+Seat 5: SeregaGal88 (43917.00)
+Seat 6: JuampyG97 (35000.00)
+Seat 7: vardja (52382.00)
+Seat 8: FeltSniffer (78750.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+JuampyG97 posts ante 250.00
+vardja posts ante 250.00
+FeltSniffer posts ante 250.00
+shiva003 posts the small blind 1000.00
+SeregaGal88 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to JohnChae0929 [Qs Ac]
+JuampyG97 raises 4000.00 to 4000.00
+vardja folds
+FeltSniffer folds
+Jotacef777 folds
+JohnChae0929 raises 12000.00 to 12000.00
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 folds
+JuampyG97 raises 30750.00 to 34750.00 and is all-in
+JohnChae0929 calls 22750.00
+*** FLOP *** [3d 2d Js]
+Main pot 74500.00
+*** TURN *** [3d 2d Js] [8s]
+Main pot 74500.00
+*** RIVER *** [3d 2d Js 8s] [7c]
+Main pot 74500.00
+*** SHOW DOWN ***
+Main pot 74500.00
+JohnChae0929 shows [Qs Ac] (a high card, Ace high [Ac Qs Js 8s 7c])
+JuampyG97 shows [Kd Jh] (a pair of Jacks [Js Jh Kd 8s 7c])
+JuampyG97 collected 74500.00 from main pot
+*** SUMMARY ***
+Total pot 74500.00
+Board [3d 2d Js 8s 7c]
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 showed [Qs Ac] and lost with a high card, Ace high [Ac Qs Js 8s 7c]
+Seat 3: pupoCHECK (button) folded on the Pre-Flop
+Seat 4: shiva003 (small blind) folded on the Pre-Flop
+Seat 5: SeregaGal88 (big blind) folded on the Pre-Flop
+Seat 6: JuampyG97 showed [Kd Jh] and won 74500.00 with a pair of Jacks [Js Jh Kd 8s 7c]
+Seat 7: vardja folded on the Pre-Flop and did not bet
+Seat 8: FeltSniffer folded on the Pre-Flop and did not bet
+

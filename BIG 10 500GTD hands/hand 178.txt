@@ -1,0 +1,61 @@
+Game Hand #1851886286 - Tournament #30459245 - Holdem(No Limit) - Level 13 (1000.00/2000.00)- 2023/09/08 18:14:01 UTC
+Table '35' 8-max Seat #3 is the button
+Seat 1: Jotacef777 (202570.00)
+Seat 2: JohnChae0929 (97337.00)
+Seat 3: pupoCHECK (80127.00)
+Seat 4: shiva003 (83121.00)
+Seat 5: SeregaGal88 (31917.00)
+Seat 6: ramsi2309 (16806.00)
+Seat 7: Barraccudda (22437.00)
+Seat 8: FeltSniffer (176057.00)
+Jotacef777 posts ante 250.00
+JohnChae0929 posts ante 250.00
+pupoCHECK posts ante 250.00
+shiva003 posts ante 250.00
+SeregaGal88 posts ante 250.00
+ramsi2309 posts ante 250.00
+Barraccudda posts ante 250.00
+FeltSniffer posts ante 250.00
+shiva003 posts the small blind 1000.00
+SeregaGal88 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to JohnChae0929 [Th Ts]
+ramsi2309 folds
+Barraccudda raises 22187.00 to 22187.00 and is all-in
+FeltSniffer raises 42374.00 to 42374.00
+Jotacef777 folds
+JohnChae0929 raises 97087.00 to 97087.00 and is all-in
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 folds
+FeltSniffer calls 54713.00
+*** FLOP *** [4h 5h 7s]
+Main pot 71561.00
+Side pot(1) 149800.00
+*** TURN *** [4h 5h 7s] [2h]
+Main pot 71561.00
+Side pot(1) 149800.00
+*** RIVER *** [4h 5h 7s 2h] [8c]
+Main pot 71561.00
+Side pot(1) 149800.00
+*** SHOW DOWN ***
+Main pot 71561.00
+Side pot(1) 149800.00
+JohnChae0929 shows [Th Ts] (a pair of Tens [Ts Th 8c 7s 5h])
+Barraccudda shows [Kd Ah] (a high card, Ace high [Ah Kd 8c 7s 5h])
+FeltSniffer shows [Jd Ad] (a high card, Ace high [Ad Jd 8c 7s 5h])
+JohnChae0929 collected 71561.00 from main pot
+JohnChae0929 collected 149800.00 from side pot-1
+*** SUMMARY ***
+Total pot 221361.00
+Board [4h 5h 7s 2h 8c]
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 showed [Th Ts] and won 221361.00 with a pair of Tens [Ts Th 8c 7s 5h]
+Seat 3: pupoCHECK (button) folded on the Pre-Flop
+Seat 4: shiva003 (small blind) folded on the Pre-Flop
+Seat 5: SeregaGal88 (big blind) folded on the Pre-Flop
+Seat 6: ramsi2309 folded on the Pre-Flop and did not bet
+Seat 7: Barraccudda showed [Kd Ah] and lost with a high card, Ace high [Ah Kd 8c 7s 5h]
+Seat 8: FeltSniffer showed [Jd Ad] and lost with a high card, Ace high [Ad Jd 8c 7s 5h]
+

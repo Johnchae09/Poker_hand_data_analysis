@@ -1,0 +1,55 @@
+Game Hand #1851878720 - Tournament #30459245 - Holdem(No Limit) - Level 12 (800.00/1600.00)- 2023/09/08 18:07:03 UTC
+Table '35' 8-max Seat #5 is the button
+Seat 1: Jotacef777 (93560.00) is sitting out
+Seat 2: JohnChae0929 (34800.00)
+Seat 3: pupoCHECK (46577.00)
+Seat 4: shiva003 (95091.00)
+Seat 5: SeregaGal88 (33167.00)
+Seat 6: ramsi2309 (99366.00)
+Seat 7: dMazai (10547.00)
+Seat 8: FeltSniffer (239827.00)
+Jotacef777 posts ante 200.00
+JohnChae0929 posts ante 200.00
+pupoCHECK posts ante 200.00
+shiva003 posts ante 200.00
+SeregaGal88 posts ante 200.00
+ramsi2309 posts ante 200.00
+dMazai posts ante 200.00
+FeltSniffer posts ante 200.00
+ramsi2309 posts the small blind 800.00
+dMazai posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to JohnChae0929 [Jd Kc]
+FeltSniffer calls 1600.00
+Jotacef777 folds
+JohnChae0929 raises 34600.00 to 34600.00 and is all-in
+pupoCHECK folds
+shiva003 folds
+SeregaGal88 folds
+ramsi2309 folds
+dMazai folds
+FeltSniffer calls 33000.00
+*** FLOP *** [6d Jh 7d]
+Main pot 73200.00
+*** TURN *** [6d Jh 7d] [6s]
+Main pot 73200.00
+*** RIVER *** [6d Jh 7d 6s] [5d]
+Main pot 73200.00
+*** SHOW DOWN ***
+Main pot 73200.00
+JohnChae0929 shows [Jd Kc] (two pair, Jacks and Sixs [Jh Jd 6s 6d Kc])
+FeltSniffer shows [Ad Kh] (a pair of Sixs [6s 6d Ad Kh Jh])
+JohnChae0929 collected 73200.00 from main pot
+*** SUMMARY ***
+Total pot 73200.00
+Board [6d Jh 7d 6s 5d]
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 showed [Jd Kc] and won 73200.00 with two pair, Jacks and Sixs [Jh Jd 6s 6d Kc]
+Seat 3: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 4: shiva003 folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 (button) folded on the Pre-Flop
+Seat 6: ramsi2309 (small blind) folded on the Pre-Flop
+Seat 7: dMazai (big blind) folded on the Pre-Flop
+Seat 8: FeltSniffer showed [Ad Kh] and lost with a pair of Sixs [6s 6d Ad Kh Jh]
+

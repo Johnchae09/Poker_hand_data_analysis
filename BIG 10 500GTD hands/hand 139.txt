@@ -1,0 +1,55 @@
+Game Hand #1852042252 - Tournament #30459245 - Holdem(No Limit) - Level 24 (7000.00/14000.00)- 2023/09/08 20:34:24 UTC
+Table '34' 8-max Seat #7 is the button
+Seat 1: schAAdenfreude (488667.00)
+Seat 2: BimBonik (329737.00)
+Seat 3: BlanKpoker (626446.00)
+Seat 4: stankfist (617398.00)
+Seat 5: pupoCHECK (122732.00)
+Seat 6: danya44444 (717315.00)
+Seat 7: JohnChae0929 (1662372.00)
+Seat 8: SoLoveLA (75078.00)
+schAAdenfreude posts ante 1750.00
+BimBonik posts ante 1750.00
+BlanKpoker posts ante 1750.00
+stankfist posts ante 1750.00
+pupoCHECK posts ante 1750.00
+danya44444 posts ante 1750.00
+JohnChae0929 posts ante 1750.00
+SoLoveLA posts ante 1750.00
+SoLoveLA posts the small blind 7000.00
+schAAdenfreude posts the big blind 14000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to JohnChae0929 [8c Qd]
+BimBonik folds
+BlanKpoker folds
+stankfist folds
+pupoCHECK folds
+danya44444 folds
+JohnChae0929 raises 29400.00 to 29400.00
+SoLoveLA raises 66328.00 to 73328.00 and is all-in
+schAAdenfreude folds
+JohnChae0929 calls 43928.00
+*** FLOP *** [As Ts 3d]
+Main pot 174656.00
+*** TURN *** [As Ts 3d] [3c]
+Main pot 174656.00
+*** RIVER *** [As Ts 3d 3c] [7c]
+Main pot 174656.00
+*** SHOW DOWN ***
+Main pot 174656.00
+JohnChae0929 shows [8c Qd] (a pair of Threes [3d 3c As Qd Ts])
+SoLoveLA shows [6s 6c] (two pair, Sixs and Threes [6s 6c 3d 3c As])
+SoLoveLA collected 174656.00 from main pot
+*** SUMMARY ***
+Total pot 174656.00
+Board [As Ts 3d 3c 7c]
+Seat 1: schAAdenfreude (big blind) folded on the Pre-Flop
+Seat 2: BimBonik folded on the Pre-Flop and did not bet
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 5: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 6: danya44444 folded on the Pre-Flop and did not bet
+Seat 7: JohnChae0929 (button) showed [8c Qd] and lost with a pair of Threes [3d 3c As Qd Ts]
+Seat 8: SoLoveLA (small blind) showed [6s 6c] and won 174656.00 with two pair, Sixs and Threes [6s 6c 3d 3c As]
+

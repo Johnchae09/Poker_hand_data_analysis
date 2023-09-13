@@ -1,0 +1,45 @@
+Game Hand #1851911072 - Tournament #30459245 - Holdem(No Limit) - Level 14 (1250.00/2500.00)- 2023/09/08 18:37:14 UTC
+Table '35' 8-max Seat #6 is the button
+Seat 1: Jotacef777 (180717.00)
+Seat 2: JohnChae0929 (203342.00)
+Seat 3: pupoCHECK (135242.00)
+Seat 4: twopizza (67522.00)
+Seat 5: SeregaGal88 (72480.00)
+Seat 6: JuampyG97 (83875.00)
+Seat 7: vardja (182343.00)
+Seat 8: jjvargas (57600.00)
+Jotacef777 posts ante 325.00
+JohnChae0929 posts ante 325.00
+pupoCHECK posts ante 325.00
+twopizza posts ante 325.00
+SeregaGal88 posts ante 325.00
+JuampyG97 posts ante 325.00
+vardja posts ante 325.00
+jjvargas posts ante 325.00
+vardja posts the small blind 1250.00
+jjvargas posts the big blind 2500.00
+*** HOLE CARDS ***
+Main pot 2600.00
+Dealt to JohnChae0929 [Qd Ac]
+Jotacef777 raises 5000.00 to 5000.00
+JohnChae0929 raises 15000.00 to 15000.00
+pupoCHECK folds
+twopizza folds
+SeregaGal88 folds
+JuampyG97 folds
+vardja folds
+jjvargas folds
+Jotacef777 folds
+Uncalled bet (10000.00) returned to JohnChae0929
+JohnChae0929 does not show
+*** SUMMARY ***
+Total pot 16350.00
+Seat 1: Jotacef777 folded on the Pre-Flop and did not bet
+Seat 2: JohnChae0929 did not show and won 16350.00
+Seat 3: pupoCHECK folded on the Pre-Flop and did not bet
+Seat 4: twopizza folded on the Pre-Flop and did not bet
+Seat 5: SeregaGal88 folded on the Pre-Flop and did not bet
+Seat 6: JuampyG97 (button) folded on the Pre-Flop
+Seat 7: vardja (small blind) folded on the Pre-Flop
+Seat 8: jjvargas (big blind) folded on the Pre-Flop
+

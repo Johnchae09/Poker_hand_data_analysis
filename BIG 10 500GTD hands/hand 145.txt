@@ -1,0 +1,49 @@
+Game Hand #1852049123 - Tournament #30459245 - Holdem(No Limit) - Level 24 (7000.00/14000.00)- 2023/09/08 20:40:10 UTC
+Table '34' 8-max Seat #5 is the button
+Seat 2: BimBonik (282837.00)
+Seat 3: BlanKpoker (511033.00)
+Seat 4: stankfist (571898.00)
+Seat 6: danya44444 (692815.00)
+Seat 7: JohnChae0929 (1951089.00)
+Seat 8: SoLoveLA (165906.00)
+BimBonik posts ante 1750.00
+BlanKpoker posts ante 1750.00
+stankfist posts ante 1750.00
+danya44444 posts ante 1750.00
+JohnChae0929 posts ante 1750.00
+SoLoveLA posts ante 1750.00
+danya44444 posts the small blind 7000.00
+JohnChae0929 posts the big blind 14000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to JohnChae0929 [Qd Jd]
+SoLoveLA folds
+BimBonik raises 29750.00 to 29750.00
+BlanKpoker folds
+stankfist folds
+danya44444 calls 22750.00
+JohnChae0929 raises 1935339.00 to 1949339.00 and is all-in
+BimBonik calls 251337.00 and is all-in
+danya44444 folds
+Uncalled bet (1668252.00) returned to JohnChae0929
+*** FLOP *** [Th Ac 3h]
+Main pot 602424.00
+*** TURN *** [Th Ac 3h] [5d]
+Main pot 602424.00
+*** RIVER *** [Th Ac 3h 5d] [7h]
+Main pot 602424.00
+*** SHOW DOWN ***
+Main pot 602424.00
+BimBonik shows [Kc Ks] (a pair of Kings [Ks Kc Ac Th 7h])
+JohnChae0929 shows [Qd Jd] (a high card, Ace high [Ac Qd Jd Th 7h])
+BimBonik collected 602424.00 from main pot
+*** SUMMARY ***
+Total pot 602424.00
+Board [Th Ac 3h 5d 7h]
+Seat 2: BimBonik showed [Kc Ks] and won 602424.00 with a pair of Kings [Ks Kc Ac Th 7h]
+Seat 3: BlanKpoker folded on the Pre-Flop and did not bet
+Seat 4: stankfist folded on the Pre-Flop and did not bet
+Seat 6: danya44444 (small blind) folded on the Pre-Flop
+Seat 7: JohnChae0929 (big blind) showed [Qd Jd] and lost with a high card, Ace high [Ac Qd Jd Th 7h]
+Seat 8: SoLoveLA folded on the Pre-Flop and did not bet
+
