@@ -1,0 +1,48 @@
+Game Hand #1852216415 - Tournament #30459245 - Holdem(No Limit) - Level 37 (70000.00/140000.00)- 2023/09/08 23:01:36 UTC
+Table '59' 8-max Seat #4 is the button
+Seat 2: JohnChae0929 (2294237.00)
+Seat 3: almenmx (2708060.00)
+Seat 4: FaelCosta (8150147.00)
+Seat 6: Sorin6 (4856824.00)
+Seat 7: pennywise1818 (3095732.00)
+JohnChae0929 posts ante 17500.00
+almenmx posts ante 17500.00
+FaelCosta posts ante 17500.00
+Sorin6 posts ante 17500.00
+pennywise1818 posts ante 17500.00
+Sorin6 posts the small blind 70000.00
+pennywise1818 posts the big blind 140000.00
+*** HOLE CARDS ***
+Main pot 87500.00
+Dealt to JohnChae0929 [Kd 6c]
+JohnChae0929 folds
+almenmx folds
+FaelCosta raises 350000.00 to 350000.00
+Sorin6 folds
+pennywise1818 calls 210000.00
+*** FLOP *** [9d Th 8s]
+Main pot 857500.00
+pennywise1818 checks
+FaelCosta bets 428750.00
+pennywise1818 raises 857500.00 to 857500.00
+FaelCosta raises 7353897.00 to 7782647.00 and is all-in
+pennywise1818 calls 1870732.00 and is all-in
+Uncalled bet (5054415.00) returned to FaelCosta
+*** TURN *** [9d Th 8s] [4s]
+Main pot 6313964.00
+*** RIVER *** [9d Th 8s 4s] [2c]
+Main pot 6313964.00
+*** SHOW DOWN ***
+Main pot 6313964.00
+FaelCosta shows [7s Ts] (a pair of Tens [Ts Th 9d 8s 7s])
+pennywise1818 shows [Qh Qd] (a pair of Queens [Qh Qd Th 9d 8s])
+pennywise1818 collected 6313964.00 from main pot
+*** SUMMARY ***
+Total pot 6313964.00
+Board [9d Th 8s 4s 2c]
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta (button) showed [7s Ts] and lost with a pair of Tens [Ts Th 9d 8s 7s]
+Seat 6: Sorin6 (small blind) folded on the Pre-Flop
+Seat 7: pennywise1818 (big blind) showed [Qh Qd] and won 6313964.00 with a pair of Queens [Qh Qd Th 9d 8s]
+

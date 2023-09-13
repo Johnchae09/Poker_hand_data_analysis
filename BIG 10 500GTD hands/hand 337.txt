@@ -1,0 +1,43 @@
+Game Hand #1852222488 - Tournament #30459245 - Holdem(No Limit) - Level 37 (70000.00/140000.00)- 2023/09/08 23:06:29 UTC
+Table '59' 8-max Seat #6 is the button
+Seat 2: JohnChae0929 (2276737.00)
+Seat 3: almenmx (2393060.00)
+Seat 4: FaelCosta (5351915.00)
+Seat 6: Sorin6 (5364324.00)
+Seat 7: pennywise1818 (5718964.00)
+JohnChae0929 posts ante 17500.00
+almenmx posts ante 17500.00
+FaelCosta posts ante 17500.00
+Sorin6 posts ante 17500.00
+pennywise1818 posts ante 17500.00
+pennywise1818 posts the small blind 70000.00
+JohnChae0929 posts the big blind 140000.00
+*** HOLE CARDS ***
+Main pot 87500.00
+Dealt to JohnChae0929 [As Qd]
+almenmx raises 2375560.00 to 2375560.00 and is all-in
+FaelCosta folds
+Sorin6 folds
+pennywise1818 folds
+JohnChae0929 calls 2119237.00 and is all-in
+Uncalled bet (116323.00) returned to almenmx
+*** FLOP *** [Kc 3h 2s]
+Main pot 4675974.00
+*** TURN *** [Kc 3h 2s] [3d]
+Main pot 4675974.00
+*** RIVER *** [Kc 3h 2s 3d] [Ac]
+Main pot 4675974.00
+*** SHOW DOWN ***
+Main pot 4675974.00
+JohnChae0929 shows [As Qd] (two pair, Aces and Threes [As Ac 3h 3d Kc])
+almenmx shows [6h 6c] (two pair, Sixs and Threes [6h 6c 3h 3d Ac])
+JohnChae0929 collected 4675974.00 from main pot
+*** SUMMARY ***
+Total pot 4675974.00
+Board [Kc 3h 2s 3d Ac]
+Seat 2: JohnChae0929 (big blind) showed [As Qd] and won 4675974.00 with two pair, Aces and Threes [As Ac 3h 3d Kc]
+Seat 3: almenmx showed [6h 6c] and lost with two pair, Sixs and Threes [6h 6c 3h 3d Ac]
+Seat 4: FaelCosta folded on the Pre-Flop and did not bet
+Seat 6: Sorin6 (button) folded on the Pre-Flop
+Seat 7: pennywise1818 (small blind) folded on the Pre-Flop
+

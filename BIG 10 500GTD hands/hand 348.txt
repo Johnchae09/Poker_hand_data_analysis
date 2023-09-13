@@ -1,0 +1,50 @@
+Game Hand #1852230441 - Tournament #30459245 - Holdem(No Limit) - Level 38 (80000.00/160000.00)- 2023/09/08 23:12:24 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 2: JohnChae0929 (5184474.00)
+Seat 4: FaelCosta (4571915.00)
+Seat 6: Sorin6 (5867647.00)
+Seat 7: pennywise1818 (5480964.00)
+JohnChae0929 posts ante 20000.00
+FaelCosta posts ante 20000.00
+Sorin6 posts ante 20000.00
+pennywise1818 posts ante 20000.00
+FaelCosta posts the small blind 80000.00
+Sorin6 posts the big blind 160000.00
+*** HOLE CARDS ***
+Main pot 80000.00
+Dealt to JohnChae0929 [Ac 8c]
+pennywise1818 folds
+JohnChae0929 raises 320000.00 to 320000.00
+FaelCosta calls 240000.00
+Sorin6 calls 160000.00
+*** FLOP *** [4d Ad 8s]
+Main pot 1040000.00
+FaelCosta checks
+Sorin6 checks
+JohnChae0929 bets 260000.00
+FaelCosta calls 260000.00
+Sorin6 folds
+*** TURN *** [4d Ad 8s] [3c]
+Main pot 1560000.00
+FaelCosta checks
+JohnChae0929 bets 1029600.00
+FaelCosta calls 1029600.00
+*** RIVER *** [4d Ad 8s 3c] [8d]
+Main pot 3619200.00
+FaelCosta checks
+JohnChae0929 bets 3554874.00 and is all-in
+FaelCosta calls 2942315.00 and is all-in
+Uncalled bet (612559.00) returned to JohnChae0929
+*** SHOW DOWN ***
+Main pot 9503830.00
+JohnChae0929 shows [Ac 8c] (a full house, Eights full of Aces [8s 8d 8c Ad Ac])
+FaelCosta shows [9d 7d] (a flush, Ace high [Ad 9d 8d 7d 4d])
+JohnChae0929 collected 9503830.00 from main pot
+*** SUMMARY ***
+Total pot 9503830.00
+Board [4d Ad 8s 3c 8d]
+Seat 2: JohnChae0929 (button) showed [Ac 8c] and won 9503830.00 with a full house, Eights full of Aces [8s 8d 8c Ad Ac]
+Seat 4: FaelCosta (small blind) showed [9d 7d] and lost with a flush, Ace high [Ad 9d 8d 7d 4d]
+Seat 6: Sorin6 (big blind) folded on the Flop
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+

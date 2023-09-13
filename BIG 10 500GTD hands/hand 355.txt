@@ -1,0 +1,29 @@
+Game Hand #1852236528 - Tournament #30459245 - Holdem(No Limit) - Level 38 (80000.00/160000.00)- 2023/09/08 23:16:54 UTC
+Table '59' 8-max Seat #7 is the button
+Seat 2: JohnChae0929 (11216389.00)
+Seat 7: pennywise1818 (9888611.00)
+JohnChae0929 posts ante 20000.00
+pennywise1818 posts ante 20000.00
+pennywise1818 posts the small blind 80000.00
+JohnChae0929 posts the big blind 160000.00
+*** HOLE CARDS ***
+Main pot 40000.00
+Dealt to JohnChae0929 [3d 3c]
+pennywise1818 raises 352000.00 to 432000.00
+JohnChae0929 calls 272000.00
+*** FLOP *** [3h 8c Tc]
+Main pot 904000.00
+JohnChae0929 checks
+pennywise1818 bets 298320.00
+JohnChae0929 raises 960000.00 to 960000.00
+pennywise1818 raises 2363360.00 to 2661680.00
+JohnChae0929 raises 9804389.00 to 10764389.00 and is all-in
+pennywise1818 folds
+Uncalled bet (8102709.00) returned to JohnChae0929
+JohnChae0929 does not show
+*** SUMMARY ***
+Total pot 6227360.00
+Board [3h 8c Tc]
+Seat 2: JohnChae0929 did not show and won 6227360.00
+Seat 7: pennywise1818 (button) folded on the Flop
+

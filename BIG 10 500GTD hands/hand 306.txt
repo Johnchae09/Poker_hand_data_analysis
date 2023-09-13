@@ -1,0 +1,52 @@
+Game Hand #1852199169 - Tournament #30459245 - Holdem(No Limit) - Level 35 (50000.00/100000.00)- 2023/09/08 22:44:38 UTC
+Table '59' 8-max Seat #8 is the button
+Seat 2: JohnChae0929 (6719534.00)
+Seat 3: almenmx (670140.00)
+Seat 4: FaelCosta (6324850.00)
+Seat 6: Sorin6 (1484206.00) is sitting out
+Seat 7: pennywise1818 (4297428.00)
+Seat 8: Napoleon6996 (1608842.00)
+JohnChae0929 posts ante 12500.00
+almenmx posts ante 12500.00
+FaelCosta posts ante 12500.00
+Sorin6 posts ante 12500.00
+pennywise1818 posts ante 12500.00
+Napoleon6996 posts ante 12500.00
+JohnChae0929 posts the small blind 50000.00
+almenmx posts the big blind 100000.00
+*** HOLE CARDS ***
+Main pot 75000.00
+Dealt to JohnChae0929 [Ks Ah]
+FaelCosta raises 250000.00 to 250000.00
+Sorin6 folds
+pennywise1818 folds
+Napoleon6996 folds
+JohnChae0929 raises 700000.00 to 750000.00
+almenmx folds
+FaelCosta calls 500000.00
+*** FLOP *** [5d 5c 6h]
+Main pot 1675000.00
+JohnChae0929 bets 418750.00
+FaelCosta calls 418750.00
+*** TURN *** [5d 5c 6h] [Js]
+Main pot 2512500.00
+JohnChae0929 checks
+FaelCosta bets 628125.00
+JohnChae0929 calls 628125.00
+*** RIVER *** [5d 5c 6h Js] [3h]
+Main pot 3768750.00
+JohnChae0929 checks
+FaelCosta bets 992188.00
+JohnChae0929 folds
+Uncalled bet (992188.00) returned to FaelCosta
+FaelCosta does not show
+*** SUMMARY ***
+Total pot 3768750.00
+Board [5d 5c 6h Js 3h]
+Seat 2: JohnChae0929 (small blind) folded on the River
+Seat 3: almenmx (big blind) folded on the Pre-Flop
+Seat 4: FaelCosta did not show and won 3768750.00
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+Seat 8: Napoleon6996 (button) folded on the Pre-Flop
+

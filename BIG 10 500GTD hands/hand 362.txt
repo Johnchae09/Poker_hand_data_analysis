@@ -1,0 +1,39 @@
+Game Hand #1852240740 - Tournament #30459245 - Holdem(No Limit) - Level 38 (80000.00/160000.00)- 2023/09/08 23:20:02 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 2: JohnChae0929 (12750149.00)
+Seat 7: pennywise1818 (8354851.00)
+JohnChae0929 posts ante 20000.00
+pennywise1818 posts ante 20000.00
+JohnChae0929 posts the small blind 80000.00
+pennywise1818 posts the big blind 160000.00
+*** HOLE CARDS ***
+Main pot 40000.00
+Dealt to JohnChae0929 [9c Jd]
+JohnChae0929 calls 80000.00
+pennywise1818 raises 592000.00 to 752000.00
+JohnChae0929 calls 592000.00
+*** FLOP *** [3c Jh 5d]
+Main pot 1544000.00
+pennywise1818 checks
+JohnChae0929 bets 509520.00
+pennywise1818 calls 509520.00
+*** TURN *** [3c Jh 5d] [2c]
+Main pot 2563040.00
+pennywise1818 checks
+JohnChae0929 bets 1281520.00
+pennywise1818 calls 1281520.00
+*** RIVER *** [3c Jh 5d 2c] [6c]
+Main pot 5126080.00
+pennywise1818 checks
+JohnChae0929 checks
+*** SHOW DOWN ***
+Main pot 5126080.00
+JohnChae0929 shows [9c Jd] (a pair of Jacks [Jh Jd 9c 6c 5d])
+pennywise1818 shows [As 8h] (a high card, Ace high [As Jh 8h 6c 5d])
+JohnChae0929 collected 5126080.00 from main pot
+*** SUMMARY ***
+Total pot 5126080.00
+Board [3c Jh 5d 2c 6c]
+Seat 2: JohnChae0929 (button) showed [9c Jd] and won 5126080.00 with a pair of Jacks [Jh Jd 9c 6c 5d]
+Seat 7: pennywise1818 (big blind) showed [As 8h] and lost with a high card, Ace high [As Jh 8h 6c 5d]
+

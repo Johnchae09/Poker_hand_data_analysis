@@ -1,0 +1,42 @@
+Game Hand #1852215263 - Tournament #30459245 - Holdem(No Limit) - Level 36 (60000.00/120000.00)- 2023/09/08 23:00:13 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 2: JohnChae0929 (2326737.00)
+Seat 3: almenmx (1340280.00)
+Seat 4: FaelCosta (9577927.00)
+Seat 6: Sorin6 (4731824.00)
+Seat 7: pennywise1818 (3128232.00)
+JohnChae0929 posts ante 15000.00
+almenmx posts ante 15000.00
+FaelCosta posts ante 15000.00
+Sorin6 posts ante 15000.00
+pennywise1818 posts ante 15000.00
+almenmx posts the small blind 60000.00
+FaelCosta posts the big blind 120000.00
+*** HOLE CARDS ***
+Main pot 75000.00
+Dealt to JohnChae0929 [7c 2h]
+Sorin6 folds
+pennywise1818 folds
+JohnChae0929 folds
+almenmx raises 1265280.00 to 1325280.00 and is all-in
+FaelCosta calls 1205280.00
+*** FLOP *** [As Js Kd]
+Main pot 2725560.00
+*** TURN *** [As Js Kd] [9c]
+Main pot 2725560.00
+*** RIVER *** [As Js Kd 9c] [Jc]
+Main pot 2725560.00
+*** SHOW DOWN ***
+Main pot 2725560.00
+almenmx shows [Ah Tc] (two pair, Aces and Jacks [As Ah Js Jc Kd])
+FaelCosta shows [Td 9h] (two pair, Jacks and Nines [Js Jc 9h 9c As])
+almenmx collected 2725560.00 from main pot
+*** SUMMARY ***
+Total pot 2725560.00
+Board [As Js Kd 9c Jc]
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 3: almenmx (small blind) showed [Ah Tc] and won 2725560.00 with two pair, Aces and Jacks [As Ah Js Jc Kd]
+Seat 4: FaelCosta (big blind) showed [Td 9h] and lost with two pair, Jacks and Nines [Js Jc 9h 9c As]
+Seat 6: Sorin6 folded on the Pre-Flop and did not bet
+Seat 7: pennywise1818 folded on the Pre-Flop and did not bet
+

@@ -1,0 +1,36 @@
+Game Hand #1852233333 - Tournament #30459245 - Holdem(No Limit) - Level 38 (80000.00/160000.00)- 2023/09/08 23:14:33 UTC
+Table '59' 8-max Seat #2 is the button
+Seat 2: JohnChae0929 (10736389.00)
+Seat 6: Sorin6 (4907647.00)
+Seat 7: pennywise1818 (5460964.00)
+JohnChae0929 posts ante 20000.00
+Sorin6 posts ante 20000.00
+pennywise1818 posts ante 20000.00
+Sorin6 posts the small blind 80000.00
+pennywise1818 posts the big blind 160000.00
+*** HOLE CARDS ***
+Main pot 60000.00
+Dealt to JohnChae0929 [7s 4c]
+JohnChae0929 folds
+Sorin6 calls 80000.00
+pennywise1818 raises 512000.00 to 672000.00
+Sorin6 raises 4727647.00 to 4887647.00 and is all-in
+pennywise1818 calls 4215647.00
+*** FLOP *** [5d Td 8d]
+Main pot 9835294.00
+*** TURN *** [5d Td 8d] [7d]
+Main pot 9835294.00
+*** RIVER *** [5d Td 8d 7d] [4s]
+Main pot 9835294.00
+*** SHOW DOWN ***
+Main pot 9835294.00
+Sorin6 shows [5h 3h] (a pair of Fives [5h 5d Td 8d 7d])
+pennywise1818 shows [9d Th] (a flush, Ten high [Td 9d 8d 7d 5d])
+pennywise1818 collected 9835294.00 from main pot
+*** SUMMARY ***
+Total pot 9835294.00
+Board [5d Td 8d 7d 4s]
+Seat 2: JohnChae0929 (button) folded on the Pre-Flop
+Seat 6: Sorin6 (small blind) showed [5h 3h] and lost with a pair of Fives [5h 5d Td 8d 7d]
+Seat 7: pennywise1818 (big blind) showed [9d Th] and won 9835294.00 with a flush, Ten high [Td 9d 8d 7d 5d]
+

@@ -1,0 +1,47 @@
+Game Hand #1852201908 - Tournament #30459245 - Holdem(No Limit) - Level 36 (60000.00/120000.00)- 2023/09/08 22:46:43 UTC
+Table '59' 8-max Seat #4 is the button
+Seat 2: JohnChae0929 (4880159.00)
+Seat 3: almenmx (1280280.00)
+Seat 4: FaelCosta (8344225.00)
+Seat 6: Sorin6 (1321706.00)
+Seat 7: pennywise1818 (4254928.00)
+Seat 8: Napoleon6996 (1023702.00)
+JohnChae0929 posts ante 15000.00
+almenmx posts ante 15000.00
+FaelCosta posts ante 15000.00
+Sorin6 posts ante 15000.00
+pennywise1818 posts ante 15000.00
+Napoleon6996 posts ante 15000.00
+Sorin6 posts the small blind 60000.00
+pennywise1818 posts the big blind 120000.00
+*** HOLE CARDS ***
+Main pot 90000.00
+Dealt to JohnChae0929 [3c 3h]
+Napoleon6996 folds
+JohnChae0929 raises 240000.00 to 240000.00
+almenmx folds
+FaelCosta folds
+Sorin6 raises 1246706.00 to 1306706.00 and is all-in
+pennywise1818 folds
+JohnChae0929 calls 1066706.00
+*** FLOP *** [9s 8d Kh]
+Main pot 2823412.00
+*** TURN *** [9s 8d Kh] [As]
+Main pot 2823412.00
+*** RIVER *** [9s 8d Kh As] [Td]
+Main pot 2823412.00
+*** SHOW DOWN ***
+Main pot 2823412.00
+JohnChae0929 shows [3c 3h] (a pair of Threes [3h 3c As Kh Td])
+Sorin6 shows [Qc Ks] (a pair of Kings [Ks Kh As Qc Td])
+Sorin6 collected 2823412.00 from main pot
+*** SUMMARY ***
+Total pot 2823412.00
+Board [9s 8d Kh As Td]
+Seat 2: JohnChae0929 showed [3c 3h] and lost with a pair of Threes [3h 3c As Kh Td]
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta (button) folded on the Pre-Flop
+Seat 6: Sorin6 (small blind) showed [Qc Ks] and won 2823412.00 with a pair of Kings [Ks Kh As Qc Td]
+Seat 7: pennywise1818 (big blind) folded on the Pre-Flop
+Seat 8: Napoleon6996 folded on the Pre-Flop and did not bet
+

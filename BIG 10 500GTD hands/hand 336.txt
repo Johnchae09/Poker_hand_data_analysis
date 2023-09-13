@@ -1,0 +1,32 @@
+Game Hand #1852221942 - Tournament #30459245 - Holdem(No Limit) - Level 37 (70000.00/140000.00)- 2023/09/08 23:06:03 UTC
+Table '59' 8-max Seat #4 is the button
+Seat 2: JohnChae0929 (2294237.00)
+Seat 3: almenmx (2410560.00)
+Seat 4: FaelCosta (5369415.00)
+Seat 6: Sorin6 (5154324.00)
+Seat 7: pennywise1818 (5876464.00)
+JohnChae0929 posts ante 17500.00
+almenmx posts ante 17500.00
+FaelCosta posts ante 17500.00
+Sorin6 posts ante 17500.00
+pennywise1818 posts ante 17500.00
+Sorin6 posts the small blind 70000.00
+pennywise1818 posts the big blind 140000.00
+*** HOLE CARDS ***
+Main pot 87500.00
+Dealt to JohnChae0929 [8c 2c]
+JohnChae0929 folds
+almenmx folds
+FaelCosta folds
+Sorin6 raises 280000.00 to 350000.00
+pennywise1818 folds
+Uncalled bet (210000.00) returned to Sorin6
+Sorin6 does not show
+*** SUMMARY ***
+Total pot 367500.00
+Seat 2: JohnChae0929 folded on the Pre-Flop and did not bet
+Seat 3: almenmx folded on the Pre-Flop and did not bet
+Seat 4: FaelCosta (button) folded on the Pre-Flop
+Seat 6: Sorin6 did not show and won 367500.00
+Seat 7: pennywise1818 (big blind) folded on the Pre-Flop
+
